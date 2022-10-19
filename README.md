@@ -4,7 +4,8 @@ Our work designed and constructed a Stratigraphic Knowledge Graph (StraKG) to ex
 In our work, StraKG has two layers: schema layer and instance layer. In the schema layer, we used community-recognized terminology from geological dictionaries. In the instance layer, we used natural language processing techniques to analyze open data (Baidu Encyclopedia) and obtained relationships between strata and entities such as rocks and spatial locations.
 
 The main methods and models used in this paper, as well as some sample data of the results, are described as follows.
-* RESULT-EXAMPLE.csv   /Sample data for stratigraphic examples
-* location.py   /Associated Location Information
-* res copy.csv   /The data obtained from Baidu's encyclopedia
-* main.py   /Graph construction
+* RESULT-EXAMPLE.csv   # Sample data for stratigraphic instance
+* location.py   # Associated Location Information with strata in the Instance Layer
+* res copy.csv   # The data obtained from Baidu's encyclopedia
+* main.py    # StraKG construction
+* location.csv    # Chinese administrative division names and abbreviations
