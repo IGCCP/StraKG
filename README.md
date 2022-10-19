@@ -1,1 +1,1 @@
-# GeoNER
+# StraKG
