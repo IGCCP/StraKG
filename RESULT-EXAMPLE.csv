@@ -1,0 +1,2077 @@
+0,150002,大峪沟(岩)组,Dayugou Fm,Ar3(Ar2?),大峪沟组,辽宁沈阳市、本溪等地,,['liaoning']
+0,150003,阿拉善岩群,Alashan Gr,Ar3-Pt1,达布苏乌拉组、克兰尼都组、祖宗毛道组、阿拉坦乌拉组、迭布斯克组、达布尔干组、德尔和通特组、巴颜乌拉组、克莱尼都组等,宁夏阿拉善,,['ningxia']
+0,150004,波罗斯坦庙组,Boluositanmiao Fm,Ar3-Pt1,,宁夏雅布赖山至包洛项乌拉一带,,['ningxia']
+0,150005,大梨沟组,Daligou Fm,Ar3-Pt1,,山西垣曲,,['shanxi']
+0,150006,疙瘩村变火山岩段,Gedacun Metamorphic Volcanic R,Ar3-Pt1,,山西中条山东部同善地区,,['shanxi']['shandong']
+0,150007,哈乌拉组,Hawula Fm,Ar3-Pt1,,宁夏阿拉善地区,,['ningxia']
+0,150008,篱笆沟变火山岩段,Libagou Metavolcanic Rocks Mem,Ar3-Pt1,,中条山东部同善地区,,['shandong']
+0,150009,孟良窑变火山岩段,Mengliangyao Meta-volcanic Roc,Ar3-Pt1,,山西中条山东部同善地区,,['shanxi']['shandong']
+0,150010,鸣沙山(岩)群,Mingshashan Gr,Ar3-Pt1,,甘肃敦煌,,['gansu']
+0,150011,水银沟变火山岩段,Shuiyingou Metavolcanic Rock M,Ar3-Pt1,,山西中条山,,['shanxi']
+0,150012,水月寺(岩)群,Shuiyuesi Gr,Ar3-Pt1,,湖北兴山一带,,['hubei']
+0,150013,宋家山群,Songjiashan Gr,Ar3-Pt1,,山西垣曲,,['shanxi']
+0,150014,涑水杂岩,Sushui Complex,Ar3-Pt1,横岭关群、“底部杂岩系”等,山西闻喜-夏县一带及陕西韩城一带,,['shanxi']['shaanxi']
+0,150015,咱里(岩)组,Zanli Fm.,Ar3-Pt1,泸定组、仰天窝组、大田组,"四川泸定,康定,攀枝花等地",,['sichuan']
+0,150016,板峪口(岩)组,Banyukou Fm,Ar-Pt,,河北阜平、山西,,['hebei']['shanxi']
+0,150017,店房台(岩)组,Dianfangtai Fm,Ar-Pt,,山西恒山,,['shanxi']
+0,150018,白沙河(岩)组,Baishahe Fm,Ar-Pt1,苦海群,青海东昆仑山,,['qinghai']
+0,150019,后河杂岩,Houhe Complex,Ar-Pt1,咱里组,陕南、川北,,['sichuan']['shaanxi']
+0,150020,化隆(岩)群,Hualong Gr,Ar-Pt1,尕让群,青海化隆-贵德地区,,['qinghai']
+0,150021,金水口(岩)群,Jinshuikou Gr,Ar-Pt1,苦海组,青海,,['qinghai']
+0,140001,奥家滩(岩)组,Aojiatan Fm,Ar2-3,店子上(岩)组,山西静乐,,['shanxi']
+0,140002,长树山(岩)组,Changshushan Fm,Ar2-3,,山西方山县,,['shanxi']
+0,140003,赤坚岭(岩)组,Chijianling Fm,Ar2-3,,山西方山县吕梁山区,,['shanxi']
+0,140004,大漕组,Dacao Fm,Ar2-3,,北京密云县大漕、高岭、半城子、兵马营一带,,['beijing']
+0,140005,贺家湾组,Hejiawan Fm,Ar2-3,,山西,,['shanxi']
+0,140006,密云(岩)群,Miyun Gr,Ar2-3,,北京密云半城子、小漕、穆家峪一带,,['beijing']
+0,140007,裴家庄组,Peijiazhuang Fm,Ar2-3,,晋北,,['shanxi']
+0,140008,苇子峪组,Weiziyu Fm,Ar2-3,,北京密云北庄、苇子峪一带,,['beijing']
+0,140009,阳坪上组,Yangpingshang Fm,Ar2-3,,山西兴县,,['shanxi']
+0,130001,柏枝(岩)组,Baizhiyan Fm,Ar3,阳坡里组、文笔(岩)段、文溪组,山西五台山,,['shanxi']
+0,130002,常窑组,Changyao Fm,Ar3,,河南中部及北部一带,,['henan']
+0,130003,茨沟(岩)组,Cigou Fm,Ar3,茨沟组,辽宁鞍山本溪一带,,['liaoning']
+0,130004,大山沟(岩)组,Dashangou Fm,Ar3,,山东莒南县,,['shandong']
+0,130005,大营子(岩)组,Dayingzi Fm,Ar3,,辽宁建平、阜新等地,,['liaoning']
+0,130006,登封(岩)群,Dengfeng Gr,Ar3,,河南中部、北部地区,,['henan']
+0,130007,东冲河杂岩,Dongchonghe Complex,Ar3,杨波群(杂岩)、黄陵杂岩、龙头坪群、三阳群、坦荡河群等，有的相当其一部分，或部分相当,湖北宜昌,,['hubei']
+0,130008,东水沟(岩)组,Dongshuigou Fm,Ar3,周家沟组、宁家湾组二段,山西吕粱山,,['shanxi']
+0,130009,杜家沟组,Dujiagou Fm,Ar3,,山西方山县吕梁山,,['shanxi']
+0,130010,高繁亚群,Gaofan SubGr,Ar3,上苑亚群,山西五台山区,,['shanxi']
+0,130011,郭家窑组,Guojiayao Fm,Ar3,,河南中部登封、临汝一带,,['henan']
+0,130012,横岭关群,Henglingguan Gr,Ar3,上玉坡（片岩）组,山西中条山,,['shanxi']
+0,130013,红透山(岩)组,Hongtoushan Fm,Ar3,红透山段,辽宁清原，东延入吉林 ,,['liaoning']['jilin']
+0,130014,鸿门(岩)组,Hongmen Fm,Ar3,铁磐段,山西 ,,['shanxi']
+0,130015,后山村组,Houshancun Fm,Ar3,,山西 ,,['shanxi']
+0,130016,滑车岭组,Huacheling Fm,Ar3,雷家湾组,山西,,['shanxi']
+0,130017,集宁(岩)群,Jining Gr,Ar3,,内蒙古集宁、兴和一带,,['Inner Mongolia']
+0,130018,夹皮沟(岩)群,Jiapigou Gr,Ar3,,吉林桦甸、辉南、东丰一带,,['jilin']
+0,130019,建平(岩)群,Jianping Gr,Ar3,凌源群,辽宁朝阳、阜新、北票一带,,['liaoning']
+0,130020,绛县群,Jiangxian Gr,Ar3,,山西中条山区 ,,['shanxi']
+0,130021,胶东(岩)群,Jiaodongyan Gr,Ar3,,山东胶东地区,,['shandong']
+0,130022,金凤岭(岩)组,Jinfengling Fm,Ar3,金凤岭段,"辽宁清原一带,延入吉林境内",,['liaoning']['jilin']
+0,130023,金岗库组,Jingangku Fm,Ar3,,山西五台山区,,['shanxi']
+0,130024,近周营组,Jinzhouying Fm,Ar3,,山西吕梁山区,,['shanxi']
+0,130025,阚集杂岩,Kanji Complex,Ar3,,安徽,,['anhui']
+0,130026,老潭沟组,Laotangou Fm,Ar3,土楼组,山西,,['shanxi']
+0,130027,林家寨(岩)组,Linjiazhai Fm,Ar3,,鲁东,,['shandong']
+0,130028,柳杭组,Liuhang Fm,Ar3,,鲁西,,['shandong']
+0,130029,龙泉关(岩)群,Longquanguan Gr,Ar3,榆林坪(岩)组,河北、山西两省交界地区,,['hebei']['shanxi']
+0,130030,芦嘴头组,Luzuitou Fm,Ar3,,山西五台山区,,['shanxi']
+0,130031,鹿角庙组,Lujiaomiao Fm,Ar3,,山西五台山北坡,,['shanxi']
+0,130032,吕梁群,L¨liang Gr,Ar3,,山西吕梁山北段,,['shanxi']
+0,130033,滦县(岩)群,Luanxian Gr,Ar3,八道河群、卢龙群、司家营群、燕窝铺组、白庙组等,河北东部栾县、卢龙、迁安南部一带,,['hebei']
+0,130034,骆驼峰组,Luotuofeng Fm,Ar3,,山西,,['shanxi']
+0,130035,麻子山组,Mazishan Fm,Ar3,,山西,,['shanxi']
+0,130036,孟家屯(岩)组,Mengjiatun Fm,Ar3,,山东新泰市孟家屯一带,,['shandong']
+0,130037,苗家(岩)组,Miaojia Fm,Ar3,,山东栖霞,,['shandong']
+0,130038,磨河组,Mohe Fm,Ar3,,山西五台山区 ,,['shanxi']
+0,130039,木山岭组,Mushanling Fm,Ar3,,山西五台山区,,['shanxi']
+0,130040,南大贤组,Nandaxian Fm,Ar3,,山西五台山,,['shanxi']
+0,130041,南台亚群,Nantai Sub-Gr,Ar3,,山西五台山 ,,['shanxi']
+0,130042,牛还(岩)组,Niuhuan Fm,Ar3,,山西恒山,,['shanxi']
+0,130043,盘道岭组,Pandaoling Fm,Ar3,,山西五台山,,['shanxi']
+0,130044,跑泉厂组,Paoquanchang Fm,Ar3,,河北、山西交界地区,,['hebei']['shanxi']
+0,130045,平头岭组,Pingtouling Fm,Ar3,南天门石英岩,山西绛县,,['shanxi']
+0,130046,齐山(岩)组,Qishan Fm,Ar3,,胶东地区,,
+0,130047,清原(岩)群,Qingyuan Gr,Ar3,,辽宁清源、抚顺、铁岭一带,,['liaoning']
+0,130048,沙厂组,Shachang Fm,Ar3,,北京密云沙厂、墙子路一带,,['beijing']
+0,130049,山草峪组,Shancaoyu Fm,Ar3,,鲁西地区,,['shandong']
+0,130050,神仙垴组,Shenxiannao Fm,Ar3,,山西五台县,,['shanxi']
+0,130051,石牌河组,Shipaihe Fm,Ar3,,河南中部登封、临汝等地,,['henan']
+0,130052,石梯沟组〔1〕,Shitigou Fm〔1〕,Ar3,,河南中部及北部嵩山地区,,['henan']
+0,130053,寿阳山组,Shouyangshan Fm,Ar3,,山西五台山区,,['shanxi']
+0,130054,竖井沟组,Shujinggou Fm,Ar3,,山西闻喜、侯马一带,,['shanxi']
+0,130055,四集庄组,Sijizhuang Fm,Ar3,蒋村组,山西五台山,,['shanxi']
+0,130056,台怀亚群,Taihuai Sub-Gr,Ar3,台山亚群,山西五台山,,['shanxi']
+0,130057,泰山(岩)群,Taishan Gr.,Ar3,,鲁西泰山,,['shandong']
+0,130058,唐家庄(岩)组,Tangjiazhuang Fm,Ar3,日庄组、富阳(岩)组,山东莱西唐家庄一带,,['shandong']
+0,130059,铜凹组,Tongao Fm,Ar3,,山西绛县一带 (中条山),,['shanxi']
+0,130060,铜矿峪群,Tongkuangyu Gr,Ar3,,山西中条山区,,['shanxi']
+0,130061,瓦子峪(岩)组,Waziyu Fm．,Ar3,,辽宁义县、阜新等地,,['liaoning']
+0,130062,文溪组,Wenxi Fm,Ar3,,山西五台山,,['shanxi']
+0,130063,乌拉山(岩)群,Wulashan Gr.,Ar3,,内蒙古乌拉山、大青山及桌子山一带,,['Inner Mongolia']
+0,130064,五台群,Wutai Gr,Ar3,,山西、五台、河北、太行山一带五台、阜平、赞皇等地,,['hebei']['shanxi']
+0,130065,西井沟组,Xijinggou Fm,Ar3,,山西绛县、垣曲 ,,['shanxi']
+0,130066,小塔子沟(岩)组,Xiaotazigou Fm.,Ar3,,辽宁朝阳、建平一带,,['liaoning']
+0,130067,辛庄组,Xinzhuang Fm,Ar3,,山西繁峙,,['shanxi']
+0,130068,雁翎关组,Yanlingguan Fm,Ar3,,鲁西地区,,['shandong']
+0,130069,樱桃园(岩)组,Yingtaoyuan Fm.,Ar3,,辽宁鞍山樱桃园、胡家庙子、眼前山、大孤山等地,,['liaoning']
+0,130070,榆树湾组,Yushuwan Fm,Ar3,,晋、冀两省交界地区,,['hebei']['shanxi']
+0,130071,圆头山组,Yuantoushan Fm,Ar3,,山西中条山区,,['shanxi']
+0,130072,袁家村组,Yuanjiacun Fm,Ar3,,山西吕梁山区,,['shanxi']
+0,130073,张仙堡组,Zhangxianbao Fm,Ar3,,山西五台山区,,['shanxi']
+0,130074,朱杖子群,Zhuzhangzi Gr,Ar3,,河北青龙河到卢龙、滦县等地,,['hebei']
+0,130075,庄旺组,Zhuangwang Fm,Ar3,楼房底段,山西五台山区,,['shanxi']
+0,130076,遵化(岩)群,Zunhua Gr.,Ar3,桑干杂岩、单塔子(岩)群、八道河群,河北遵化马兰峪、石人沟、和龙湾一带,,['hebei']
+0,120001,大南坪(岩)组,Dananping Fm,Ar2,,山西古县一带,,['shanxi']
+0,120002,黑崖寨(岩)组,Heiyazhai Fm,Ar2,,山西吕梁山区,,['shanxi']
+0,120003,霍丘杂岩,Huoqiu Complex,Ar2,,安徽霍丘 ,,['anhui']
+0,120004,界河口群,Jiehekou Gr,Ar2,,山西吕梁山,,['shanxi']
+0,120005,林家官庄(岩)组,Linjiaguanzhuang Fm,Ar2,,山东沂水林家官庄附近,,['shandong']
+0,120006,龙岗(岩)群,Longgang Gr,Ar2,,吉林通化、延边一带,,['jilin']
+0,120007,漫山组,Manshan Fm,Ar2,,河北、山西,,['hebei']['shanxi']
+0,120008,木厂组,Muchang Fm,Ar2,,河北、山西 ,,['hebei']['shanxi']
+0,120009,迁西(岩)群,Qianxi Gr,Ar2,,河北迁西、迁安、遵化及宽城至青龙一带,,['hebei']
+0,120010,桑干杂岩,Sanggan Complex,Ar2,,冀、晋、内蒙古三省交界阴山地区(阳高、怀安、尚义等地)及晋北桑干河南岸,,['Inner Mongolia']['henan']
+0,120011,石咀亚群,Shizui SubGr,Ar2,,山西五台山,,['shanxi']
+0,120012,石山官庄(岩)组,Shishanguanzhuang Fm,Ar2,,山东沂水县一带,,['shandong']
+0,120013,四道河组,Sidaohe Fm,Ar2,,河北、山西 ,,['hebei']['shanxi']
+0,120014,四道砬子河组,Sidaolazihe Fm,Ar2,,吉林通化一带,,['jilin']
+0,120015,五河杂岩,Wuhe Complex,Ar2,,安徽合肥、定远,,['anhui']
+0,120016,下白窑(岩)组,Xiabaiyao Fm.,Ar2,,内蒙古集宁,,['Inner Mongolia']
+0,120017,小莱河(岩)组,Xiaolaihe Fm.,Ar2,鞍山群石棚子组,辽宁新宾、清原等地,,['liaoning']
+0,120018,小南坪(岩)组,Xiaonanping Fm.,Ar2,,山西,,['shanxi']
+0,120019,杨家店组,Yangjiadan Fm,Ar2,,吉林通化一带,,['jilin']
+0,120020,沂水(岩)群,Yishui Gr.,Ar2,,鲁西沂水附近,,['shandong']
+0,120021,右所堡(岩)组,Yousuobao Fm.,Ar2,,内蒙古、河北,,['hebei']['Inner Mongolia']
+0,120022,榆林坪(岩)组,Yulinping Fm.,Ar2,,山西孟县,,['shanxi']
+0,120023,园子坪组,Yuan ziping Fm,Ar2,店子上组,山西吕梁山西 ,,['shanxi']
+0,110001,曹庄(岩)群,Caozhuang Gr,Ar1,,河北迁安曹庄、杏山一带,,['hebei']
+0,110002,前台(岩)组,Qiantai Fm,Ar1,,辽宁鞍山市陈台沟地区,,['liaoning']
+0,100001,鞍山群,Anshan Gr,Ar,女真系、大孤山系等,辽宁鞍山、本溪地区,,['liaoning']
+0,100002,茨沟组,Cigou Fm,Ar,山城子组,辽宁辽阳弓长岭，本溪大孤山等地,,['liaoning']
+0,100003,阜平(岩)群,Fuping Gr,Ar,,冀、晋太行山北段,,['hebei']['shanxi']
+0,100004,红土坡组〔2〕,Hongtupo Fm〔2〕,Ar,,河北平山一带,,['hebei']
+0,100005,太华杂岩,Taihua Complex,Ar,华山杂岩、大月坪组、板石山组、洞沟组、三关庙组、秦仓沟组、桃峪组等,陕西临潼、蓝田、华阴、潼关以南的华山山脉,,['shaanxi']
+0,QH!!x27 ,西勒图组,Xiletu Fm,Ch-Jx,,内蒙古乌海一带。,,['Inner Mongolia']
+0,QH!!c44 ,查隅组,Chayu(Zayu)Fm,O2,,西藏查隅、海通、芒康等地。,,['tibet']
+0,QH!!b136,棒棰沟组,Bangchuigou Fm,E,同物异名新安村组。,吉林东富一带。,,['jilin']
+0,QH!!n21 ,南村组〔1〕,Nancun Fm〔1〕,T3,,吉林东林县。,,['jilin']
+0,QH!!l112,里山千组,Lishanqian Fm,1,,安徽石台县、六都-横船渡一带。,,['anhui']
+0,QH!!c68 ,长坑水组,Changkenshui Fm,1-2,始兴岩系、杨梅峒组。,广东曲江、始兴及江西南部。,,['jaingxi']['guangdong']
+0,QH!!y157,阴沟群(组),Yingou Gr(Fm),1,同物异名童子坝河群。,甘肃玉门祁连山地区。,,['gansu']
+0,QH!!g35 ,刚木桑组,Gangmusang Fm,2-3,,西藏申扎。,,['tibet']
+0,QH!!j172,九溪组,Jiuxi Fm,2-3,,湘西北五陵山区。,本组包括前人所划分出的“桃花石组”(下部)及舍人湾组(上部)。,['hunan']
+0,QH!!s271,石旺庄组,Shiwangzhuang Fm,Z,,山东。,,['shandong']
+0,QH!!h249,环形山组,Huanxingshan Fm,2,,新疆阿尔金山。,,['xinjiang']
+0,QH!!m129,孟月岭组,Mengyueling Fm,∈1,,海南三亚市红花矿区。,,['hainan']
+0,QH!!z97 ,郑堂子(岩)组,Zhengtangzi Fm.,Z-D,,安徽省金寨县皂河至郑堂子一线。,属佛子岭(岩)群最下部一个(岩)组。,['anhui']
+0,q141,泉东山组,Quandongshan Fm,Jx,,新疆东部。,本组隶属于卡瓦拉克群。,['xinjiang']
+0,c63 ,长春组,Changchun Fm,AnR,,台湾北起宜兰苏澳南部，向南达台东大麻里溪。,原始定义据：王执明，1991，太鲁阁峡谷之变质岩。,['taiwan']
+0,d103,大南澳群,Dananao Gr,AnR,,台湾中央山脉东侧。,,['taiwan']
+0,j170,九曲组,Jiuqu Fm,AnR,,台湾东部变质岩出露地区之北段。,,['taiwan']
+0,k29 ,开南岗(岩)组,Kainangang Fm,AnR,,台湾宜兰苏澳到花莲间的源头山和奇瑶谷等地。,原始定义据：林朝、周瑞敦等，1974。,['taiwan']
+0,t120,天祥组,Tianxiang Fm,AnR,,台湾台北起苏花公路9 km处，南至南横公路。,"原始定义据：王执明,1991,太鲁阁峡谷的变质岩。",['taiwan']
+0,t42 ,太鲁阁层,Tailuge Bed,AnR,,台湾。,,['taiwan']
+0,150003,阿拉善岩群,Alashan Gr,Ar3-Pt1,达布苏乌拉组、克兰尼都组、祖宗毛道组、阿拉坦乌拉组、迭布斯克组、达布尔干组、德尔和通特组、巴颜乌拉组、克莱尼都组等,宁夏阿拉善,,['ningxia']
+0,150004,波罗斯坦庙组,Boluositanmiao Fm,Ar3-Pt1,,宁夏雅布赖山至包洛项乌拉一带,,['ningxia']
+0,150005,大梨沟组,Daligou Fm,Ar3-Pt1,,山西垣曲,,['shanxi']
+0,150006,疙瘩村变火山岩段,Gedacun Metamorphic Volcanic R,Ar3-Pt1,,山西中条山东部同善地区,,['shanxi']['shandong']
+0,150007,哈乌拉组,Hawula Fm,Ar3-Pt1,,宁夏阿拉善地区,,['ningxia']
+0,150008,篱笆沟变火山岩段,Libagou Metavolcanic Rocks Mem,Ar3-Pt1,,中条山东部同善地区,,['shandong']
+0,150009,孟良窑变火山岩段,Mengliangyao Meta-volcanic Roc,Ar3-Pt1,,山西中条山东部同善地区,,['shanxi']['shandong']
+0,150010,鸣沙山(岩)群,Mingshashan Gr,Ar3-Pt1,,甘肃敦煌,,['gansu']
+0,150011,水银沟变火山岩段,Shuiyingou Metavolcanic Rock M,Ar3-Pt1,,山西中条山,,['shanxi']
+0,150012,水月寺(岩)群,Shuiyuesi Gr,Ar3-Pt1,,湖北兴山一带,,['hubei']
+0,150013,宋家山群,Songjiashan Gr,Ar3-Pt1,,山西垣曲,,['shanxi']
+0,150014,涑水杂岩,Sushui Complex,Ar3-Pt1,横岭关群、“底部杂岩系”等,山西闻喜-夏县一带及陕西韩城一带,,['shanxi']['shaanxi']
+0,150015,咱里(岩)组,Zanli Fm.,Ar3-Pt1,泸定组、仰天窝组、大田组,"四川泸定,康定,攀枝花等地",,['sichuan']
+0,150016,板峪口(岩)组,Banyukou Fm,Ar-Pt,,河北阜平、山西,,['hebei']['shanxi']
+0,150017,店房台(岩)组,Dianfangtai Fm,Ar-Pt,,山西恒山,,['shanxi']
+0,150018,白沙河(岩)组,Baishahe Fm,Ar-Pt1,苦海群,青海东昆仑山,,['qinghai']
+0,150019,后河杂岩,Houhe Complex,Ar-Pt1,咱里组,陕南、川北,,['sichuan']['shaanxi']
+0,150020,化隆(岩)群,Hualong Gr,Ar-Pt1,尕让群,青海化隆-贵德地区,,['qinghai']
+0,150021,金水口(岩)群,Jinshuikou Gr,Ar-Pt1,苦海组,青海,,['qinghai']
+0,140001,奥家滩(岩)组,Aojiatan Fm,Ar2-3,店子上(岩)组,山西静乐,,['shanxi']
+0,140002,长树山(岩)组,Changshushan Fm,Ar2-3,,山西方山县,,['shanxi']
+0,140003,赤坚岭(岩)组,Chijianling Fm,Ar2-3,,山西方山县吕梁山区,,['shanxi']
+0,140004,大漕组,Dacao Fm,Ar2-3,,北京密云县大漕、高岭、半城子、兵马营一带,,['beijing']
+0,140005,贺家湾组,Hejiawan Fm,Ar2-3,,山西,,['shanxi']
+0,140006,密云(岩)群,Miyun Gr,Ar2-3,,北京密云半城子、小漕、穆家峪一带,,['beijing']
+0,140007,裴家庄组,Peijiazhuang Fm,Ar2-3,,晋北,,['shanxi']
+0,140008,苇子峪组,Weiziyu Fm,Ar2-3,,北京密云北庄、苇子峪一带,,['beijing']
+0,140009,阳坪上组,Yangpingshang Fm,Ar2-3,,山西兴县,,['shanxi']
+0,130001,柏枝(岩)组,Baizhiyan Fm,Ar3,阳坡里组、文笔(岩)段、文溪组,山西五台山,,['shanxi']
+0,130002,常窑组,Changyao Fm,Ar3,,河南中部及北部一带,,['henan']
+0,130003,茨沟(岩)组,Cigou Fm,Ar3,茨沟组,辽宁鞍山本溪一带,,['liaoning']
+0,130004,大山沟(岩)组,Dashangou Fm,Ar3,,山东莒南县,,['shandong']
+0,130005,大营子(岩)组,Dayingzi Fm,Ar3,,辽宁建平、阜新等地,,['liaoning']
+0,130006,登封(岩)群,Dengfeng Gr,Ar3,,河南中部、北部地区,,['henan']
+0,130007,东冲河杂岩,Dongchonghe Complex,Ar3,杨波群(杂岩)、黄陵杂岩、龙头坪群、三阳群、坦荡河群等，有的相当其一部分，或部分相当,湖北宜昌,,['hubei']
+0,130008,东水沟(岩)组,Dongshuigou Fm,Ar3,周家沟组、宁家湾组二段,山西吕粱山,,['shanxi']
+0,130009,杜家沟组,Dujiagou Fm,Ar3,,山西方山县吕梁山,,['shanxi']
+0,130010,高繁亚群,Gaofan SubGr,Ar3,上苑亚群,山西五台山区,,['shanxi']
+0,130011,郭家窑组,Guojiayao Fm,Ar3,,河南中部登封、临汝一带,,['henan']
+0,130012,横岭关群,Henglingguan Gr,Ar3,上玉坡（片岩）组,山西中条山,,['shanxi']
+0,130013,红透山(岩)组,Hongtoushan Fm,Ar3,红透山段,辽宁清原，东延入吉林 ,,['liaoning']['jilin']
+0,130014,鸿门(岩)组,Hongmen Fm,Ar3,铁磐段,山西 ,,['shanxi']
+0,130015,后山村组,Houshancun Fm,Ar3,,山西 ,,['shanxi']
+0,130016,滑车岭组,Huacheling Fm,Ar3,雷家湾组,山西,,['shanxi']
+0,130017,集宁(岩)群,Jining Gr,Ar3,,内蒙古集宁、兴和一带,,['Inner Mongolia']
+0,130018,夹皮沟(岩)群,Jiapigou Gr,Ar3,,吉林桦甸、辉南、东丰一带,,['jilin']
+0,130019,建平(岩)群,Jianping Gr,Ar3,凌源群,辽宁朝阳、阜新、北票一带,,['liaoning']
+0,130020,绛县群,Jiangxian Gr,Ar3,,山西中条山区 ,,['shanxi']
+0,130021,胶东(岩)群,Jiaodongyan Gr,Ar3,,山东胶东地区,,['shandong']
+0,130022,金凤岭(岩)组,Jinfengling Fm,Ar3,金凤岭段,"辽宁清原一带,延入吉林境内",,['liaoning']['jilin']
+0,130023,金岗库组,Jingangku Fm,Ar3,,山西五台山区,,['shanxi']
+0,130024,近周营组,Jinzhouying Fm,Ar3,,山西吕梁山区,,['shanxi']
+0,130025,阚集杂岩,Kanji Complex,Ar3,,安徽,,['anhui']
+0,130026,老潭沟组,Laotangou Fm,Ar3,土楼组,山西,,['shanxi']
+0,130027,林家寨(岩)组,Linjiazhai Fm,Ar3,,鲁东,,['shandong']
+0,130028,柳杭组,Liuhang Fm,Ar3,,鲁西,,['shandong']
+0,130029,龙泉关(岩)群,Longquanguan Gr,Ar3,榆林坪(岩)组,河北、山西两省交界地区,,['hebei']['shanxi']
+0,130030,芦嘴头组,Luzuitou Fm,Ar3,,山西五台山区,,['shanxi']
+0,130031,鹿角庙组,Lujiaomiao Fm,Ar3,,山西五台山北坡,,['shanxi']
+0,130032,吕梁群,L¨liang Gr,Ar3,,山西吕梁山北段,,['shanxi']
+0,130033,滦县(岩)群,Luanxian Gr,Ar3,八道河群、卢龙群、司家营群、燕窝铺组、白庙组等,河北东部栾县、卢龙、迁安南部一带,,['hebei']
+0,130034,骆驼峰组,Luotuofeng Fm,Ar3,,山西,,['shanxi']
+0,130035,麻子山组,Mazishan Fm,Ar3,,山西,,['shanxi']
+0,130036,孟家屯(岩)组,Mengjiatun Fm,Ar3,,山东新泰市孟家屯一带,,['shandong']
+0,130037,苗家(岩)组,Miaojia Fm,Ar3,,山东栖霞,,['shandong']
+0,130038,磨河组,Mohe Fm,Ar3,,山西五台山区 ,,['shanxi']
+0,130039,木山岭组,Mushanling Fm,Ar3,,山西五台山区,,['shanxi']
+0,130040,南大贤组,Nandaxian Fm,Ar3,,山西五台山,,['shanxi']
+0,130041,南台亚群,Nantai Sub-Gr,Ar3,,山西五台山 ,,['shanxi']
+0,130042,牛还(岩)组,Niuhuan Fm,Ar3,,山西恒山,,['shanxi']
+0,130043,盘道岭组,Pandaoling Fm,Ar3,,山西五台山,,['shanxi']
+0,130044,跑泉厂组,Paoquanchang Fm,Ar3,,河北、山西交界地区,,['hebei']['shanxi']
+0,130045,平头岭组,Pingtouling Fm,Ar3,南天门石英岩,山西绛县,,['shanxi']
+0,130046,齐山(岩)组,Qishan Fm,Ar3,,胶东地区,,
+0,130047,清原(岩)群,Qingyuan Gr,Ar3,,辽宁清源、抚顺、铁岭一带,,['liaoning']
+0,130048,沙厂组,Shachang Fm,Ar3,,北京密云沙厂、墙子路一带,,['beijing']
+0,130049,山草峪组,Shancaoyu Fm,Ar3,,鲁西地区,,['shandong']
+0,130050,神仙垴组,Shenxiannao Fm,Ar3,,山西五台县,,['shanxi']
+0,130051,石牌河组,Shipaihe Fm,Ar3,,河南中部登封、临汝等地,,['henan']
+0,130052,石梯沟组〔1〕,Shitigou Fm〔1〕,Ar3,,河南中部及北部嵩山地区,,['henan']
+0,130053,寿阳山组,Shouyangshan Fm,Ar3,,山西五台山区,,['shanxi']
+0,130054,竖井沟组,Shujinggou Fm,Ar3,,山西闻喜、侯马一带,,['shanxi']
+0,130055,四集庄组,Sijizhuang Fm,Ar3,蒋村组,山西五台山,,['shanxi']
+0,130056,台怀亚群,Taihuai Sub-Gr,Ar3,台山亚群,山西五台山,,['shanxi']
+0,130057,泰山(岩)群,Taishan Gr.,Ar3,,鲁西泰山,,['shandong']
+0,130058,唐家庄(岩)组,Tangjiazhuang Fm,Ar3,日庄组、富阳(岩)组,山东莱西唐家庄一带,,['shandong']
+0,130059,铜凹组,Tongao Fm,Ar3,,山西绛县一带 (中条山),,['shanxi']
+0,130060,铜矿峪群,Tongkuangyu Gr,Ar3,,山西中条山区,,['shanxi']
+0,130061,瓦子峪(岩)组,Waziyu Fm．,Ar3,,辽宁义县、阜新等地,,['liaoning']
+0,130062,文溪组,Wenxi Fm,Ar3,,山西五台山,,['shanxi']
+0,130063,乌拉山(岩)群,Wulashan Gr.,Ar3,,内蒙古乌拉山、大青山及桌子山一带,,['Inner Mongolia']
+0,130064,五台群,Wutai Gr,Ar3,,山西、五台、河北、太行山一带五台、阜平、赞皇等地,,['hebei']['shanxi']
+0,130065,西井沟组,Xijinggou Fm,Ar3,,山西绛县、垣曲 ,,['shanxi']
+0,130066,小塔子沟(岩)组,Xiaotazigou Fm.,Ar3,,辽宁朝阳、建平一带,,['liaoning']
+0,130067,辛庄组,Xinzhuang Fm,Ar3,,山西繁峙,,['shanxi']
+0,130068,雁翎关组,Yanlingguan Fm,Ar3,,鲁西地区,,['shandong']
+0,130069,樱桃园(岩)组,Yingtaoyuan Fm.,Ar3,,辽宁鞍山樱桃园、胡家庙子、眼前山、大孤山等地,,['liaoning']
+0,130070,榆树湾组,Yushuwan Fm,Ar3,,晋、冀两省交界地区,,['hebei']['shanxi']
+0,130071,圆头山组,Yuantoushan Fm,Ar3,,山西中条山区,,['shanxi']
+0,130072,袁家村组,Yuanjiacun Fm,Ar3,,山西吕梁山区,,['shanxi']
+0,130073,张仙堡组,Zhangxianbao Fm,Ar3,,山西五台山区,,['shanxi']
+0,130074,朱杖子群,Zhuzhangzi Gr,Ar3,,河北青龙河到卢龙、滦县等地,,['hebei']
+0,130075,庄旺组,Zhuangwang Fm,Ar3,楼房底段,山西五台山区,,['shanxi']
+0,130076,遵化(岩)群,Zunhua Gr.,Ar3,桑干杂岩、单塔子(岩)群、八道河群,河北遵化马兰峪、石人沟、和龙湾一带,,['hebei']
+0,120001,大南坪(岩)组,Dananping Fm,Ar2,,山西古县一带,,['shanxi']
+0,120002,黑崖寨(岩)组,Heiyazhai Fm,Ar2,,山西吕梁山区,,['shanxi']
+0,120003,霍丘杂岩,Huoqiu Complex,Ar2,,安徽霍丘 ,,['anhui']
+0,120004,界河口群,Jiehekou Gr,Ar2,,山西吕梁山,,['shanxi']
+0,120005,林家官庄(岩)组,Linjiaguanzhuang Fm,Ar2,,山东沂水林家官庄附近,,['shandong']
+0,120006,龙岗(岩)群,Longgang Gr,Ar2,,吉林通化、延边一带,,['jilin']
+0,120007,漫山组,Manshan Fm,Ar2,,河北、山西,,['hebei']['shanxi']
+0,120008,木厂组,Muchang Fm,Ar2,,河北、山西 ,,['hebei']['shanxi']
+0,120009,迁西(岩)群,Qianxi Gr,Ar2,,河北迁西、迁安、遵化及宽城至青龙一带,,['hebei']
+0,120010,桑干杂岩,Sanggan Complex,Ar2,,冀、晋、内蒙古三省交界阴山地区(阳高、怀安、尚义等地)及晋北桑干河南岸,,['Inner Mongolia']['henan']
+0,120011,石咀亚群,Shizui SubGr,Ar2,,山西五台山,,['shanxi']
+0,120012,石山官庄(岩)组,Shishanguanzhuang Fm,Ar2,,山东沂水县一带,,['shandong']
+0,120013,四道河组,Sidaohe Fm,Ar2,,河北、山西 ,,['hebei']['shanxi']
+0,120014,四道砬子河组,Sidaolazihe Fm,Ar2,,吉林通化一带,,['jilin']
+0,120015,五河杂岩,Wuhe Complex,Ar2,,安徽合肥、定远,,['anhui']
+0,120016,下白窑(岩)组,Xiabaiyao Fm.,Ar2,,内蒙古集宁,,['Inner Mongolia']
+0,120017,小莱河(岩)组,Xiaolaihe Fm.,Ar2,鞍山群石棚子组,辽宁新宾、清原等地,,['liaoning']
+0,120018,小南坪(岩)组,Xiaonanping Fm.,Ar2,,山西,,['shanxi']
+0,120019,杨家店组,Yangjiadan Fm,Ar2,,吉林通化一带,,['jilin']
+0,120020,沂水(岩)群,Yishui Gr.,Ar2,,鲁西沂水附近,,['shandong']
+0,120021,右所堡(岩)组,Yousuobao Fm.,Ar2,,内蒙古、河北,,['hebei']['Inner Mongolia']
+0,120022,榆林坪(岩)组,Yulinping Fm.,Ar2,,山西孟县,,['shanxi']
+0,120023,园子坪组,Yuan ziping Fm,Ar2,店子上组,山西吕梁山西 ,,['shanxi']
+0,110001,曹庄(岩)群,Caozhuang Gr,Ar1,,河北迁安曹庄、杏山一带,,['hebei']
+0,110002,前台(岩)组,Qiantai Fm,Ar1,,辽宁鞍山市陈台沟地区,,['liaoning']
+0,100001,鞍山群,Anshan Gr,Ar,女真系、大孤山系等,辽宁鞍山、本溪地区,,['liaoning']
+0,100002,茨沟组,Cigou Fm,Ar,山城子组,辽宁辽阳弓长岭，本溪大孤山等地,,['liaoning']
+0,100003,阜平(岩)群,Fuping Gr,Ar,,冀、晋太行山北段,,['hebei']['shanxi']
+0,100004,红土坡组〔2〕,Hongtupo Fm〔2〕,Ar,,河北平山一带,,['hebei']
+0,100005,太华杂岩,Taihua Complex,Ar,华山杂岩、大月坪组、板石山组、洞沟组、三关庙组、秦仓沟组、桃峪组等,陕西临潼、蓝田、华阴、潼关以南的华山山脉,,['shaanxi']
+0,QH!!x27 ,西勒图组,Xiletu Fm,Ch-Jx,,内蒙古乌海一带。,,['Inner Mongolia']
+0,QH!!c44 ,查隅组,Chayu(Zayu)Fm,O2,,西藏查隅、海通、芒康等地。,,['tibet']
+0,QH!!b136,棒棰沟组,Bangchuigou Fm,E,同物异名新安村组。,吉林东富一带。,,['jilin']
+0,QH!!n21 ,南村组〔1〕,Nancun Fm〔1〕,T3,,吉林东林县。,,['jilin']
+0,QH!!l112,里山千组,Lishanqian Fm,1,,安徽石台县、六都-横船渡一带。,,['anhui']
+0,QH!!c68 ,长坑水组,Changkenshui Fm,1-2,始兴岩系、杨梅峒组。,广东曲江、始兴及江西南部。,,['jaingxi']['guangdong']
+0,QH!!y157,阴沟群(组),Yingou Gr(Fm),1,同物异名童子坝河群。,甘肃玉门祁连山地区。,,['gansu']
+0,QH!!g35 ,刚木桑组,Gangmusang Fm,2-3,,西藏申扎。,,['tibet']
+0,QH!!j172,九溪组,Jiuxi Fm,2-3,,湘西北五陵山区。,本组包括前人所划分出的“桃花石组”(下部)及舍人湾组(上部)。,['hunan']
+0,QH!!s271,石旺庄组,Shiwangzhuang Fm,Z,,山东。,,['shandong']
+0,QH!!h249,环形山组,Huanxingshan Fm,2,,新疆阿尔金山。,,['xinjiang']
+0,QH!!m129,孟月岭组,Mengyueling Fm,∈1,,海南三亚市红花矿区。,,['hainan']
+0,QH!!z97 ,郑堂子(岩)组,Zhengtangzi Fm.,Z-D,,安徽省金寨县皂河至郑堂子一线。,属佛子岭(岩)群最下部一个(岩)组。,['anhui']
+0,q141,泉东山组,Quandongshan Fm,Jx,,新疆东部。,本组隶属于卡瓦拉克群。,['xinjiang']
+0,c63 ,长春组,Changchun Fm,AnR,,台湾北起宜兰苏澳南部，向南达台东大麻里溪。,原始定义据：王执明，1991，太鲁阁峡谷之变质岩。,['taiwan']
+0,d103,大南澳群,Dananao Gr,AnR,,台湾中央山脉东侧。,,['taiwan']
+0,j170,九曲组,Jiuqu Fm,AnR,,台湾东部变质岩出露地区之北段。,,['taiwan']
+0,k29 ,开南岗(岩)组,Kainangang Fm,AnR,,台湾宜兰苏澳到花莲间的源头山和奇瑶谷等地。,原始定义据：林朝、周瑞敦等，1974。,['taiwan']
+0,t120,天祥组,Tianxiang Fm,AnR,,台湾台北起苏花公路9 km处，南至南横公路。,"原始定义据：王执明,1991,太鲁阁峡谷的变质岩。",['taiwan']
+0,t42 ,太鲁阁层,Tailuge Bed,AnR,,台湾。,,['taiwan']
+0,249002,肉切村群,Rouqiecun Gr,Z-∈,齐吾共(贡)巴群、兵贡巴群,西藏聂拉木县一带,,['tibet']
+0,249003,中谊村段,Zhongyicun Mem,Z-∈,,云南东部,该段属灯影组近顶部的一部分,['yunnan']
+0,249004,哈拉斯群,Halasi Gr,Z-∈1,哈巴河群、卡宾岩系,新疆阿尔泰山,本组原为地质部十三大队罗发祚等，1957年所定哈巴河岩系的一部分，后经厘定该岩系一分为二，一部分仍称哈巴河群，时代为奥陶系,['xinjiang']
+0,249005,邱家河组,Qiujiahe Fm,Z-∈1,,四川广元-平武-北川-茂汶一带,,['sichuan']
+0,249006,查马贡群(茶马山群),Chamagong Gr(Chamashan Gr),Z-∈1-2,德格群、小坝冲群(上部),四川查马贡-布遮一线,命名时称茶马山群，查无此地名经四川区调队核实为查马贡，故更正为查马贡群,['sichuan']
+0,249007,公养河群,Gongyanghe Gr,Z-∈2,,云南，南延入缅甸,,['yunnan']
+0,249008,浪木桥组,Langmuqiao Fm,Z1-C1,,云南蒙自屏边一带,,['yunnan']
+0,249009,灯影组,Dengying Fm,Z2-∈1,周村灰岩(赣)；盐井坝白云质石灰岩、孔明寨石灰岩、煤炭山组(苏)、洪椿坪组、盐井河层(川)；白云岩段、塘坞里段、板桥山段(浙)；老君山组、范坪道组(豫)、白兆山组谭堡段、鹞子河段(鄂)；东龙潭组(滇),鄂，滇，黔，川，湘，豫，赣，皖，浙，苏、陕等省(区),浙江本组与上覆菏塘组平行不整合接触，或与皮园村组整合接触，四川本组与下伏观音崖组整合接触，与上覆筇竹寺组平行不整合接触，湖北与上覆牛蹄塘组为平行不整合接触,['jiangsu']['zhejaing']['anhui']['jaingxi']['henan']['hubei']['hunan']['sichuan']['guizhou']['yunnan']['shaanxi']
+0,249010,鲁家坪组,Lujiaping Fm,Z2-∈1,八字坪组等,陕、鄂、川,,['hubei']['sichuan']['shaanxi']
+0,249011,外管坑组,Waiguankeng Fm,Z2-∈1,,江西武夷山一带,,['jaingxi']
+0,249012,竹山(岩)群(组),Zhushan Gr.(Fm),Z2-S,,鄂、陕相邻地区的光秃山和白河县一带,有人认为本(岩)群有可能相当于陡山沱组,['hubei']['shaanxi']
+0,249013,八道尖(岩)组,Badaojian Fm,Z-D,,安徽金寨化岭、冷冲一带,隶属于佛子岭(岩)群,['anhui']
+0,249014,黄龙岗(岩)组,Huanglonggang Fm,Z-D,,安徽,隶属于佛子岭(岩)群,['anhui']
+0,249015,潘家岭(岩)组,Panjialing Fm,Z-D,,皖北大别山、金寨县至霍山县潘家岭,隶属于佛子岭(岩)群,['anhui']
+0,249016,仙人冲(岩)组,Xianrenchong Fm.,Z-D,杜岭(岩)组,安徽大别山,隶属于佛子岭(岩)群,['anhui']
+0,249017,祥云寨(岩)组,Xiangyunzhai Fm.,Z-D,,安徽霍山县,隶属于佛子岭(岩)群,['anhui']
+0,249018,郑堂子(岩)组,Zhengtangzi Fm.,Z-D,,安徽省金寨县皂河至郑堂子一线,属佛子岭(岩)群最下部一个(岩)组,['anhui']
+0,249019,诸佛庵(岩)组,Zhufoan Fm.,Z-D,,安徽金寨县油店向东南至霍山佛子岭一带,隶属于佛子岭(岩)群,['anhui']
+0,249020,佛子岭(岩)群,Foziling Gr,Z-D(Pt?),,皖、豫大别山区,河南称为佛子岭群，近年(岩 )组划分又有所改变(安徽),['anhui']['henan']
+0,249021,北祁连山蛇绿岩群,Beiqilianshan Ophilite Gr,Z-O2,,青海、甘肃北祁连山中、西段,,['gansu']['qinghai']
+0,249022,潘金(岩)组,Panjin Fm,Z-Pz1,,西藏门隅之低喜马拉雅地区,与米里群上部相当,['tibet']
+0,243001,坝里组,Bali Fm,Z1-2,,赣中南、粤北等地区,隶属乐昌峡群下部,['jaingxi']['guangdong']
+0,243002,龙北溪组,Longbeixi Fm,Z1-2,建瓯群中下部,福建松溪-南平,,['fujian']
+0,242001,埃歧岭组,Aiqiling Fm,Z2,,湖南,,['hunan']
+0,242002,八子坪组,Baziping Fm,Z2,,四川城口一带,,['sichuan']
+0,242003,板桥山组,Banqiaoshan Fm,Z2,塘坞里组,浙江开化、临安一带,,['zhejaing']
+0,242004,草大坂组,Caodaban Fm,Z2,,甘肃龙首山东部及内蒙古西部北山地区,,['Inner Mongolia']['shandong']['gansu']
+0,242005,朝阳组,Chaoyang Fm,Z2,,江西上饶、玉山、广丰一带,有人认为，层位相当陡山沱组，与黑龙江侏罗纪的朝阳组为同名异物，应改本名称,['jaingxi']
+0,242006,稻香组,Daoxiang Fm,Z2,溪口组,福建政和、建瓯一带,,['fujian']
+0,242007,丁腰河组,Dingyaohe Fm,Z2,,湘东南,本组原为天子地组顶部,['hunan']
+0,242008,东坡组,Dongpo Fm,Z2,时家沟组、杨寺庄组,河南灵宝-临汝-确山一带及陕西洛南,本组原为罗圈组顶部,['henan']['shaanxi']
+0,242009,陡山沱组,Doushantuo Fm,Z2,夫子垭石灰岩(鄂)、潭平页岩(赣)、铜岭桥组(浙)、黄墟组(苏、皖)、洋水组、松林组(黔)、六井段、观音崖组、鲁拿寺组、王家湾组、纳章组(滇)、斗底山群(豫)等,赣，豫，湘，川，黔，滇，鄂，桂，陕，苏，闽,在四川，本组与下伏明月组为整合接触，福建原称的陡山沱组岩性层位并非陡山沱组(为南岩组),['jiangsu']['fujian']['jaingxi']['henan']['hubei']['hunan']['guangxi']['sichuan']['guizhou']['yunnan']['shaanxi']
+0,242010,观音崖组,Guanyinya Fm,Z2,喇叭岗组、干河段、黄洞子沟组、鲁拿寺组,川、滇,,['sichuan']['yunnan']
+0,242011,汉格尔乔克组,Hangeerqiaoke Fm,Z2,,新疆库鲁克塔格,,['xinjiang']
+0,242012,黄墟组,Huangxu Fm,Z2,陡山沱组,苏、皖,,['jiangsu']['anhui']
+0,242013,霍河组,Huohe Fm,Z2,,湖北,,['hubei']
+0,242014,江西沟组,Jiangxigou Fm,Z2,,湖北,"有人认为，本组与陡山沱组相当,霍河组即灯影组,不宜再用此二名称",['hubei']
+0,242015,金家洞组,Jinjiadong Fm,Z2,,湘中、湘西及湘北地区,,['hunan']
+0,242016,喀英迪组,Kayingdi Fm,Z2,,新疆精河以南霍城以北科古尔琴山,本组隶属于凯拉克提群,['xinjiang']
+0,242017,克孜苏胡木组,Kezisuhumu Fm,Z2,,新疆叶城、西昆仑山,,['xinjiang']
+0,242018,库尔卡克组,Kuerkake Fm,Z2,木孜塔克群,新疆叶城、西昆仑山北坡,,['xinjiang']
+0,242019,蓝田组,Lantian Fm,Z2,陡山沱组,皖、浙、赣,,['zhejaing']['anhui']['jaingxi']
+0,242020,老堡组,Laobao Fm,Z2,车田矽质层、杨家堡组、留茶坡组,粤、黔、湘、鄂,,['hubei']['hunan']['guangdong']['guizhou']
+0,242021,老虎塘组,Laohutang Fm,Z2,泗公坑组,赣中南、粤中地区,隶属乐昌峡群,['jaingxi']['guangdong']
+0,242022,乐昌峡群,Lechangxia Gr,Z2,,广东、江西,,['jaingxi']['guangdong']
+0,242023,临江组,Linjiang Fm,Z2,,甘肃石坊至琵琶寺一带,,['gansu']
+0,242024,留茶坡组,Liuchapo Fm,Z2,老堡组,湖南、湖北、广西,,['hubei']['hunan']['guangxi']
+0,242025,龙头组,Longtou Fm,Z2,,闽西北,,['fujian']
+0,242026,木座组,Muzuo Fm,Z2,道角沟组、月亮湾组、俄石坎组,四川平武,"本组U-Pb同位素年龄为808～886Ma,748～777Ma",['sichuan']
+0,242027,南岩组,Nanyan Fm,Z2,,闽西南,,['fujian']
+0,242028,皮园村组,Piyuancun Fm,Z2,灯影组、上长源灰岩、银塔硅化层、修宁系、灯影硅质岩段,苏、赣、皖,,['jiangsu']['anhui']['jaingxi']
+0,242029,奇格布拉克组,Qigebulake Fm,Z2,小铁列克组,新疆阿克苏-乌什一带,本组原为肖尔布拉克组下部,['xinjiang']
+0,242030,青沟子组,Qinggouzi Fm,Z2,馒头组、碱厂组,吉林浑江,,['jilin']
+0,242031,三溪寨组,Sanxizhai Fm,Z2,,闽西北,,['fujian']
+0,242032,尚家店组,Shangjiadian Fm,Z2,印渚埠组、陡山沱组,湖北通山、崇阳一带,本组应归于陡山沱组,['hubei']
+0,242033,石门坎组,Shimenkan Fm,Z2,,四川宝兴,隶属于盐井群,['sichuan']
+0,242034,水泉组,Shuiquan Fm,Z2,,新疆库鲁克塔格,,['xinjiang']
+0,242035,苏盖特布拉克组,Sugaiteobulake Fm,Z2,,新疆塔里木西北缘,西尼村1952年曾命名为苏盖特层，包括本组及上、下部其他组地层1957年张振华、高振家等将其中红砂岩限定称苏盖特布拉克岩系(组),['xinjiang']
+0,242036,塔里萨依组,Talisayi Fm,Z2,凯拉克提群上亚群,新疆西天山果子沟,,['xinjiang']
+0,242037,文常山群,Wen changshan Gr,Z2,,宁夏海源,,['ningxia']
+0,242038,西峰寺组,Xifengsi Fm,Z2,西尖山组,浙江常山、诸暨等地,一些研究者将该组上、下两部分分归于陡山沱组及灯影组，邢裕盛、王自强等(1996)认为应单独分出，其层位与陡山沱组、灯影组相当,['zhejaing']
+0,242039,下龙组,Xialong Fm,Z2,,广西、湖南、广东等省区,,['hunan']['guangdong']['guangxi']
+0,242040,雅斯德组,Yaside Fm,Z2,,四川宝兴县雅斯德一带,隶属于盐井群,['sichuan']
+0,242041,盐井群,Yanjing Gr,Z2,,四川宝兴盐井、康定金汤海螺石,,['sichuan']
+0,242042,育肯沟组,Yukengou Fm,Z2,罗钱岩系、克根库都克组(岩系),新疆东天山地区,,['xinjiang']
+0,242043,扎摩克提组,Zhamoketi Fm,Z2,,新疆库鲁克塔格地区,,['xinjiang']
+0,241001,阿勒通沟组,Aletonggou Fm,Z1,,新疆库鲁克塔格,,['xinjiang']
+0,241002,宝石组,Baoshi Fm,Z1,,福建邵武、泰宁一带,,['fujian']
+0,241003,贝义西组,Beiyixi Fm,Z1,,新疆东天山库鲁克塔格,,['xinjiang']
+0,241004,长安组,Changan Fm,Z1,合水组、长滩组,桂北及湘中、湘西、黔东、粤北等地,王曰伦(1936年)称为长安砂岩，广西区调队(1966年)改称长安组；在广东本组整合于鹰阳关组之下,['hunan']['guangdong']['guangxi']['guizhou']
+0,241005,澄江组,Chengjiang Fm,Z1,,滇、川、黔等地,本组原称澄江砂岩或“澄江长石粗砂岩”,['sichuan']['guizhou']['yunnan']
+0,241006,大绀山组,Daganshan Fm,Z1,,广东罗定-云浮一带,,['guangdong']
+0,241007,大沙江组,Dashajiang Fm,Z1,,江西武功山区及萍乡一带,隶属于杨家桥群上部,['jaingxi']
+0,241008,大塘坡组,Datangpo Fm,Z1,民乐组、鹤岭组、湘锰组、椿树组,黔东北、黔东、黔东南及川、湘、鄂等省,,['hubei']['hunan']['sichuan']['guizhou']
+0,241009,代安河组,Daianhe Fm,Z1,,四川城口一带,本组正层型在陕西已停用,['sichuan']
+0,241010,丁屋岭组,Dingwuling Fm,Z1,,闽西南及粤,,['fujian']['guangdong']
+0,241011,东岩组,Dongyan Fm,Z1,,闽北,,['fujian']
+0,241012,硐门组,Dongmen Fm,Z1,,江西修水一带,,['jaingxi']
+0,241013,富禄组,Fulu Fm,Z1,观音田组、渫水河组,广西桂北九万大山至越城岭一 带(桂、湘、黔),,['guangxi']
+0,241014,古城组,Gucheng Fm,Z1,东山峰组、坪阡组、溶溪冰碛岩组,鄂、川、湘,,['hubei']['hunan']['sichuan']
+0,241015,古家组,Gujia Fm,Z1,松山砾岩,江西武功山及邻近地区,,['jaingxi']
+0,241016,关家沟组,Guanjiagou Fm,Z1,黄路坝组,甘肃、陕西,,['shaanxi']['gansu']
+0,241017,洪江组,Hongjiang Fm,Z1,,湘、黔,,['hunan']['guizhou']
+0,241018,洪山组,Hongshan Fm,Z1,沙畈组、尚源群,江西北武夷山地区,,['jaingxi']
+0,241019,黄连组,Huanglian Fm,Z1,,闽、粤,,['fujian']['guangdong']
+0,241020,黄潭组,Huangtan Fm,Z1,丁屋岭组、吴墩组,闽西北,,['fujian']
+0,241021,活道组,Huodao Fm,Z1,宿尾岭群,广东郁南、高要一带,,['guangdong']
+0,241022,开建桥组,Kaijianqiao Fm,Z1,,四川,,['sichuan']
+0,241023,克里西组,Kelixi Fm,Z1,,新疆叶城、西昆仑山北坡,本组隶属于恰克马克立克群,['xinjiang']
+0,241024,黎家坡组,Lijiapo Fm,Z1,泗里口组,桂北九万大山-越城岭一带,,['guangxi']
+0,241025,立果组,Liguo Fm,Z1,,云南晶宁县-凤庆一带,勐统群的最下一个组,['yunnan']
+0,241026,莲沱组,Liantuo Fm,Z1,南沱砂岩、硐门组、五老峰砂岩,鄂、陕、川、赣,,['jaingxi']['hubei']['sichuan']['shaanxi']
+0,241027,两界河组,Liangjiehe Fm,Z1,,黔东北,,['guizhou']
+0,241028,列古六组,Lieguliu Fm,Z1,惠民组,四川,,['sichuan']
+0,241029,楼子坝组,Louziba Fm,Z1,,闽、粤,,['fujian']['guangdong']
+0,241030,陆良组,Luliang Fm,Z1,,云南陆良牛头山区,,['yunnan']
+0,241031,明月组,Mingyue Fm,Z1,,四川岚溪河至万源蒲家坝一带及陕西,本组陕西区调队认为已解体为莲沱组和南沱组,['sichuan']['shaanxi']
+0,241032,南沱组,Nantuo Fm,Z1,雷公坞组、四里亭组、兰田冰碛层、兰田组、洪江组、摆堵组等,鄂、湘、川、滇、黔、陕、浙、皖、赣等省,"福建原订的“南沱组”与三峡等地不相同,现改为丁屋岭组",['zhejaing']['anhui']['jaingxi']['hubei']['hunan']['sichuan']['guizhou']['yunnan']['shaanxi']
+0,241033,牛头山组,Niutoushan Fm,Z1,,云南陆良、会泽县,,['yunnan']
+0,241034,平袍组,Pingpao Fm,Z1,乌依组、南沱组下段(下冰积岩)、长安组、江口组,黔、桂,,['guangxi']['guizhou']
+0,241035,恰克马克力克组,Qiakemakelike Fm,Z1,,新疆叶城县一带,近年马世鹏等(1989)已将本组升为恰克马克群，并进一步细分为波龙组、克里西组、雨塘组,['xinjiang']
+0,241036,赛伊阔组,Saiyikuo Fm,Z1,,四川西北部,隶属白依沟群,['sichuan']
+0,241037,沙坝黄组,Shabahuang Fm,Z1,寨子下组,赣中南地区,,['jaingxi']
+0,241038,烧火筒沟组,Shaohuotonggou Fm,Z1,韩母山群(下亚群),甘肃龙首山及内蒙古,,['Inner Mongolia']['gansu']
+0,241039,泗洲山组,Sizhoushan Fm,Z1,,湘东南地区,,['hunan']
+0,241040,苏家湾(岩)组,Sujiawan Fm,Z1,泥山组、高桥组、南沱组,苏、皖,命名地点在巢县苏家湾，该地底部出露不全，构造复杂，地层层序不清滁县小范林场出露较全,['jiangsu']['anhui']
+0,241041,苏雄组,Suxiong Fm,Z1,小相岭凝灰岩,四川苏雄,,['sichuan']
+0,241042,特瑞爱肯组,Teruiaiken Fm,Z1,奥吞布拉克岩系(组),新疆库鲁克塔格,原称Tereeken Formation,['xinjiang']
+0,241043,天子地组,Tianzidi Fm,Z1,,湘东南地区,,['hunan']
+0,241044,铁船山组,Tiechuanshan Fm,Z1,刘家坪组,川陕边境南江铁船山一带,,['sichuan']['shaanxi']
+0,241045,铁丝坳组,Tiesiao Fm,Z1,南沱组,贵州松桃,本组命名晚，应归于南沱组,['guizhou']
+0,241046,听门组,Tingmen Fm,Z1,,江西广丰等地,本组又称听门砂砾岩,['jaingxi']
+0,241047,吴墩组,Wudun Fm,Z1,,闽北,,['fujian']
+0,241048,西冲组,Xichong Fm,Z1,,湘中及湘西,有人认为，本名称与云南中泥盆统西冲组(1979年廖卫华命名)为同名异物，本名称应改名,['hunan']
+0,241049,下坊组,Xiafang Fm,Z1,杨家桥组,江西武功山一带,,['jaingxi']
+0,241050,休宁组,Xiuning Fm,Z1,流源组、皮园砂岩、高亭砂岩、志棠组、一壶水砾岩,皖、浙、赣,,['zhejaing']['anhui']['jaingxi']
+0,241051,牙拉古孜组,Yalaguzi Fm,Z1,,"新疆昆仑山前,塔里木盆地南缘","有人认为，新疆地层清理已将该组归入恰克马克力克组的底部未加以细分是不妥的,应保留应用本名称",['xinjiang']
+0,241052,杨家桥群,Yangjiaqiao Gr,Z1,松山群,江西武功山一带,,['jaingxi']
+0,241053,鹰扬关组,Yingyangguan Fm,Z1,合桐组、拱桐组、富禄组,"广西贺县鹰扬关地区,北延入湖南,东延入广东境内",,['hunan']['guangdong']['guangxi']
+0,241054,尤尔美那克组,Youermeinake Fm,Z1,,新疆阿克苏地区,命名地称为“喀拉克兹尤尔美那克”(居民点),['xinjiang']
+0,241055,雨塘组,Yutang Fm,Z1,,新疆叶城县(塔里木盆地南缘),本组为恰克马克立克群的下部组级单位,['xinjiang']
+0,241056,照壁山组,Zhaobishan Fm,Z1,,新疆中、西库鲁克塔格,,['xinjiang']
+0,241057,正园岭组,Zhengyuanling Fm,Z1,,湘东南,本组大体上与南沱组、大塘坡组、古城组相当,['hunan']
+0,241058,周岗组,Zhougang Fm,Z1,尧巷组、莲沱组,皖苏交界张八岭地区，滁县等地,"命名地点在全椒县周岗,命名时未指定正层型剖面,以滁县施集小范林场剖面为选层型剖面选层型剖面为皖区调队1992年重测",['jiangsu']['anhui']
+0,240001,八道江组,Badaojiang Fm,Z,,吉林省浑江市八道江一带,,['jilin']
+0,240002,白杨沟群,Baiyanggou Gr,Z,杏儿沟群,甘肃北祁连山,,['gansu']
+0,240003,豹山口组,Baoshankou Fm,Z,,鲁东蓬莱、栖霞,,['shandong']
+0,240004,昌宁组,Changning Fm,Z,,云南昌宁县,,['yunnan']
+0,240005,长岭子组,Changlingzi Fm,Z,高家屯页岩砂岩、高家屯组、贾园组,辽宁大连、复州等地,,['liaoning']
+0,240006,储家山组,Chujiashan Fm,Z,,云南昌宁一带,,['yunnan']
+0,240007,崔家屯组,Cuijiatun Fm,Z,,辽宁金州、复州地区,,['liaoning']
+0,240008,董家组,Dongjia Fm,Z,马库庄组,河南鲁山-泌阳一带,,['henan']
+0,240009,碓窝梁组,Duiwoliang Fm,Z,与木座组、峨边系、昆阳系,四川峨边、甘洛一带,本组最初称为峨边变质岩群、峨边系,['sichuan']
+0,240010,额尔古纳河组,Eergunahe Fm,Z,,内蒙古额尔古纳河流域，喜桂图旗一带,,['Inner Mongolia']
+0,240011,蜂桶寨组,Fengtongzhai Fm,Z,,四川宝兴,隶属于盐井群,['sichuan']
+0,240012,浮莱山组,Fulaishan Fm,Z,,鲁西,隶属土门群,['shandong']
+0,240013,辅子夼组,Fuzikuang Fm,Z,,鲁 东、蓬莱、栖霞等地,,['shandong']
+0,240014,甘岛子灰岩段,Gandaozi Limestone Mem,Z,,辽宁大连,,['liaoning']
+0,240015,甘井子组,Ganjingzi Fm,Z,,辽宁大连,,['liaoning']
+0,240016,韩母山群,Hanmushan Gr,Z,红山口群、洗肠井群(组),甘肃、内蒙古,,['Inner Mongolia']['gansu']
+0,240017,红岭组,Hongling Fm,Z,马瑶组,河南偃师,,['henan']
+0,240018,红藻山组,Hongzaoshan Fm,Z,,青海,隶属于全吉群,['qinghai']
+0,240019,黄店子组,Huangdianzi Fm,Z,,四川宝兴黄店子一带，金汤海螺石,隶属于盐井群,['sichuan']
+0,240020,回头山组,Huitoushan Fm,Z,,云南昌宁至勐统,该组为勐统群最上的一个组,['yunnan']
+0,240021,浑江群,Hunjiang Gr,Z,,吉林,,['jilin']
+0,240022,金山寨组,Jinshanzhai Fm,Z,,安徽宿县、江苏,,['jiangsu']['anhui']
+0,240023,金县群,Jinxian Gr,Z,,辽宁大连金州及复州,,['liaoning']
+0,240024,凯拉克提群,Kailaketi Gr,Z,,新疆科古琴山,,['xinjiang']
+0,240025,康家组,Kangjia Fm,Z,,辽宁辽阳、本溪一带,,['liaoning']
+0,240026,枯柏木组,Kubaimu Fm,Z,,青海大柴旦、欧龙布鲁克、安南坝,隶属于全吉群,['qinghai']
+0,240027,库鲁克塔格群,Kuluketage Gr,Z,,新疆库鲁克塔格，南天山,诺林，1937年东天山库鲁克塔格地质调查报告(英文版),['xinjiang']
+0,240028,库鲁铁列克提组,Kulutielieketi Fm,Z,,新疆西天山,隶属于凯拉克提群,['xinjiang']
+0,240029,陇巴组,Longba Fm,Z,,云南丽江县金沙江两岸,为石鼓群中部,['yunnan']
+0,240030,罗圈组,Luoquan Fm,Z,临汝冰碛层、凤台砾岩、上张湾组,豫、晋、陕,关保德等(1980)把原罗圈组分解为罗圈组(下部砾岩层)和东坡组(上部页岩组)现定义为关氏等分解后的罗圈组,['shanxi']['henan']['shaanxi']
+0,240031,麻黄沟组,Mahuanggou Fm,Z,,青海,属于全吉群,['qinghai']
+0,240032,马家屯组,Majiatun Fm,Z,,辽宁金州、复州地区,,['liaoning']
+0,240033,马山组,Mashan Fm,Z,南庄板岩组、南庄组,山东,本组原称南庄组，因与台湾省苗栗县南庄镇附近新第三系南庄含煤层(南庄组)同名异物，故邢裕盛等建议改称马山组,['shandong']
+0,240034,勐统群,Mengtong Gr,Z,,云南昌宁、永德一带,,['yunnan']
+0,240035,南关岭组,Nanguanling Fm,Z,,辽宁大连、复州等地,,['liaoning']
+0,240036,南庄组,Nanzhuang Fm,Z,,鲁东、蓬莱、栖霞等地,,['shandong']
+0,240037,泮地组,Pandi Fm,Z,,闽东,,['fujian']
+0,240038,培地组,Peidi Fm,Z,,广西贺县鹰扬关至大瑶山一带,,['guangxi']
+0,240039,朋河石组,Pengheshi Fm,Z,,鲁东一带,,['shandong']
+0,240040,蓬莱群,Penglai Gr,Z,烟南群,鲁东蓬莱等地,,['shandong']
+0,240041,屏边群,Pingbian Gr,Z,,云南屏边和广西一带,,['guangxi']['yunnan']
+0,240042,桥头组,Qiaotou Fm,Z,大和尚山组(统),辽宁复州、太子河地区及吉林浑江等地,,['liaoning']['jilin']
+0,240043,全吉群,Quanji Gr,Z,,青海柴达木盆地北缘,以上各组由王云山等1981年进一步划分,['qinghai']
+0,240044,三岔口组,Sanchakou Fm,Z,三道撞组、庙湾组、郭岭组、芋园组,河南、陕西,陕西区调队地层清理组马润华等(1998)认为本组位于栾川群之上、陶湾组之下，与下伏白术沟组、煤窑沟组、鱼库组等为平行不整合接触，与上覆陶湾组为整合接触与河南区调队意见不一致，待今后研究,['henan']['shaanxi']
+0,240045,十三里台组,Shisanlitai Fm,Z,,辽南金州、复州地区,,['liaoning']
+0,240046,什那干群,Shinagan Gr,Z,巴彦(音)西别组,内蒙古色尔腾山,,['Inner Mongolia']
+0,240047,石鼓群,Shigu Gr,Z,,云南丽江县石鼓镇,,['yunnan']
+0,240048,石灰顶组,Shihuiding Fm,Z,,海南石碌矿区,,['hainan']
+0,240049,石旺庄组,Shiwangzhuang Fm,Z,,山东,,['shandong']
+0,240050,石英梁组,Shiyingliang Fm,Z,,青海柴达木北缘,隶属于全吉群,['qinghai']
+0,240051,水晶组,Shuijing Fm,Z,,四川平武-青川一带,,['sichuan']
+0,240052,塔城组,Tacheng Fm,Z,,云南丽江县石鼓至塔城金沙江两岸,该组为石鼓群上部的一个组,['yunnan']
+0,240053,塔尔卡特组,Taerkate Fm,Z,,新疆伊宁科古琴山,为凯拉克提群的一个组其Rb-Sr同位素年龄为640±32 Ma,['xinjiang']
+0,240054,佟家庄组,Tongjiazhuang Fm,Z,,山东沂水一带,隶属土门群,['shandong']
+0,240055,吐拉苏组,Tulasu Fm,Z,凯拉克提群下亚群,新疆西天山,本组属凯拉克提克群,['xinjiang']
+0,240056,万隆组,Wanlong Fm,Z,,吉林浑江,,['jilin']
+0,240057,王家坦页岩段,Wangjiatan Shale Mem,Z,,辽宁大连、金州、复州,,['liaoning']
+0,240058,乌什南山群,Wushinanshan Gr,Z,,新疆阿克苏、乌什一带,,['xinjiang']
+0,240059,蜈蚣口组,Wugongkou Fm,Z,胡家寨组,四川平武,,['sichuan']
+0,240060,五行山群,Wuxingshan Gr,Z,,辽宁大连、复州、太子河流域(太子河缺失上部地层)等地,,['liaoning']
+0,240061,洗肠井群,Xichangjing Gr,Z,韩母山群,甘肃、内蒙古西部,,['Inner Mongolia']['gansu']
+0,240062,相龙卡组,Xiang longka Fm,Z,,四川若尔盖,隶属白依沟群,['sichuan']
+0,240063,香夼组,Xiangkuang Fm,Z,,山东蓬莱、栖霞等地,,['shandong']
+0,240064,兴民村组,Xingmincun Fm,Z,,辽南金州、复州等地区,,['liaoning']
+0,240065,雅久组,Yajiu Fm,Z,,西藏查隅一带,,['tibet']
+0,240066,羊坡组,Yangpo Fm,Z,,云南丽江县石鼓至塔城,该组是石鼓群最下的一个组,['yunnan']
+0,240067,殷屯组,Yintun Fm,Z,,辽宁铁岭,,['liaoning']
+0,240068,营城子组,Yingchengzi Fm,Z,,大连金州,,
+0,240069,正目观组,Zhengmuguan Fm,Z,,宁夏贺兰山中段、宁夏东部与内蒙古相邻地区,正目观实际为镇木关，命名单位用正目观作组名，长期使用，不宜再变,['Inner Mongolia']['ningxia']
+0,240070,周家崴子砂岩段,Zhoujiaweizi Sandstone Mem,Z,,辽宁大连、金州、复州,,['liaoning']
+0,239001,大金山组,Dajinshan Fm,AnZ,,闽(西)北地区,本组和上部南山组及下部下回向殿组组成麻源群,['fujian']
+0,239002,迪口组,Dikou Fm,AnZ,南山组、小桥片麻岩组,闽东建瓯-南平一带,,['fujian']
+0,239003,东华组,Donghua Fm,AnZ,,闽东德化小岭一带,,['fujian']
+0,239004,恩达组,Enda Fm,AnZ,,西藏安多、聂荣、丁青、类乌齐、昌都、察雅,有人认为，应为(岩)组,['tibet']
+0,239005,葛坑组,Gekeng Fm,AnZ,,福建德化、尤溪,,['fujian']
+0,239006,桂花桥沟组,Guihuaqiaogou Fm,AnZ,阳坝组,四川平 武,属碧口(岩)群,['sichuan']
+0,239007,回向殿组,Huixiangdian Fm,AnZ,建瓯群大岭组,福建,隶属麻源群下部,['fujian']
+0,239008,吉塘群,Jitang Gr,AnZ,类乌齐群,西藏丁青、洛隆、类乌齐、昌都、察雅、安多、羌塘,,['tibet']
+0,239009,嘉玉桥群,Jiayuqiao Gr,AnZ,,西藏羌塘、安多、洛隆、察雅及怒江一带,,['tibet']
+0,239010,江东组,Jiangdong Fm,AnZ,,西藏高喜马拉雅地区,属聂拉木群,['tibet']
+0,239011,拉轨岗日群,Laguigangri Gr,AnZ,少岗组,西藏拉轨岗日一带,,['tibet']
+0,239012,麻源群,Mayuan Gr,AnZ,,闽西北、闽北,,['fujian']
+0,239013,南山组,Nanshan Fm,AnZ,,闽北,本组和大金山组、回向殿组组成麻源群,['fujian']
+0,239014,念青唐古拉群,Nianqingtanggula Gr,AnZ,,西藏念青唐古拉主脊一带,李璞等1959年称为念青唐古拉片麻岩,['tibet']
+0,239015,聂拉木群,Nielamu Gr,AnZ,珠穆朗玛群、西昂群、南迦巴瓦群、纳木那尼群,西藏高喜马拉雅地区,,['tibet']
+0,239016,堑头(岩)组,Qiantou Fm,AnZ,,浙东南一带,,['zhejaing']
+0,239017,青龙村(岩)群,Qing longcun Gr,AnZ,青龙组(群)、黄莺屯组,吉林和龙长仁青龙村、里坪等地,,['jilin']
+0,239018,曲乡组,Quxiang Fm,AnZ,丁仁布桥组,高喜马拉雅地区,属聂拉木群，包含茅燕石命名的友谊桥组,
+0,239019,桃溪(岩)组,Taoxi Fm,AnZ,,福建、江西,,['fujian']['jaingxi']
+0,239020,天井坪组,Tianjingping Fm,AnZ,,福建浦城、建宁,,['fujian']
+0,239021,瞎绒曲组,Xiarongqu Fm,AnZ,,西藏双湖、安多、洛隆等地,,['tibet']
+0,239022,阴平组,Yinping Fm,AnZ,秧田坝(岩)组、横丹群,四川阴平，青川倪家沟,隶属碧口(岩)群,['sichuan']
+0,239023,酉西组,Youxi Fm,AnZ,,"西藏羌塘,聂荣,丁青,昌都,察雅等地",,['tibet']
+0,239024,卓地组,Zhuodi Fm,AnZ,,福建德化、尤溪一带,,['fujian']
+0,234001,上施组,Shangshi Fm,(Qn)Pt3,,赣中南地区,,['jaingxi']
+0,234002,巧恩布拉克组(群),Qiaoenbulake Fm(Gr),Qn-Z,,新疆乌什—阿克苏一带,陆松年、高振家等1990年又将本组改称为巧恩布拉克群，进一步划分为：冬屋组、牧羊滩组、东巧恩布拉克组和西方山组,['xinjiang']
+0,234003,土门群,Tumen Gr,Qn-Z,,山东,,['shandong']
+0,234004,细河群,Xihe Gr,Qn-Z,,辽东太子河复州地区及吉林南部等地,,['jilin']
+0,234005,冬屋组,Dongwu Fm,Qn-Z1,,新疆阿克苏、乌什、柯坪之间,,['xinjiang']
+0,234006,西乡群,Xixiang Gr,Qn-Z1,,陕西西乡一带,1989年《陕西地质志》修正其定义。本群包括孙家河组、三郎铺组、大石沟组后二组与前者呈不整合接触，时代为早震旦世,['shaanxi']
+0,231001,阿其克巴西组,Aqikebaxi Fm,Qn,,新疆叶城、西昆仑山北坡,,['xinjiang']
+0,231002,艾勒格庙组,Ailegemiao Fm,Qn,,内蒙古艾勒格庙地区,,['Inner Mongolia']
+0,231003,八公山群,Bagongshan Gr,Qn,蓝陵组,皖、苏北部,,['jiangsu']['anhui']
+0,231004,拔竹坑组,Bazhukeng Fm,Qn,,江西弋阳、德兴一带,,['jaingxi']
+0,231005,白房子组,Baifangzi Fm,Qn,大罗圈河组,吉林浑江市,,['jilin']
+0,231006,白乃庙组,Bainaimiao Fm,Qn,,内蒙古白乃庙一带,,['Inner Mongolia']
+0,231007,白术沟组,Baishugou Fm,Qn,大庄组、三道撞组、石北沟组、月沟组,河南栾川、 卢氏及陕西洛南等地,,['henan']['shaanxi']
+0,231008,白音宝拉格组,Baiyinbaolage Fm,Qn,,内蒙古白云鄂博一带,,['Inner Mongolia']
+0,231009,北塞纳尔塔格组,Beisainaertage Fm,Qn,隶属于帕尔岗塔格群，为帕尔岗塔格群上亚群,新疆 鄯善至库尔勒一带,,['xinjiang']
+0,231010,冰沟南组,Binggounan Fm,Qn,,新疆若羌阿尔金山,,['xinjiang']
+0,231011,曹店组,Caodian Gr,Qn,,安徽凤阳一带,,['anhui']
+0,231012,岔沟泉组,Chagouquan Fm,Qn,,新疆阿尔金山,,['xinjiang']
+0,231013,大豁落山组,Dahuoluoshan Fm,Qn,,甘肃北山,隶属圆藻山群,['gansu']
+0,231014,登山群,Dengshan Gr,Qn,上墅群、祝家群,江西弋阳,登山群原始涵义包括拔竹坑组和叶家组,['jaingxi']
+0,231015,邓家组,Dengjia Fm,Qn,,安徽祁门一带,隶属历口(岩)群,['anhui']
+0,231016,钓鱼台组,Diaoyutai Fm,Qn,大门顶子组,辽宁、吉林,,['liaoning']['jilin']
+0,231017,东巧恩布拉克组,Dongqiaoenbulake Fm,Qn,,新疆阿克苏以北、乌什以南地区,,['xinjiang']
+0,231018,二青山组,Erqingshan Fm,Qn,,山东苍山县,隶属土门群自下而上分为砂岩段、灰岩段、页岩段,['shandong']
+0,231019,葛公镇组,Gegongzhen Fm,Qn,,安徽,属历口(岩)群,['anhui']
+0,231020,龚岔群,Gongcha Gr,Qn,,青海、甘肃,,['gansu']['qinghai']
+0,231021,哈什哈尔组,Hashihaer Fm,Qn,,甘肃、青海中祁连与北祁连西段,隶属龚岔群,['gansu']['qinghai']
+0,231022,黑山官组,Heishanguan Fm,Qn,,山东,隶属于土门群,['shandong']
+0,231023,呼吉尔图组,Hujiertu Fm,Qn,,内蒙古白云鄂博-商都地区,,['Inner Mongolia']
+0,231024,黄旗口组,Huangqikou Fm,Qn,,宁夏、甘肃,,['gansu']['ningxia']
+0,231025,会试屯群,Huishitun Gr,Qn,,辽宁泛河地区,,['liaoning']
+0,231026,佳疙疸组,Jiagedan Fm,Qn,,大兴安岭地区佳疙疸、鄂温克旗,,['hubei']
+0,231027,景儿峪组,Jingeryu Fm,Qn,,京、津、冀、辽,本组在有的文献中被称为井儿峪组,['beijing']['tianjin']['hebei']['liaoning']
+0,231028,九顶山组,Jiudingshan Fm,Qn,,苏、皖,隶属宿县群,['jiangsu']['anhui']
+0,231029,九里桥组,Jiuliqiao Fm,Qn,贾园组,皖、苏,隶属淮南群,['jiangsu']['anhui']
+0,231030,开尔塔斯群,Kaiertasi Gr,Qn,库松木切克群,新疆库松木切克山南坡及科古琴山北坡,该群曾被划分为上、中亚群,['xinjiang']
+0,231031,库什台群,Kushitai Gr,Qn,,新疆西天山,,['xinjiang']
+0,231032,拉依勒克组,Layileke Fm,Qn,,新疆塔里木西南缘西昆仑山北坡,,['xinjiang']
+0,231033,兰陵组,Lanling Fm,Qn,伍山组、钓鱼台组,江苏徐州、山东苍山,,['jiangsu']['shandong']
+0,231034,历口(岩)群,Likou Gr,Qn,,NULL,,
+0,231035,刘鸿湾组,Liuhongwan Fm,Qn,,内蒙古,,['Inner Mongolia']
+0,231036,刘老碑组,Liulaobei Fm,Qn,杏山页岩、管家营组,安徽,隶属八公山群本组原名为刘老碑系,['anhui']
+0,231037,龙山组,Longshan Fm,Qn,长龙山组、骆鸵岭组,京、津、冀,源自郝诒纯命名的“龙山砂岩”,['beijing']['tianjin']['hebei']
+0,231038,乱石山组,Luanshishan Fm,Qn,,新疆阿尔金山中段,隶属于索尔库里群,['xinjiang']
+0,231039,罗村组,Luocun Fm,Qn,,江西广丰下溪,,['jaingxi']
+0,231040,落可岽组,Luokedong Fm,Qn,,江西武宁县境西南,,['jaingxi']
+0,231041,马涧桥组,Majianqiao Fm,Qn,,江西都昌马涧桥和彭泽棺材山,,['jaingxi']
+0,231042,牧羊滩组,Muyangtan Fm,Qn,,新疆阿克苏以北、乌什以南地区,,['xinjiang']
+0,231043,南芬组,Nanfen Fm,Qn,关东统、黄泥川阶(组)、岔沟阶(组)、龙王塘阶(组)、大和尚山统(组)、响水寺统(组)、千金岭组等,辽宁、吉林,本组与钓鱼台组在局部地区为相变关系(吉林浑江地区),['liaoning']['jilin']
+0,231044,南泥湖组,Nannihu Fm,Qn,,河南卢氏、栾川、方城等地,,['henan']
+0,231045,帕尔岗塔格群,Paergangtage Gr,Qn,,新疆塔里木北缘库鲁克塔格,,['xinjiang']
+0,231046,平洼沟组,Pingwagou Fm,Qn,,新疆阿尔金山,隶属于索尔库里群,['xinjiang']
+0,231047,铺岭(岩)组,Puling Fm,Qn,,皖南一带,归属历口(岩)群,['anhui']
+0,231048,其它大坂组,Qitadaban Fm,Qn,,青、甘中祁连山西段,隶属于龚岔群,['shanxi']
+0,231049,丘吉东沟群,Qiujidonggou Gr,Qn,,青海都兰,,['qinghai']
+0,231050,赛纳尔塔格组,Sainaertage Fm,Qn,辛格尔塔格组、大西沟组、帕尔塔格群下亚群,新疆库鲁克塔格,隶属于帕尔岗塔格群,['xinjiang']
+0,231051,三川组,Sanchuan Fm,Qn,,豫西栾川、方城,属于栾川群,['henan']['sichuan']
+0,231052,神山组,Shenshan Fm,Qn,古县(岩)组、上施组下部,江西武功山区,原称神山黑色千枚岩,['jaingxi']
+0,231053,石碌群,Shilu Gr,Qn,,海南石碌,,['hainan']
+0,231054,史家组,Shijia Fm,Qn,,苏、皖北部,,['jiangsu']['anhui']
+0,231055,丝路群,Silu Gr,Qn,,新疆塔里木西南缘,本名称无具体地点，值得商榷，暂保留——编者注,['xinjiang']
+0,231056,四顶山组,Sidingshan Fm,Qn,,安徽淮南一带,该组隶属于淮南群,['anhui']
+0,231057,四十里长山组,Sishilichangshan Fm,Qn,寿县组,皖北霍邱,隶属于八公山群,['anhui']
+0,231058,松树头组,Songshutou Fm,Qn,,新疆西天山科古尔琴山,本组隶属于库松木切克群(命名较早应保留)，新疆区调队(1998)将其归于开尔塔斯组的一部分,['xinjiang']
+0,231059,苏库洛克组,Sukuluoke Fm,Qn,,新疆叶城县、皮山县西昆仑山北坡,张良臣等最初称本组为苏库洛克岩系，时代定为S—D马世鹏等，1978年改时代为青白口纪,['xinjiang']
+0,231060,苏玛兰组,Sumalan Fm,Qn,,新疆叶城县，西昆仑山北坡,命名者最初称苏玛兰岩系，时代定为奥陶纪1978年方锡廉、马世鹏等改其时代为青白口纪,['xinjiang']
+0,231061,宿县群,Suxian Gr,Qn,徐淮群,安徽、苏北一带,本群已将前人划分的宿县群与徐淮群合并统称宿县群,['anhui']
+0,231062,索尔库里群,Suoerkuli Gr,Qn,,新疆阿尔金山,,['xinjiang']
+0,231063,潭头群,Tantou Gr,Qn,螺田(岩)组、白沙千枚岩,江西永丰,,['jaingxi']
+0,231064,王全口组,Wangquankou Fm,Qn,,宁夏贺兰山、内蒙古及陕、甘等省区,隶属于贺兰山群,['Inner Mongolia']['ningxia']
+0,231065,翁家岭组,Wengjialing Fm,Qn,漆工群,江西广丰地区,,['jaingxi']
+0,231066,五个山组,Wugeshan Fm,Qn,,甘、青中祁连与北祁连山西段,隶属于龚岔群,['shanxi']
+0,231067,伍山组,Wushan Fm,Qn,,安徽凤阳,属八公山群,['anhui']
+0,231068,西村(岩)组,Xicun Fm.,Qn,,皖南、皖东南一带,归属溪口(岩)群,['anhui']
+0,231069,西方山组,Xifangshan Fm,Qn,,新疆阿克苏以北，乌什县以南地区,,['xinjiang']
+0,231070,下喀沙组,Xiakasha Fm,Qn,,四川木里,,['sichuan']
+0,231071,下马岭组,Xiamaling Fm,Qn,,京、津、冀、辽等省市,,['beijing']['tianjin']['hebei']['liaoning']
+0,231072,小安里组,Xiaoanli Fm,Qn,,安徽、江西,,['anhui']['jaingxi']
+0,231073,小泉达坂组,Xiaoquandaban Fm,Qn,,新疆阿尔金山若羌,属于索尔库里群,['xinjiang']
+0,231074,辛格尔塔格组,Xingeertage Fm,Qn,北塞纳尔塔格组、帕尔岗塔格群下亚群,新疆库鲁克塔格,,['xinjiang']
+0,231075,新兴组,Xinxing Fm,Qn,,山东、江苏交界区,,['jiangsu']['shandong']
+0,231076,腰未台冲组,Yaoweitaichong Fm,Qn,,辽宁铁岭,,['liaoning']
+0,231077,窑洞沟组,Yaodonggou Fm,Qn,,甘肃、青海中祁连与北祁连西段,隶属龚岔群,['gansu']['qinghai']
+0,231078,耀岭河组,Yaolinghe Fm,Qn,过路湾组、马头山组,陕西、河南及湖北等地,1958年秦岭区测队在1∶20万商南幅命名，阎廉泉描述不全，故用1961年商南幅说明书的定义本组在不同省可划分为若干段，但不易对比,['henan']['hubei']['shaanxi']
+0,231079,野马街组,Yemajie Fm,Qn,,甘肃省肃北县平头山与大豁落山地区，延至内蒙古,隶属于圆藻山群,['Inner Mongolia']['gansu']
+0,231080,永宁组,Yongning Fm,Qn,,辽宁复州、本溪、宽甸等地,,['liaoning']
+0,231081,于北沟组,Yubeigou Fm,Qn,下马岭组,辽宁铁岭地区,,['liaoning']
+0,231082,玉沙斯组,Yushasi Fm,Qn,,新疆昆仑山塔斯洪河至旗盘东南一带,该组原为苏库罗克组的下部层位，经马世鹏等的研究，发现上、下沉积间断，岩性也有较大的差异，而单独建组，已被广泛应用,['xinjiang']
+0,231083,张渠组,Zhangqu Fm,Qn,,安徽、江苏北部、贾汪、徐州、宿州以东地区,属宿县群或淮河群下亚群,['jiangsu']['anhui']
+0,231084,镇头(岩)组,Zhentou Fm,Qn,,安徽绩溪,归属历口(岩)群,['anhui']
+0,231085,祝家组,Zhujia Fm,Qn,,江西弋阳,隶属于登山群下部,['jaingxi']
+0,225001,阿古鲁沟组,Agulugou Fm,Jx,,内蒙古阿左旗-乌前旗,,['Inner Mongolia']
+0,225002,爱尔基干群,Aierjigan Gr,Jx,拜什布拉克岩系、南赛纳尔塔格岩系、赛纳尔塔格岩系、大西沟组,新疆库鲁克塔格地区,本群诺林(1931)原称爱尔基斯系(统)，又称爱尔克逊建造，高振家等(1963)按当地名称改称爱尔基干群，并修订了其含意后人一直沿用,['xinjiang']
+0,225003,北门峡组,Beimenxia Fm,Jx,,青海湟中一带,隶属于花石峡群,['qinghai']
+0,225004,比鲁特组,Bilute Fm,Jx,,内蒙古白云鄂博-商都地区,,['Inner Mongolia']
+0,225005,冰沟群,Binggou Gr,Jx,狼牙山群巴音果勒组,新、青交界地区(青海都兰、新疆且末),,['qinghai']['xinjiang']
+0,225006,博查特塔格群,Bochatetage Gr,Jx,塔昔达坂群,新疆昆仑山北坡,又称博查特塔格组 、博查特塔格岩系,['xinjiang']
+0,225007,杜关组,Duguan Fm,Jx,香子坪群(下部),河南卢氏与栾川地区，陕西洛南,,['henan']['shaanxi']
+0,225008,墩子沟群,Dunzigou Gr,Jx,,甘肃、内蒙古,,['Inner Mongolia']['gansu']
+0,225009,二道沟组,Erdaogou Fm,Jx,,辽宁铁岭一带,,['liaoning']
+0,225010,冯家湾组,Fengjiawan Fm,Jx,香子坪组,陕西洛南-河南卢氏冯家湾,,['henan']['shaanxi']
+0,225011,高家湾组,Gaojiawan Fm,Jx,,甘肃、青海,,['gansu']['qinghai']
+0,225012,高黎贡山(岩)群,Gaoligongshan Gr,Jx,太平系、黑马层(相当其一 部分)等,云南怒江高黎贡山,原称高黎贡山群，1998年云南1∶50万数字 地质图编图组改称为高黎贡山(岩)群,['yunnan']
+0,225013,官道口群,Guandaokou Gr,Jx,南天门群、洛南群、下栾川群、石坡群、洛河 群,豫、陕,,['henan']['shaanxi']
+0,225014,哈尔哈达组,Haerhada Fm,Jx,,内蒙古苏尼特右旗-阿巴嘎旗,,['Inner Mongolia']
+0,225015,哈拉霍疙特组,Halahuogete Fm,Jx,,内蒙古白云鄂博地区,,['Inner Mongolia']
+0,225016,海原群,Haiyuan Gr,Jx,,宁夏,,['ningxia']
+0,225017,洪水庄组,Hongshuizhuang Fm,Jx,,京、津、冀、辽,,['beijing']['tianjin']['hebei']['liaoning']
+0,225018,虎头岭组,Hutouling Fm,Jx,,辽宁,,['liaoning']
+0,225019,花儿地组,Huaerdi Fm,Jx,,青海、甘肃,隶属于托来南山群,['gansu']['qinghai']
+0,225020,花石山群,Huashishan Gr,Jx,,青海,,['qinghai']
+0,225021,黄连垛组,Huanglianduo Fm,Jx,火石山组,河南鲁山-遂平一带,,['henan']
+0,225022,金雁山组,Jinyanshan Fm,Jx,安南坝群,新疆阿尔金山-安南坝地区,,['xinjiang']
+0,225023,卡瓦布拉克群,Kawabulake Gr,Jx,南赛纳尔塔格组、尖山子组、碱泉组(第四，五亚组),新疆鄯善县以南,,['xinjiang']
+0,225024,克克苏群,Kekesu Gr,Jx,,新疆西天山,本群又称为科克苏群,['xinjiang']
+0,225025,克素尔组,Kesuer Fm,Jx,,青海马老得山-拉脊山北坡-大通、互助北山,隶属花石峡群,['qinghai']
+0,225026,库松木切克群,Kusongmuqieke Gr,Jx,别格舍叶组、库西姆契克群、开尔塔斯群,新疆精河(西天山),,['xinjiang']
+0,225027,狼牙山组,Langyashan Fm,Jx,,青海东昆仑山,,['qinghai']
+0,225028,龙家园组,Longjiayuan Fm,Jx,石庄组、白玉沟群,陕、晋、豫,,['shanxi']['henan']['shaanxi']
+0,225029,洛峪口组,Luoyukou Fm,Jx,,河南、山西,河南区测队1964年将洛峪口层改称为洛峪口组,['shanxi']['henan']
+0,225030,木孜萨依组,Muzisayi Fm,Jx,安布坝群,新疆阿尔金山,,['xinjiang']
+0,225031,南华山组,Nanhuashan Fm,Jx,,宁夏海原、西华山等地,,['ningxia']
+0,225032,平头山组,Pingtoushan Fm,Jx,碱泉群、玉石山组、白玉山群,甘、新、内蒙古,本组隶属于圆藻山群下部,['Inner Mongolia']
+0,225033,泉东山组,Quandongshan Fm,Jx,,新疆东部,本组隶属于卡瓦拉克群[Jx],['xinjiang']
+0,225034,桑株塔格群,Sangzhutage Gr,Jx,木孜塔格群,新疆昆仑山北坡,,['xinjiang']
+0,225035,沙子井组,Shazijing Fm,Jx,,新疆哈密市东南,本组为卡瓦布拉克群的进一步划分,['xinjiang']
+0,225036,石门组,Shimen Fm,Jx,,辽宁铁岭县一带,有人认为，本组名称与湖北李四光等1924年命名的白垩纪之石门组为同名异物，应改名称,['liaoning']
+0,225037,树芽屯群,Shuyatun Gr,Jx,,辽宁北部泛河一带,,['liaoning']
+0,225038,四台组,Sitai Fm,Jx,,新疆北天山，库西姆契克山一带,本组隶属于库松木切克群,['xinjiang']
+0,225039,宋家沟组,Songjiagou Fm,Jx,洪水庄组,辽宁铁岭,,['liaoning']
+0,225040,塔昔达坂群,Taxidaban Gr,Jx,安南坝群,新疆阿尔金山至安南坝一带,,['xinjiang']
+0,225041,铁岭组,Tieling Fm,Jx,,津、冀、京、辽等省市,,['beijing']['tianjin']['hebei']['liaoning']
+0,225042,佟家街组,Tongjiajie Fm,Jx,富尔哈组、孤山砬子组,辽宁抚顺,,['liaoning']
+0,225043,雾迷山组,Wumishan Fm,Jx,,天津蓟县及京、冀、辽、晋等省市,,['tianjin']
+0,225044,西华山组,Xihuashan Fm,Jx,,宁夏海源,为海原群的一个组,['ningxia']
+0,225045,巡检司组,Xunjiansi Fm,Jx,,陕西、河南交界小秦岭区,,['henan']['shaanxi']
+0,225046,杨士屯组,Yangshitun Fm,Jx,铁岭组,辽宁铁岭,,['liaoning']
+0,225047,杨庄组,Yangzhuang Fm,Jx,,津、冀、晋、辽、燕山及邻近地区,本组最初称为杨庄页岩,['tianjin']['hebei']['shanxi']['liaoning']
+0,225048,园河组,Yuanhe Fm,Jx,,宁夏海原南、西华山等地,隶属海原群,['ningxia']
+0,225049,圆藻山群,Yuanzaoshan Gr,Jx,平头山群,甘肃、内蒙古、新疆交界的北山地区,,['Inner Mongolia']['gansu']['xinjiang']
+0,224001,白云鄂博群,Baiyunebo Gr,Ch-Qn,,内蒙古白云鄂博,,['Inner Mongolia']
+0,224002,汉高山群,Hangaoshan Gr,(Ch1)Pt2,,山西吕梁山,,['shanxi']
+0,224003,南白水河组,Nanbaishuihe Fm,Ch-Jx,苏里组,甘、青(中祁连),隶属托来南山群之下部地层,['gansu']['qinghai']
+0,224004,塞拉加兹塔格群,Sailajiazitage Gr,Ch-Z,,新疆西昆仑山北坡,,['xinjiang']
+0,224005,三个泉组,Sangequan Fm,Ch-Jx,库西姆契克群下亚群,新疆西天山库西姆契克,,['xinjiang']
+0,224006,桑达来呼都格组,Sangdalaihuduge Fm,Ch-Jx,,内蒙古东部,,['Inner Mongolia']
+0,224007,托来南山群,Tuolainanshan Gr,Ch-Jx,,青海、甘肃托来南山－大雪山,,['gansu']['qinghai']
+0,224008,万洞沟群,Wandonggou Gr,Ch-Jx,,青海赛什腾山、布赫特山一带,,['qinghai']
+0,224009,温都尔庙群,Wenduermiao Gr,Ch-Jx,,内蒙古苏尼特右旗、苏尼特左旗、阿巴嘎旗,,['Inner Mongolia']
+0,224010,西勒图组,Xiletu Fm,Ch-Jx,,内蒙古乌海一带,,['Inner Mongolia']
+0,224011,熊耳群,Xionger Gr,Ch(Pt1-2),西阳河群、龙脖组、傅店组、崤山群、河口群、同善镇火山岩,陕、豫、晋,,['shanxi']['henan']['shaanxi']
+0,224012,阳坝(岩)组,Yangba Fm,Ch(Pt2-3),姚渡组、白水街组、岸门口组、瑟琶寺组,陕西、甘肃、四川，东延至陕西勉略宁三角地带,,['sichuan']['shaanxi']['gansu']
+0,224013,约飞井组,Yuefeijing Fm,Ch(Pt2),,新疆哈密市,本组隶属于卡瓦希拉克群(或平头山群),['xinjiang']
+0,224014,渣尔泰山群,Zhaertaishan Gr,Ch-Qn,海拉哈拉组,内蒙古阿左旗-固阳,,['Inner Mongolia']
+0,221001,阿克苏群,Akesu Gr,Ch,,新疆乌什以南地区,,['xinjiang']
+0,221002,熬油沟组,Aoyougou Fm,Ch,,甘肃祁连山西段，阿金山,本组岩层层序尚可进一部划分两个组，其层位上下尚有争议,['shanxi']['gansu']
+0,221003,巴什库尔干群,Bashikuergan Gr,Ch,巴什考贡群,新疆阿尔金山一带,原称的巴什考贡群早被石炭纪地层单位所用，故改名,['xinjiang']
+0,221004,抱板群,Baoban Gr,Ch,,海南抱板、大蟹岭等地,,['hainan']
+0,221005,贝克滩组,Beiketan Fm,Ch,,新疆若 羌阿尔金山,,['xinjiang']
+0,221006,鳖盖子组,Biegaizi Fm,Ch,,陕西洛南—商县一带,,['shaanxi']
+0,221007,兵马沟组,Bingmagou Fm,Ch,小沟背组,河南嵩山及济源等地,,['henan']
+0,221008,波瓦姆群,Bowamu Gr,Ch,,新疆和硕、尉犁县库鲁克塔格地区,,['xinjiang']
+0,221009,泊仑干布拉克组,Bolunganbulake Fm,Ch,头道桥组,新疆特克斯县,隶属于特克斯群,['xinjiang']
+0,221010,布卡吐维组,Bukatuwei Fm,Ch,,新疆昆仑山北坡,,['xinjiang']
+0,221011,测鱼群,Ceyu Gr,Ch,,河北太行山区,,['hebei']
+0,221012,常州沟组,Changzhougou Fm,Ch,长城石英岩、黄崖关组、云梦山组(？)、常州村组,京、津、冀、辽、晋、豫等省(市),,['beijing']['tianjin']['hebei']['shanxi']['liaoning']['henan']
+0,221013,陈家涧组,Chenjiajian Fm,Ch,,陕西洛南—芦氏一带,,['shaanxi']
+0,221014,串岭沟组,Chuanlinggou Fm,Ch,,京、津、冀、晋、辽,山西区调队1972年引入，河南的串岭沟组，现已归入汝阳群白草坪组,['beijing']['tianjin']['hebei']['shanxi']['liaoning']
+0,221015,大红峪组,Dahongyu Fm,Ch,葫芦岛砂岩,津、冀、京、晋、辽等省(市),山西可分为南井段、套掌段,['beijing']['tianjin']['hebei']['shanxi']['liaoning']
+0,221016,大迫山组,Daposhan Fm,Ch,,辽宁开原等地,,['liaoning']
+0,221017,都拉哈拉组,Dulahala Fm,Ch,,内蒙古白云鄂博一带,,['Inner Mongolia']
+0,221018,二道河组,Erdaohe Fm,Ch,,陕西洛南— 河南芦氏一带,,['henan']['shaanxi']
+0,221019,峨文岭组,Ewenling Fm,Ch,,海南乐东一带,,['hainan']
+0,221020,高山河群,Gaoshanhe Gr,Ch,,河南、陕西、山西,河南称为高山 河组,['shanxi']['henan']['shaanxi']
+0,221021,高于庄组,Gaoyuzhuang Fm,Ch,,燕山、太行山北段、恒山、 五台山及辽西,,['liaoning']['taiwan']
+0,221022,戈枕村组,Gezhencun Fm,Ch,,海南昌江县,,['hainan']
+0,221023,古硐井群,Gudongjing Gr,Ch,,内蒙古、甘肃,,['Inner Mongolia']['gansu']
+0,221024,关门山组,Guanmenshan Fm,Ch,,辽宁铁岭地区,,['liaoning']
+0,221025,贺兰山群,Helanshan Gr,Ch,马峡口系,甘肃、宁夏,本名称命名于宁夏,['gansu']['ningxia']
+0,221026,红柳泉组,Hongliuquan Fm,Ch,,新疆,,['xinjiang']
+0,221027,葫芦河组,Huluhe Fm,Ch,,甘肃,,['gansu']
+0,221028,桦树沟组,Huashugou Fm,Ch,古浪峡组、龙孔组,甘肃,隶属朱龙关群上部地层,['gansu']
+0,221029,湟中群,Huangzhong Gr,Ch,,青海,,['qinghai']
+0,221030,尖山组,Jianshan Fm,Ch,,内蒙古白云鄂博—商都地区,,['Inner Mongolia']
+0,221031,卡拉克尔组,Kalakeer Fm,Ch,,新疆叶城西昆仑山北坡,本组为博查特塔格群的最下部组级单位，又曾被称为赛拉加兹塔格岩系(为其中的一部分),['xinjiang']
+0,221032,康庄子组,Kangzhuangzi Fm,Ch,,辽宁,,['liaoning']
+0,221033,骆驼畔组,Luotuopan Fm,Ch,,河南偃师佛光地区,,['henan']
+0,221034,马鞍山组,Maanshan Fm,Ch,峡*1组、上马鞍山组、下马鞍山组、尚庙岭石英岩层,河南嵩山地区,归五佛山群王曰伦、王泽九(1959)命名文献，由王泽九等(1963)在中科院地质丛刊(甲种１号)上发表本名称发表晚于台湾省之马鞍山组，应改名,['henan']
+0,221035,马厂沟组,Machanggou Fm,Ch,泊仑干布拉克组,新疆特克斯一带,本组隶属于特克斯群,['xinjiang']
+0,221036,磨石沟组,Moshigou Fm,Ch,,青海茶拉河—乐都北山,属于湟中群,['qinghai']
+0,221037,莫合西萨依组,Mohexisayi Fm,Ch,马厂沟组,新疆,特克斯群、莫合西萨依组,['xinjiang']
+0,221038,葡萄峪组,Putaoyu Fm,Ch,,河南偃师地区,普峪、葡峪均是葡萄峪地名之误称，河南区测队(1977)已改为葡萄峪组,['henan']
+0,221039,铅炉子沟群,Qianluzigou Gr,Ch,咸水井群,甘肃北山地区,,['gansu']
+0,221040,青石坡组,Qingshipo Fm,Ch,,青海湟中,隶属于湟中群,['qinghai']
+0,221041,汝阳群,Ruyang Gr,Ch,大石门石英岩、岱嵋寨层,豫西、晋南太行山地区,伊阳县于1959年改称汝阳县,['shanxi']['henan']
+0,221042,赛图拉群,Saitula Gr,Ch,赛图那群,新疆西昆仑山北坡,,['xinjiang']
+0,221043,三教堂组,Sanjiaotang Fm,Ch,,豫西渑池—汝阳—确山一带,归汝阳群,['henan']
+0,221044,书记沟组,Shujigou Fm,Ch,,内蒙古甲生盘—书记沟一带,,['Inner Mongolia']
+0,221045,塔木契组,Tamuqi Fm,Ch,库松木切克群下亚群、库西姆契克群下亚群,新疆北天山西段，精河县西南库松木切克山,,['shanxi']['xinjiang']
+0,221046,特克斯群,Tekesi Gr,Ch,,新疆特克斯一带,,['xinjiang']
+0,221047,甜水海群,Tianshuihai Gr,Ch,,新疆阿克赛钦，甜水海一带,,['xinjiang']
+0,221048,头道桥组,Toudaoqiao Fm,Ch,,新疆特克斯,隶属于特克斯群,['xinjiang']
+0,221049,团山子组,Tuanshanzi Fm,Ch,庞家堡组,天津蓟县及京、冀、辽等省市,,['tianjin']
+0,221050,五佛山群,Wufoshan Gr,Ch,,河南嵩山,,['henan']
+0,221051,小庙组,Xiaomiao Fm,Ch,,青海柴达木盆地南缘及东昆仑山一带,隶属于金水口群,['qinghai']
+0,221052,兴隆山群,Xinglongshan Gr,Ch,,甘肃兴隆山及兰州西北等地,,['gansu']
+0,221053,秧田坝(岩)组,Yangtianba Fm,Ch,横丹群，阴平组、岸门口组,甘肃、陕西,命名人未指定层型剖面。陕西区调队地层清理组1997年选定在陕西，归于碧口(岩)群上部(岩)组,['shaanxi']['gansu']
+0,221054,杨吉布拉克群,Yangjibulake Gr,Ch,,新疆鄯善县南库鲁克塔格东部,本群可能为波瓦姆群可能为沿走向的相变，本群为靠上部层位,['xinjiang']
+0,221055,云梦山组,Yun meng shan Fm,Ch,马山砾岩层、紫罗山砾岩层、莲溪寺层、武湾组,豫西及山西太行山地区,伊阳县于1959年改为汝阳县,['shanxi']
+0,221056,增隆昌组,Zenglongchang Fm,Ch,,内蒙古阿左旗－固阳等地,,['Inner Mongolia']
+0,221057,扎斯勘赛河组,Zhasikansaihe Fm,Ch,,新疆阿尔金山红柳沟,,['xinjiang']
+0,221058,赵家庄组,Zhaojiazhuang Fm,Ch,白草坪组,河北、山西、河南太行山南段,,['hebei']['shanxi']['henan']
+0,221059,朱龙关群,Zhulongguan Gr,Ch,,甘肃走廊南山南侧及托来南山，西入新疆,甘肃走廊南山南侧及托来南山，西入新疆,['gansu']['xinjiang']
+0,221060,珠玛汗萨依组,Zhumahansayi Fm,Ch,,新疆特克斯县,隶属特克斯群,['xinjiang']
+0,280001,鱼洞子杂岩,Yudongzi Complex,Pt1，Ar,,陕西略阳鱼洞子、乐素河等地,,['shaanxi']
+0,280002,哀牢山群,Ailaoshan Gr,Pt1-3,苍山群、瑶山群,云南哀牢山,一些研究者认为本群顶部尚包括底巴都组，与上覆大红山组平行不整合，与下伏接触关系不明(?)本群近年云南地矿局又改称哀牢山(岩)群,['yunnan']
+0,280003,张八岭(岩)群,Zhangbaling Gr,Pt1-3,,苏皖张八岭地区,,['jiangsu']['anhui']
+0,280004,碧口(岩)群,Bikou Gr,Pt2-3(Ch1 AnZ),豆坝群、曾家河组、东房沟组、白杨沟组等,甘、陕、川,,['sichuan']['shaanxi']['gansu']
+0,270001,魏集组,Weiji Fm,Pt3(Qn),,苏、皖北部贾汪、徐州、魏集等地,属淮河群(或宿县群),['jiangsu']['anhui']
+0,270002,大网子组,Dawangzi Fm,Pt3-∈1,大乌苏河组,黑龙江省呼玛县大兴安岭,属倭勒根群,['heilongjiang']
+0,270003,嘎拉山组,Galashan Fm,Pt3-∈1,黑被子组,小兴安岭落马湖地区及库伊河流域,属落马湖群,
+0,270004,吉祥沟组,Jixianggou Fm,Pt3-∈1,房建组,大兴安岭倭勒根河及大乌苏河流域,属倭勒根群,['jiangsu']
+0,270005,落马湖群,Luomahu Gr,Pt3-∈1,,呼玛县落马湖-宽河一带及德都县库伊河流域,王莹将姜春潮所建的落马湖变质岩群改称为落马湖群,
+0,270006,铁帽山组,Tie maoshan Fm,Pt3-∈1,,黑龙江北部,属落马湖群,['heilongjiang']
+0,270007,倭勒根群,Wolegen Gr,Pt3-∈1,零点群,黑龙江大兴安岭地区,,['heilongjiang']
+0,260001,苍山群,Cangshan Gr,Pt2-3,点苍山变质岩系,云南,本群可能包括不同时代的地层体，待研究,['yunnan']
+0,260002,登相营群,Dengxiangying Gr,Pt2-3,喜德群,四川喜德、冕宁二县交界处,,['sichuan']
+0,260003,丰垌口组,Fengdongkou Fm,Pt2-3,云开群中亚群,广东信宜-罗定,,['guangdong']
+0,260004,柳坝塘组,Liubatang Fm,Pt2-3,,滇中晋宁、易门、安宁、禄丰等县,属昆阳群上部的组,['shanxi']['yunnan']['ningxia']
+0,260005,罗罅组,Luoxia Fm,Pt2-3,,粤西、桂东南,,['guangdong']['guangxi']
+0,260006,宁多群,Ningduo Gr,Pt2-3,雄松群,青海、西藏交界地区,,['tibet']['qinghai']
+0,260007,上两组,Shangliang Fm,Pt2-3,,川北旺苍、南江及陕西南郑一带,陕西境内可进一步划分为王家河段(下部)和岳家河段(上部),['shaanxi']
+0,260008,万宝沟群,Wanbaogou Gr,Pt2-3,,青海东昆仑,,['qinghai']
+0,260009,峡河(岩)群,Xiahe Gr,Pt2-3,,河南西峡县界牌及陕西商都一带,"本(岩)群自秦岭(岩)群中解体出来,其Sm-Nd同位素年龄为1605±76Ma(据裴先治，1994)",['henan']['shaanxi']
+0,260010,云开群,Yunkai Gr,Pt2-3,,广东高州-信宜-罗定,,['guangdong']
+0,250001,后河(岩)群,Houhe Gr,Pt1-2,,川北、陕南,原称火地垭群后河组,['sichuan']['shaanxi']
+0,250002,鸡蛋坪组,Jidanping Fm,Pt1-2,中熊耳组、焦园组,晋南、豫西地区,,['shanxi']['henan']
+0,250003,墨色同(岩)组,Mosetong Fm,Pt1-2,,西藏察隅一带,,['tibet']
+0,250004,蛇绿岩组,Shelu(Ophiolite) Fm,Pt1-2,,西藏察隅,有人认为，本组无地理名称，属非正式单位，建议改称察隅蛇绿岩,['tibet']
+0,250005,铜厂街(岩)群,Tongchangjie Gr,Pt1-2,,云南铜厂街、耿马勐永-四排山以东一带,本(岩)群为原1∶20万凤庆幅等所划分的下石炭统平掌组及部分泥盆系温泉组，1∶50万数字地质图编图组按构造-岩层单位建立铜厂街(岩)群,['yunnan']
+0,250006,许山组,Xushan Fm,Pt1-2,下熊耳群、下熊耳组、下安山玢岩段、张合庙组,豫西及山西垣曲一带,,['shanxi']
+0,250007,鄣公山组,Zhanggongshan Fm,Pt1-2,皇后组、漳前组、南山组,皖赣交界的平鼻岭瑶里及猫儿劲,隶属双桥山群,['anhui']['jaingxi']
+0,250008,西阳河群,Xiyanghe Gr,Pt2(Pt1),熊耳群、同善镇火山岩,晋、豫交界地区,华北地区现已归于熊耳群,['shanxi']['henan']
+0,230001,八里垭组,Baliya Fm,Pt3,,湖北神农架,,['hubei']
+0,230002,白竹组,Baizhu Fm,Pt3,,桂北,隶属于丹洲群,['guangxi']
+0,230003,百合垄组,Baihelong Fm,Pt3,,湖南雪峰山,,['hunan']
+0,230004,板溪群,Banxi Gr,Pt3,东交群、官庄统、洪江系、马迹塘系、仙人界系、下江群、丹洲群等,湘西、湘西北、四川秀山、贵州梵净山等地,贵州本群分为红子溪组、鹅家坳 组(或清水江组)；四川划为马底驿组(下)和五强溪组(上),['sichuan']['guizhou']
+0,230005,宝林冲组,Baolinchong Fm,Pt3,,湖南益阳一带,,['hunan']
+0,230006,北宽河组,Beikuanhe Fm,Pt3,头山组,黑龙江小兴安岭,属落马湖群,['heilongjiang']
+0,230007,北师河组,Beishihe Fm,Pt3,,黑龙江呼玛、嫩江县一带,属新开岭群，现已不用此名称,['heilongjiang']
+0,230008,播根里沟组,Bogenligou Fm,Pt3,,黑龙江嫩江县一带,该组命名后又停用,['heilongjiang']
+0,230009,草曲群,Caoqu Gr,Pt3,,西藏昌都,,['tibet']
+0,230010,城山组,Chengshan Fm,Pt3,山巨山组、寿县组、四十里长山组、桥头组,江苏贾汪、徐州,,['jiangsu']
+0,230011,崔庄组,Cuizhuang Fm,Pt3,王官峪(板岩、页岩)层,河南渑池-汝阳-确山一带及山西中条山区,,['shanxi']['henan']
+0,230012,大河边(岩)组,Dahebian Fm,Pt3,,云南哀牢山北坡,本岩组原属哀牢山(岩)群，由于其变质程度较弱(高绿片岩相)，故云南1∶50万数字地质图编图组将其单独分出另建新(岩)组,['yunnan']
+0,230013,大红口组,Dahongkou Fm,Pt3,,河南栾川,,['henan']
+0,230014,大江边组,Dajiangbian Fm,Pt3,,湖南东南泗洲山一带,,['hunan']
+0,230015,大新屋(岩)组,Daxinwu Fm,Pt3,,安徽宿松,,['anhui']
+0,230016,丹凤群(岩)群,Danfeng Gr(Gr),Pt3,,陕西太白-丹凤一带,丹凤群首先见于陕西区调队“三群”研究组1985年完成的陕西秦岭群划分及含矿性研究报告据西安地院，1995年区调成果,['shaanxi']
+0,230017,丹洲群,Danzhou Gr,Pt3,四堡群,广西北部九万大山一带,,['guangxi']
+0,230018,德钦(岩)群,Deqin Gr,Pt3,,西藏盐井-德钦-巴迪,,['tibet']
+0,230019,多益塘组,Duoyitang Fm,Pt3,,湖南芷江一带,隶属板溪群,['hunan']
+0,230020,鹅家坳组,Ejiaao Fm,Pt3,清水江组,黔东北，江口、松桃一带,,['guizhou']
+0,230021,番召组,Fanzhao Fm,Pt3,,黔东,,['guizhou']
+0,230022,肥东(岩)群,Feidong Gr,Pt3,,安徽浮槎山-双山-青阳山一线,本正层型由 安徽区调队1978年重测该岩群主要是以含磷、锰为特征的较单一的碳酸盐岩系顶底不全 ，上、下皆为变形变质侵入体,['anhui']
+0,230023,芙蓉坝组,Furongba Fm,Pt3,,黔 东北梵净山区及川南秀山地区,,['sichuan']['guizhou']
+0,230024,高涧群,Gaojian Gr,Pt3,,湘中、湘西南,,['hunan']
+0,230025,拱洞组,Gongdong Fm,Pt3,,桂北九万大山至越城岭,属丹洲群,['guangxi']
+0,230026,垢神庙组,Goushenmiao Fm,Pt3,,陕西洛南-商县,,['shaanxi']
+0,230027,龟山(岩)组,Guishan Fm,Pt3,西官庄组、杨家河组,河南西峡 至商城一带,,['henan']
+0,230028,合桐组,Hetong Fm,Pt3,,桂北九万大山至龙胜一带,隶属于丹洲群,['guangxi']
+0,230029,何家寨组,Hejiazhai Fm,Pt3,,河南偃师,何家寨乃郝家寨地名之误，因沿用已久，不再更改,['henan']
+0,230030,河上镇群,Heshangzhen Gr,Pt3,,浙江,,['zhejaing']
+0,230031,横路冲组,Hengluchong Fm,Pt3,沙坪组（段）、马底驿组二段,湖南武陵山-雪峰山区,,['hunan']
+0,230032,红光组,Hongguang Fm,Pt3,,黑龙江张广才岭,,['heilongjiang']
+0,230033,红子溪组,Hongzixi Fm,Pt3,,贵州梵净山区,,['guizhou']
+0,230034,虹赤村组,Hongchicun Fm,Pt3,双桥山群、松木坞群,浙西北,,['zhejaing']
+0,230035,浒岭组,Huling Fm,Pt3,古县(岩)组,江西峡江、丰城、启丰等地,原称浒岭千枚岩,['jaingxi']
+0,230036,花山组,Huashan Fm,Pt3,大洪山砾岩组、六房咀板岩组,鄂中大洪山,,['hubei']
+0,230037,淮河群,Huaihe Gr,Pt3,,苏、皖北部,,['jiangsu']['anhui']
+0,230038,黄狮洞组,Huangshidong Fm,Pt3,东冲组,湖南雪峰山南缘、湘中及湘西南,,['hunan']
+0,230039,黄松群,Huangsong Gr,Pt3,,黑龙江太平岭一带,,['heilongjiang']
+0,230040,火夹岭组,Huojialing Fm,Pt3,,江西中部,,['jaingxi']
+0,230041,火烧尖组,Huoshaojian Fm,Pt3,,湖北兴山县,,['hubei']
+0,230042,甲路组,Jialu Fm,Pt3,,黔东南及梵净山西北侧,,['shanxi']
+0,230043,贾园组,Jiayuan Fm,Pt3,长岭子组、九里桥组,淮北、苏北,属淮河群,['jiangsu']
+0,230044,架枧田组,Jiajiantian Fm,Pt3,,雪峰山南缘、湘中及湘西南,,['hunan']
+0,230045,金竹坪组,Jinzhuping Fm,Pt3,,贵州梵净山西北侧张家坝-金竹坪一带,本组原归乌叶组，因岩性有明显差别而改用此名,['shanxi']['guizhou']
+0,230046,巨甸(岩)群,Judian Gr,Pt3,,云南维西塔城-丽江巨甸,,['yunnan']
+0,230047,库里组,Kuli Fm,Pt3,白沙千枚岩、螺田岩组,江西武功山区及新干县、永丰县,,['jaingxi']
+0,230048,拉拉沟(岩)组,Lalagou Fm,Pt3,西保安组,吉林敦化市,隶属于塔东(岩)群,['jilin']
+0,230049,兰坑组,Lankeng Fm,Pt3,牛辰坳组,广东信宜、兰坑-冻水坑,,['guangdong']
+0,230050,澜沧群,Lancang Gr,Pt3,,云南,,['yunnan']
+0,230051,里尔峪组,Lieryu Fm,Pt3,南辽河群等,辽东、吉林南部海城、通化等地,,['jilin']
+0,230052,柳坪(岩)组,Liuping Fm,Pt3,,安徽高尖-柳坪-南冲一带,隶属宿松(岩)群,['anhui']
+0,230053,隆里组,Longli Fm,Pt3,,黔东南,属下江群,['guizhou']
+0,230054,栾川群,Luanchuan Gr,Pt3,,豫、陕,,['henan']['shaanxi']
+0,230055,罗平山(岩)组,Luopingshan Fm,Pt3,,云南洱源点苍山北坡,,['yunnan']
+0,230056,骆家门组,Luojiamen Fm,Pt3,白沙群、溪口群、钟吕群、演吉岭组,浙西北区,,['zhejaing']
+0,230057,马槽园群,Macaoyuan Gr,Pt3,,湖北兴山神农架马槽园,创名时为马槽园组,['hubei']
+0,230058,马底驿组,Madiyi Fm,Pt3,红砂溪组、沙坪组(段),湖南、四川,层型剖面为唐晓珊等1988年所选定,['hunan']['sichuan']
+0,230059,马家街群,Majiajie Gr,Pt3,,黑龙江桦南县马家街、萝北县刚本山一带,黑龙江地层表编写组改为“群”,['heilongjiang']
+0,230060,曼来组,Manlai Fm,Pt3,勐满组,云南,为澜沧群中部的一个组,['yunnan']
+0,230061,梅家山(岩)群,Meijiashan Gr,Pt3,,云南高黎贡山腾冲段西坡一带,,['yunnan']
+0,230062,煤窑沟组,Meiyaogou Fm,Pt3,,河南卢氏、栾川、方城地区,归栾川群,['henan']
+0,230063,勐井山组,Mengjingshan Fm,Pt3,,云南勐海、南勒一带,为澜沧群下部的一个组,['yunnan']
+0,230064,南坑河组,Nankenghe Fm,Pt3,,云南,该组为澜沧群最顶部的一个组,['yunnan']
+0,230065,南木岭组,Nanmuling Fm,Pt3,,云南勐海南木岭一带,为澜沧群底部的一个组,['hainan']['yunnan']
+0,230066,倪园组,Niyuan Fm,Pt3,,苏、皖北部、贾汪、徐洲、宿州等地,属淮河群(宿县群)畸形方解石脉又称地震泥晶脉--乔秀夫等,['jiangsu']['anhui']
+0,230067,牛牯坪组,Niuguping Fm,Pt3,,湖南雪峰山一带,,['hunan']
+0,230068,帕可组,Pake Fm,Pt3,,云南西盟县一带,,['yunnan']
+0,230069,平略组,Pinglue Fm,Pt3,,黔东,,['guizhou']
+0,230070,清水江组,Qingshuijiang Fm,Pt3,,黔东地区,,['guizhou']
+0,230071,沙湾坪组,Shawanping Fm,Pt3,,广东信宜-罗定,,['guangdong']
+0,230072,上墅组,Shangshu Fm,Pt3,桃源组、叶家组,浙西北、赣东北地区,,['zhejaing']['jaingxi']
+0,230073,石板河组,Shibanhe Fm,Pt3,中沟组,陕西,,['shaanxi']
+0,230074,石桥铺组,Shiqiaopu Fm,Pt3,板溪群枷榜组、高涧组砂砾岩段,湘中及湘西南,,['hunan']
+0,230075,宿松(岩)群,Susong Gr.,Pt3,,安徽、湖北大别山区,,['anhui']['hubei']
+0,230076,塔东(岩)群,Tadong Gr.,Pt3,青龙村群、二合岩群,吉林敦化塔东、官地、东石河及汪清等地,,['jilin']
+0,230077,陶湾组,Taowan Fm,Pt3,,豫、陕、栾川-洛南一带,陕西本组包含风脉庙段、秋树沟段又称为陶湾(岩)组、陶湾群,['henan']['sichuan']['shaanxi']
+0,230078,田东组,Tiandong Fm,Pt3,,江西永丰一带,,['jaingxi']
+0,230079,通塔湾组,Tongtawan Fm,Pt3,,湘西，湘北及雪峰山,,['hunan']
+0,230080,望狐组,Wanghu Fm,Pt3,,山西恒山-五台山一带,,['shanxi']
+0,230081,望山组,Wangshan Fm,Pt3,,苏、皖北部,属宿县群,['jiangsu']['anhui']
+0,230082,乌叶组,Wuye Fm,Pt3,丹州群之合桐组,黔东梵净山,本组原归上板溪群，后改属于板溪群，下江群或拉揽群,['guizhou']
+0,230083,五强溪组,Wuqiangxi Fm,Pt3,楠木河组、两岔溪组,湘西、湘东和四川秀山一带,,['sichuan']
+0,230084,西冷(岩)组,Xileng Fm．,Pt3,张八岭组,安徽滁县一带,归属张八岭(岩)群,['anhui']
+0,230085,下江群,Xiajiang Gr,Pt3,加榜组、拉揽组、板溪群、丹洲群,黔东南区,下江群六个组正层型组成下江群的层型剖面,['guizhou']
+0,230086,新开岭群,Xinkailing Gr,Pt3,,黑龙江嫩江一带,,['heilongjiang']
+0,230087,新兴组,Xinxing Fm,Pt3,,黑龙江海林一带,属张广才岭群,['heilongjiang']
+0,230088,岩门寨组,Yanmenzhai Fm,Pt3,拉榄组、漠滨组板岩-砂岩段,湖南雪峰山南缘、湘中及湘西南,,['hunan']
+0,230089,阎王殿组,Yanwangdian Fm,Pt3,,黑龙江东宁县、穆棱县,属黄松群,['heilongjiang']
+0,230090,杨木组,Yangmu Fm,Pt3,,黑龙江省东宁县,属黄松群,['heilongjiang']
+0,230091,一面坡群,Yimianpo Gr,Pt3,,黑龙江省尚志市、海林县、五常县等地,黑龙江区调队(1997)建议停用本名称，将其归于新兴组和五宽河组,['heilongjiang']
+0,230092,鱼库组,Yuku Fm,Pt3,,河南栾川、卢氏一带,,['henan']
+0,230093,云彩岭组,Yuncailing Fm,Pt3,,山西恒山及广灵、灵丘一带,,['shanxi']
+0,230094,云场里组,Yunchangli Fm,Pt3,,湖南城步、通道一带,,['hunan']
+0,230095,张广才岭群,Zhangguangcailing Gr,Pt3,,黑龙江海林县及吉林境内,,['jilin']['heilongjiang']
+0,230096,张家坝组,Zhangjiaba Fm,Pt3,番召组,贵州梵净山西北侧，印江张家坝-石灰窑一带,,['shanxi']['guizhou']
+0,230097,张家湾组,Zhangjiawan Fm,Pt3,马底驿组、泥市群、莲沱组下部,湖南石门，浏阳及湖北鹤峰、长阳等地,,['hubei']['hunan']
+0,230098,赵圩组,Zhaowei Fm,Pt3,南关岭组,苏皖北部贾汪、徐州、宿州以东,在江苏属淮河群下亚群，在安徽隶属于宿县群,['jiangsu']['anhui']
+0,230099,正沟组,Zhenggou Fm,Pt3,磨石山组,黑龙江省海林县,属张广才岭群,['heilongjiang']
+0,230100,砖墙湾组,Zhuanqiangwan Fm,Pt3,,湖南雪峰山南缘、湘中及湘西南,,['hunan']
+0,220001,安乐林组,Anlelin Fm,Pt2,利安组、大坑组、三汊港组,江西北 部地区,,['jaingxi']
+0,220002,白草坪组,Baicaoping Fm,Pt2,,河南西部，山西垣曲、阳城、芮城、永济一带,,['shanxi']['henan']
+0,220003,板桥(岩)组,Banqiao Fm．,Pt2,,安徽祁门一带,归属上溪(岩)群,['anhui']
+0,220004,板石沟(岩)组,Banshigou Fm．,Pt2,大孤家子(岩)组,辽宁开原市一带,隶属于开原( 岩)群,['liaoning']
+0,220005,宝峰寨段,Baofengzhai Mem,Pt2,,山西浑源一带,,['shanxi']
+0,220006,北大尖组,Beidajian Fm,Pt2,上洛峪层、岱嵋寨层,豫西、晋南地区,,['shanxi']['henan']
+0,220007,北坞组,Beiwu Fm,Pt2,,浙西,,['zhejaing']
+0,220008,茶坊子段,Chafanzi Mem,Pt2,,山西五台山及河北灵丘,本段原称为茶房子灰岩、茶房子组,['hebei']['shanxi']
+0,220009,茶壶山段,Chahushan Mem,Pt2,,山西、河北太行山区,,['hebei']['shanxi']
+0,220010,朝王坪组,Chaowangping Fm,Pt2,,四川喜德县一带,,['sichuan']
+0,220011,陈蔡群,Chencai Gr,Pt2,,浙江陈蔡,,['zhejaing']
+0,220012,茨竹坪组,Cizhuping Fm,Pt2,,四川峨边、甘洛一带,本组原为四川一区调队所定峨边群第三段,['sichuan']
+0,220013,大河组,Dahe Fm,Pt2,云梦山组,晋豫交界地带,,['shanxi']['henan']
+0,220014,大理(岩)群,Dali Gr,Pt2,,云南洱源-大理-下关一线以西一带,本组最初由格力高利1925年命名为大理系；1991年云南三队区调分队将该变质岩分解，重建为沟头箐(岩)群和点苍山(岩)群；1998年云南1∶50万数字地质图编图组又按命名优先原则将苍山群改称大理(岩)群,['yunnan']
+0,220015,大龙口组,Dalongkou Fm,Pt2,,云南易门至元江及东川,属昆阳群,['yunnan']
+0,220016,大勐龙群,Damenglong Gr,Pt2,,云南景洪一带,1998年云南1∶50万数字地质图编图组改称为大勐龙(岩)群，应为“群”,['yunnan']
+0,220017,大热渣组,Darezha Fm,Pt2,大山组、登相营组,四川喜德县及冕宁县一带,,['sichuan']
+0,220018,大窝坑组,Dawokeng Fm,Pt2,,湖北神农架,,['hubei']
+0,220019,大岩坪组,Dayanping Fm,Pt2,,湖北神农架,,['hubei']
+0,220020,大药姑组,Dayaogu Fm,Pt2,,湖北咸宁、通山,,['hubei']
+0,220021,大营盘组,Dayingpan Fm,Pt2,,云南东川,隶属于昆阳群,['yunnan']
+0,220022,捣臼湾组,Daojiuwan Fm,Pt2,,浙江诸暨陈蔡等地,,['zhejaing']
+0,220023,定远(岩)组,Dingyuan Fm,Pt2,,河南桐柏至商城一带,,['henan']
+0,220024,独岩塘组,Duyantang Fm,Pt2,,贵州梵净山一带,,['guizhou']
+0,220025,峨边群,Ebian Gr,Pt2,昆阳系,四川峨边、甘洛一带,本组最初称为峨边变 质岩群、峨边系,['sichuan']
+0,220026,鹅头厂组,Etouchang Fm,Pt2,,云南禄丰,,['yunnan']
+0,220027,范家峧段,Fanji ajiao Mem,Pt2,,山西太行山,,['shanxi']
+0,220028,梵净山群,Fanjingshan Gr,Pt2,,贵州梵净山区,,['guizhou']
+0,220029,凤山营组,Fengshanying Fm,Pt2,,四川会理 、会东一带,,['sichuan']
+0,220030,富良棚组,Fuliangpeng Fm,Pt2,,云南易门至元江,属昆阳群,['yunnan']
+0,220031,干河坝组,Ganheba Fm,Pt2,黄水河群第一岩组、回龙沟组,四 川宝兴、芦山、大邑、彭县、汶川,,['sichuan']
+0,220032,古村坪(岩)组,Gucunping Fm,Pt2,,湖北,,['hubei']
+0,220033,关防山组,Guanfangshan Fm,Pt2,白铜尖子组、大宝山组,四川宝兴、芦山 、彭县、大邑,,['sichuan']
+0,220034,广东坪(岩)组,Guangdongping Fm,Pt2,甘峪湾组、下庄组、左老庄组、甘罗沟组,陕、豫,属宽坪(岩)群,['henan']['shaanxi']
+0,220035,海州(岩)群,Haizhou Gr,Pt2,宿松(岩)群、红安(岩)群、云台系、坪上组,江苏,,['jiangsu']
+0,220036,韩源组,Hanyuan Fm,Pt2,漆工组,江西弋阳至德兴,,['jaingxi']
+0,220037,河村组,Hecun Fm,Pt2,,贵州从江南部及桂北地区,,['guizhou']
+0,220038,黑山头组,Heishantou Fm,Pt2,三尖山组,滇东,属昆阳群,['yunnan']
+0,220039,黑山组,Heishan Fm,Pt2,小青山组、通安组三段、莲塘组、鹅头厂组,四川会理、会东及云南,本名称命名于云南，现云南已停用，以鹅头厂组代替，四川的次层型为会理通安剖面,['sichuan']['yunnan']
+0,220040,横涌组,Hengyong Fm,Pt2,皮山桥组、沱川组、塘坑组,江西北部,隶属于双桥山群下部,['jaingxi']
+0,220041,红安(岩)群,Hongan Gr,Pt2,宿松群、宿松含磷片岩系等,湖北,,['hubei']
+0,220042,狐子沟段,Huzigou Mem,Pt2,,山西,,['shanxi']
+0,220043,浒湾(岩)组,Huwan Fm,Pt2,狮子口组,桐柏山大别山北坡,隶属苏家河(岩)群,
+0,220044,荒田组,Huangtian Fm,Pt2,,四川盐边一带,,['sichuan']
+0,220045,黄草岭组,Huangcaoling Fm,Pt2,,云南晋宁至元江及东川,属昆阳群,['yunnan']
+0,220046,黄浒洞组,Huanghudong Fm,Pt2,,湖南,本组原属冷家溪群三组一段,['hunan']
+0,220047,黄麦岭(岩)组,Huangmailing Fm,Pt2,,湖北大别-桐柏山南麓,,['hubei']
+0,220048,黄水河群,Huangshuihe Gr,Pt2,羊村组、白水河系(群)、铜厂河群、岷江系、白鱼落群、茂县变质岩系,四川,,['sichuan']
+0,220049,黄铜尖子组,Huangtongjianzi Fm,Pt2,马松岭组,四川芦山、大邑、彭县等地,,['sichuan']
+0,220050,回香坪组,Huixiangping Fm,Pt2,,贵州梵净山区,,['guizhou']
+0,220051,会理群,Huili Gr,Pt2,宁南系、昆阳群,四川会理、会东地区,常隆庆，1937年首创会理系，含义过于广泛，部分大体相当会理群；谢振西重新厘定，真正确定会理群的实质和含义,['sichuan']
+0,220052,火地垭群,Huodiya Gr,Pt2,,川北、陕西,部分研究者将其与康定(岩)群对比,['shaanxi']
+0,220053,计林组,Jilin Fm,Pt2,下阮组,江西修水流域及鄱阳湖以北,,['jaingxi']
+0,220054,枷担桥组,Jiadanqiao Fm,Pt2,,四川峨边、马边一带,,['sichuan']
+0,220055,界牌(岩)组,Jiepai Fm,Pt2,大梁头组,河南西峡-桐柏、陕西商南,隶属峡河(岩)群本(岩)组应称为界牌组--编者注,['henan']['shaanxi']
+0,220056,锦屏(岩)组,Jinping Fm,Pt2,,江苏连云港-沭阳,属海州(岩)群本(岩)组曾称为锦屏含磷组、锦屏组本(岩)组的磷灰石U-Pb年龄为1735～1701Ma,['jiangsu']
+0,220057,九龙群,Jiulong Gr,Pt2,,黔东南、桂北,有人认为，本群名与河北省∈2-O1九龙群为同名异物，本群名应改名称,['guangxi']['guizhou']
+0,220058,九盘营组,Jiupanying Fm,Pt2,,四川喜德,,['sichuan']
+0,220059,九小组,Jiuxiao Fm,Pt2,,桂北九万大山一带,隶属于四堡群,['guangxi']
+0,220060,开原(岩)群,Kaiyuan Gr,Pt2,沙河(岩)组,辽宁开原、铁岭一带,,['liaoning']
+0,220061,崆岭(岩)群,Kongling Gr,Pt2,杨坡杂岩(群)、方岭片岩,湖北峡东黄陵,,['hubei']
+0,220062,宽坪(岩)群,Kuanpingyan Gr,Pt2,甘峪湾组、汤峪组、麻街组、大镇沟组、五峰山组、叫河组、红崖沟组等,陕西、豫西南,本岩群三个(岩)组，只代表三种岩类，不反映层序关系,['shaanxi']
+0,220063,矿石山组,Kuangshishan Fm,Pt2,,湖北神农架,,['hubei']
+0,220064,昆阳群,Kunyang Gr,Pt2,会理群,云南,本群的层序尚有争议，待研究,['yunnan']
+0,220065,烂包坪组,Lanbaoping Fm,Pt2,,四川峨边烂包坪、顶牛包一带,,['sichuan']
+0,220066,榔树底组,Langshudi Fm,Pt2,小浮溪组、东坑组、铁罗山组,江西德兴,,['jaingxi']
+0,220067,雷神庙组,Leishenmiao Fm,Pt2,,湘东北一带,,['hunan']
+0,220068,冷家溪群,Lengjiaxi Gr,Pt2,,湘、鄂,湖南地矿局四一三队，1958年厘定冷家溪群为武陵运动不整合面之下的一套浅变质砂泥质地层,['hubei']['hunan']
+0,220069,力马河组,Limahe Fm,Pt2,糯廓组、龙头山石英岩、老宫山亚组、水儿庙组,四川会东、会理南部一带,,['sichuan']
+0,220070,龙川(岩)群,Longchuan Gr,Pt2,,云南元谋县老城西一带,本(岩)群曾称羊臼河(岩)群(1∶5万老城报告)，1∶50万数字地质图编者认为龙川群命名在先，故改用本名,['yunnan']
+0,220071,陇山(岩)群,Longshan Gr,Pt2,,陕西陇县-宝鸡一带,,['shaanxi']
+0,220072,绿汁江组,Luzhijiang Fm,Pt2,,云南,属昆阳群,['yunnan']
+0,220073,乱石沟组,Luanshigou Fm,Pt2,,湖北神农架九冲等地,,['hubei']
+0,220074,洛南群,Luonan Gr,Pt2,,陕、豫、晋山西仅保存有该群最下部，陕西小秦岭、河南崤山一带,河南已改称官道口群,['shanxi']['henan']['shaanxi']
+0,220075,落雪组,Luoxue Fm,Pt2,通安组二段，黑箐组,云南、四川,属昆阳群,['sichuan']['yunnan']
+0,220076,麻地组,Madi Fm,Pt2,,云南东川,属昆阳群,['yunnan']
+0,220077,麻窝子组,Mawozi Fm,Pt2,,四川南郑及陕西碑坝地区,,['sichuan']['shaanxi']
+0,220078,马家河组,Majiahe Fm,Pt2,西山底层、坡前街组、龙脖组、眼窑寨组、上安山岩组、上熊耳群、上安山岩段、上熊耳组,山西、河南,,['shanxi']['henan']
+0,220079,美党组,Meidang Fm,Pt2,,滇中、滇东,属昆阳群,['yunnan']
+0,220080,庙湾组,Miaowan Fm,Pt2,,湖北三峡,,['hubei']
+0,220081,木坑(岩)组,Mukeng Fm,Pt2,,安徽,属上溪(岩)群,['anhui']
+0,220082,南井段,Nanjing Mem,Pt2,,山西太行山中段昔阳、左权,,['shanxi']
+0,220083,南桥组,Nanqiao Fm,Pt2,,湖南浏阳、益阳等地,,['hunan']
+0,220084,南赛纳尔塔格组,Nansainaertage Fm,Pt2,爱尔基干群、南辛格尔塔格组(岩系),新疆库鲁克塔格,,['xinjiang']
+0,220085,牛屋(岩)组,Niuwu Fm,Pt2,,安徽祁门一带及江西,归属上溪(岩)群,['anhui']['jaingxi']
+0,220086,埤城(岩)群,Picheng Gr,Pt2,,江苏宁镇地区,,['jiangsu']
+0,220087,平水组,Pingshui Fm,Pt2,钟吕群下部、白沙群,浙西北区,又称平水群，隶属于双溪坞群,['zhejaing']
+0,220088,坪原组,Pingyuan Fm,Pt2,板溪群上亚群、冷家溪群第四岩组,湘东,,['hunan']
+0,220089,七角山(岩)组,Qijiaoshan Fm,Pt2,,湖北桐柏-大别山区,,['hubei']
+0,220090,青龙山组,Qinglongshan Fm,Pt2,通安组四段及尘河组,川、滇,为云南命名的岩石地层单位，与绿汁江组相当，故停用,['sichuan']['yunnan']
+0,220091,三花石群,Sanhuashi Gr,Pt2,,陕南、豫西,,['henan']['shaanxi']
+0,220092,三门街组,Sanmenjie Fm,Pt2,,桂北龙胜县,隶属于丹洲群,['guangxi']
+0,220093,上溪(岩)群,Shangxi Gr,Pt2,,安徽祁门一带,,['anhui']
+0,220094,深沟组,Shengou Fm,Pt2,泥旦山群,川西一带,有人认为，本名称与青海区测队所命名的中寒武统深沟组同名异物，本名称应更改,['sichuan']
+0,220095,神农架群,Shennongjia Gr,Pt2,打鼓石群、白果树白云岩,湖北神农架及大洪山地区,,['hubei']
+0,220096,石槽河组,Shicaohe Fm,Pt2,,鄂西神农架及大洪山地区,当时命名石槽河群,['hubei']
+0,220097,双桥山群,Shuangqiaoshan Gr,Pt2,九岭片岩、匡顶板岩,江西修水、武宁等地,,['jaingxi']
+0,220098,双溪坞群,Shuangxiwu Gr,Pt2,平水群、钟吕群、白沙群下部、松木坞群下部等,浙江,,['zhejaing']
+0,220099,四堡群,Sibao Gr,Pt2,,桂北九万大山至元宝山一带,,['guangxi']
+0,220100,四岔口(岩)组,Sichakou Fm,Pt2,大镇沟组、红崖沟组、麻街组、广东坪组,豫、陕、洛南-卢氏-桐柏一带,属宽坪(岩)群,['henan']['shaanxi']
+0,220101,寺垴段,Sinao Mem,Pt2,松林村组,山西太行山区(昔阳一带),,['shanxi']
+0,220102,松林坪组,Songlinping Fm,Pt2,,四川喜德县松林坪一带,,['sichuan']
+0,220103,送子园组,Songziyuan Fm,Pt2,,鄂西神农架、大洪山地区,,['hubei']
+0,220104,苏家河(岩)群,Sujiaheyan Gr,Pt2,,湖北桐柏-商城一带,,['hubei']
+0,220105,塔耳岗(岩)组,Taergang Fm,Pt2,,湖北桐柏山、大别山区,,['hubei']
+0,220106,台子组,Taizi Fm,Pt2,韩家洼组,湖北神农架,,['hubei']
+0,220107,淌塘组,Tangtang Fm,Pt2,双水井组、滥坝组、大营盘群、小罗田组,四川会东、会理通安,,['sichuan']
+0,220108,桃子坝组,Taoziba Fm,Pt2,花椒坪组、花椒寨组、金口河组、冷竹坪组,云南，四川峨边县,本组隶属峨边群,['sichuan']['yunnan']
+0,220109,淘金河组,Taojinhe Fm,Pt2,,贵州梵净山区,,['guizhou']
+0,220110,套掌段,Taozhang Mem,Pt2,,山西昔阳-左权东部,,['shanxi']
+0,220111,天宝山组,Tianbaoshan Fm,Pt2,乐跃组,云南会理、德昌一带,,['yunnan']
+0,220112,天台山(岩)组,Tiantaishan Fm,Pt2,卡房组、新县组,湖北红安一带,本组也称为天台山组,['hubei']
+0,220113,田里(岩)组,Tianli Fm,Pt2,诸家组、翁家岭片岩,江西上饶,赣东北地质大队(1977)称此变质岩为“双桥山群”,['jaingxi']
+0,220114,铁沙街(岩)组,Tieshajie Fm,Pt2,神山群,江西弋阳,,['jaingxi']
+0,220115,铜厂组,Tongchang Fm,Pt2,,贵州铜厂，冷家坝一带,,['guizhou']
+0,220116,童子崖段,Tongziya Mem,Pt2,,山西五台山-恒山区,,['shanxi']
+0,220117,洼溪组,Waxi Fm,Pt2,,贵州梵净山,,['guizhou']
+0,220118,瓦钢溪组,Wagangxi Fm,Pt2,,湖北神农架及大洪山地区,,['hubei']
+0,220119,魏家沟(岩)群,Weijiagou Gr,Pt2,迟家杖子(岩)组、巴林桥组,辽宁阜新北部,,['liaoning']
+0,220120,温水河组,Wenshuihe Fm,Pt2,,湖北神农架及大洪山,,['hubei']
+0,220121,文通组,Wentong Fm,Pt2,,广西九万大山一带,隶属于四堡群,['guangxi']
+0,220122,武当(岩)群,Wudang Gr,Pt2,郧西群、两郧群,鄂、陕,由姚坪(岩)组、杨坪(岩)组构成复合层型二者的上、下关系尚有不同意见，待研究,['hubei']['shaanxi']
+0,220123,下河图组,Xiahetu Fm,Pt2,,浙江诸暨陈蔡及浙东南区等地,,['zhejaing']
+0,220124,下吴宅组,Xiawuzhai Fm,Pt2,,浙江诸暨、陈蔡等地,,['zhejaing']
+0,220125,小河口组,Xiaohekou Fm,Pt2,茂鹿组、力马河组、大营盘组,云南东川,属昆阳群,['yunnan']
+0,220126,小木坪组,Xiaomuping Fm,Pt2,,湘、鄂,,['hubei']['hunan']
+0,220127,小坪组,Xiaoping Fm,Pt2,,四川盐边,,['sichuan']
+0,220128,小以村(岩)组,Xiaoyicun Fm,Pt2,小溪村组、中岩组,湖北宜昌,小以村为小溪村之误,['hubei']
+0,220129,肖家河组,Xiaojiahe Fm,Pt2,,贵州梵净山,,['guizhou']
+0,220130,谢湾(岩)组,Xiewan Fm,Pt2,叫河组、汤峪组、水晶河组,河南、陕西,隶属宽坪(岩)群,['henan']['shaanxi']
+0,220131,新安组,Xinan Fm,Pt2,,广东廉江、化州、高州等地,,['guangdong']
+0,220132,修水组,Xiushui Fm,Pt2,新民组、石城组、乌石尖组、诸家组、观音阁组,江西修水,,['jaingxi']
+0,220133,徐岸组,Xuan Fm,Pt2,,浙江诸暨陈蔡等地,,['zhejaing']
+0,220134,岩山组,Yanshan Fm,Pt2,,浙西北地区,,['zhejaing']
+0,220135,盐边群,Yanbian Gr,Pt2,,四川盐边县龙胜乡至桔子坪一带,,['sichuan']
+0,220136,杨坪(岩)组,Yangping Fm,Pt2,,陕西安康、商南及湖北武当地区,,['hubei']['shaanxi']
+0,220137,尧等组,Yaodeng Fm,Pt2,,贵州从江一带,,['guizhou']
+0,220138,姚营寨组,Yaoyingzhai Fm,Pt2,,河南西峡、内乡一带,,['henan']
+0,220139,野马河组,Yemahe Fm,Pt2,罗汉岭组,湖北神农架，大洪山地区,,['hubei']
+0,220140,宜丰(岩)组,Yifeng Fm,Pt2,西江组,江西宜春、宜丰及铜鼓一带,,['jaingxi']
+0,220141,因民组,Yinmin Fm,Pt2,,云南东川及武定，四川邻里通安、黎溪地区,属昆阳群,['sichuan']['yunnan']
+0,220142,鹰窝洞组,Yingwodong Fm,Pt2,,湖北神农架鹰窝洞河流域,,['hubei']
+0,220143,余家沟组,Yu jiagou Fm,Pt2,,贵州梵净山西北,隶属于梵净山群,['shanxi']['guizhou']
+0,220144,鱼西组,Yuxi Fm,Pt2,九小组,广西三防、元宝山一带,隶属于四堡群,['guangxi']
+0,220145,渔门组,Yumen Fm,Pt2,田坝组,四川盐边县渔门一带,,['sichuan']
+0,220146,云台(岩)组,Yuntai Fm,Pt2,,江苏连云港－沭阳一带,,['jiangsu']
+0,220147,则姑组,Zegu Fm,Pt2,,四川喜德深沟乡至朝王坪一带,,['sichuan']
+0,220148,乍古组,Zhagu Fm,Pt2,,四川盐边小坪、乍古地区,,['sichuan']
+0,220149,寨根(岩)组,Zhaigen Fm,Pt2,,河南西峡县寨根一带及陕西商南北部淇河-峡河一带,隶属峡河(岩)群在陕西其时代可能延至晚元古代,['henan']['shaanxi']
+0,220150,张村群,Zhangcun Gr,Pt2,,江西德兴,,['jaingxi']
+0,220151,章村组,Zhangcun Fm,Pt2,,浙江富阳萧山，开化临安一带,,['zhejaing']
+0,220152,樟前(岩)组,Zhangqian Fm,Pt2,庄前片岩、溪口群,皖南祁门一带,有人认为，归属上溪(岩)群。本(岩)组层序、界线清楚，应称为樟前组,['anhui']
+0,220153,照北山(岩)组,Zhaobeishan Fm,Pt2,偏岭沟(岩)组、富拉堡子(岩)组,辽宁开源一带,,['liaoning']
+0,220154,周渣组,Zhouzha Fm,Pt2,,江西弋阳、周潭、铅山、永平等地,,['jaingxi']
+0,220155,黄岭(岩)组,Huangling Fm,Pt2(Ch),,广东廉江、高州、电白一带,隶属于高州(岩)群，为其最下部,['guangdong']
+0,210001,阿龙组,Along Fm,Pt1,苍山群、瑶山群,云南元阳县一带,,['yunnan']
+0,210002,安吉村段,Anjicun Mem,Pt1,,山东莱阳、莱西、平度等地,,['shandong']
+0,210003,八都(岩)群,Badu Gr,Pt1,龙泉变质杂岩、陈蔡群,浙江龙泉一带,,['zhejaing']
+0,210004,白龙山组,Bailongshan Fm,Pt1,,山西岚 县,属野鸡山群,['shanxi']
+0,210005,白云山(岩)组,Baiyunshan Fm,Pt1,,安徽凤阳,属凤阳(岩)群最下一个(岩)组,['anhui']
+0,210006,板房沟(岩)组,Banfanggou Fm,Pt1,石青沟组、判甲炉组、达台山组、老岭组等,吉林 通化、浑江、老岭等地,隶属于老岭(岩)群,['jilin']
+0,210007,北大兴组,Beidaxing Fm,Pt1,,山西五台山,,['shanxi']
+0,210008,北将军(岩)组,Beijiangjun Fm,Pt1,,安徽张八岭，北将军山一带,,['anhui']
+0,210009,北崖山组,Beiyashan Fm,Pt1,白岩山组,河南王屋山地区,北崖山乃白岩山地名之误，因北崖山组沿用已久，不再更名,['henan']
+0,210010,悖罗台组,Beiluotai Fm,Pt1,,河北省青龙县一带,,['hebei']
+0,210011,篦子沟组,Bizigou Fm,Pt1,刘庄冶片岩,山西中条山,,['shanxi']
+0,210012,兵营组,Bingying Fm,Pt1,,山东芝罘岛,,['shandong']
+0,210013,长冲(岩)组,Changchong Fm,Pt1,,四川会理,,['sichuan']
+0,210014,炒铁河组,Chaotiehe Fm,Pt1,,辽宁辽阳等地,,['liaoning']
+0,210015,陈家山组,Chenjiashan Fm,Pt1,,山西中条山、河南北部,,['shanxi']['henan']
+0,210016,程道沟组,Chengdaogou Fm,Pt1,,山西岚县一带,,['shanxi']
+0,210017,赤山沟组,Chishangou Fm,Pt1,龙峪片岩组,河南省济源县西北一带,,['henan']
+0,210018,茨榆山组,Ciyushan Fm,Pt1,,河北青龙县双山子一带,,['hebei']
+0,210019,达肯大坂(岩)群,Dakendaban Gr,Pt1,安南坝群、沙柳河群,青海大柴旦,近年李怀坤、陆招年(1998)等认为该群应为杂岩，改称达肯大坂杂岩，并在其中获得奥长花岗岩的锆石U-Pb年龄为1 020±41Ma，将时代定为晚元古代(早期),['qinghai']
+0,210020,大别山(岩)群,Dabieshan Gr,Pt1,,安徽、湖北大别山区,本名称原为大别山杂岩,['anhui']['hubei']
+0,210021,大东岔(岩)组,Dadongcha Fm,Pt1,三道葳子组,吉林集安、通化一带,,['jilin']
+0,210022,大古石组,Dagushi Fm,Pt1,磨石沟组,河南、山西交界西王屋山、熊耳山等地,大古石乃大鼓石之误，因大古石组已广泛引用，不再更改,['shanxi']['henan']
+0,210023,大关山组,Daguanshan Fm,Pt1,大关洞组、瑶池村组二段,山西五台山,有人认为，大关山地形图上无此地名。大关山是太钢白云石矿山，本名称与甘肃上古生界大关山组为同名异物，本组应改名称,['shanxi']
+0,210024,大红山群,Dahongshan Gr,Pt1,康定(岩)群、苴林群(原“元谋群”)等,云南新平、老厂、大红山一带,原称为大红山群，1998年云南1∶50万数字地质图编图组改称为大红山(岩)群,['yunnan']
+0,210025,大栗子(岩)组,Dalizi Fm,Pt1,花山组、当石沟组、干沟组、太平沟组、北大楼组,吉林通化、南岔、大栗子一带,本组隶属于集安(岩)群,['jilin']
+0,210026,大石桥组,Dashiqiao Fm,Pt1,珍珠门组、辽阳群,辽宁海城大石桥等地,,['liaoning']
+0,210027,大石桥组(岩)组,Dashiqiao Fm(Fm),Pt1,,辽宁海城，延至吉林,本组最初测制的剖面为长春地院1958年所测大石桥菱镁矿北山(洛山-枣儿岭)剖面。选层型为1∶50万辽宁数字地质图编图组1997年选定。本组隶属于辽河(岩)群,['liaoning']['jilin']
+0,210028,大同营组,Datongying Fm,Pt1,凤凰嘴组,河北崇礼、云州、红旗营子一带,,['hebei']
+0,210029,大岩山(岩)组,Dayanshan Fm,Pt1,,浙江龙泉等地,,['zhejaing']
+0,210030,大营山(岩)组,Dayingshan Fm,Pt1,,云南会理一带,,['yunnan']
+0,210031,担山石群,Danshanshi Gr,Pt1,东峰山群大古石组(河南),山西、河南中条山,本群曾称为担山石石英岩(马杏垣，1952),['shanxi']['henan']
+0,210032,道砖窑组,Daozhuanyao Fm,Pt1,,山西盂县一带,,['shanxi']
+0,210033,德玛拉(岩)群,Demala Gr,Pt1,,西藏察隅一带,,['tibet']
+0,210034,点苍山(岩)群,Diancangshan Gr,Pt1,,云南耳源-大理-下关一带,本岩群源于布朗(1916年)之“点苍山变质岩系”。1∶5万大理、下关凤仪等幅区调报告，将该变质岩系解体为沟头箐(岩)群和苍山(岩)群；1998年1∶50万数字地质图编图组按命名优先原则将沟头箐(岩)群改称点苍山(岩)群,['yunnan']
+0,210035,雕王山组,Diaowangshan Fm,Pt1,,山西五台山,正层型剖面1969年区调队测制，1980年白瑾、徐朝雷补充,['shanxi']
+0,210036,定国寺段,Dingguosi Mem,Pt1,,山东莱阳、莱西、平度等地,属野头组,['shandong']
+0,210037,东岔沟组,Dongchagou Fm,Pt1,,青海湟源、乐都、大通一带,,['qinghai']
+0,210038,东焦群,Dongjiao Gr,Pt1,,河北曲阳、获鹿一带(太行山区),本群与山西滹沱群之郭家寨亚群大体相当,['hebei']
+0,210039,东冶亚群,Dongye SubGr,Pt1,,山西五台山,,['shanxi']
+0,210040,陡崖组,Douya Fm,Pt1,五个庄组、璋夼组,胶东地区,,
+0,210041,豆村亚群,Doucun Sub Gr,Pt1,大石岭组,山西五台山,,['shanxi']
+0,210042,放牛山组,Fangniushan Fm,Pt1,,河南西部、西北部,,['henan']
+0,210043,肥味河组,Feiweihe Fm,Pt1,,云南新平、大红山一带,,['yunnan']
+0,210044,粉子山群,Fenzishan Gr,Pt1,王台系,山东莱州、蓬莱、福山 、五莲,,['shandong']
+0,210045,凤港组,Fenggang Fm,Pt1,,云南元阳县(哀牢山地区),,['yunnan']
+0,210046,凤阳(岩)群,Fengyang Gr,Pt1,,皖北,,['anhui']
+0,210047,佛堂村组,Fotangcun Fm,Pt1,,山西盂县一带,,['shanxi']
+0,210048,盖县组,Gaixian Fm,Pt1,花山组、临红组、草河群上部,辽东海城、吉南通化等地,,['liaoning']['jilin']
+0,210049,甘陶河群,Gantaohe Gr,Pt1,,河北赞皇、内丘、曲阳、行唐一带,本群与山西五台山 滹沱超群中下部大体相当,['hebei']
+0,210050,岗嵛组,Gangyu Fm,Pt1,,山东福山、莱州、蓬莱等地,隶属粉子山群,['shandong']
+0,210051,高家峪组,Gaojiayu Fm,Pt1,,辽宁海城等地,,['liaoning']
+0,210052,高小岭组,Gaoxiaoling Fm,Pt1,,辽宁凤城一带,,['liaoning']
+0,210053,谷泉山组,Guquanshan Fm,Pt1,,山西五台山区,,['shanxi']
+0,210054,光山段,Guangshan Mem,Pt1,,山东莱阳、平度等地,,['shandong']
+0,210055,郭家寨亚群,Guojiazhai SubGr,Pt1,,山西武台山区,,['shanxi']
+0,210056,郭庄(岩)组,Guozhuang Fm,Pt1,龙凤店组、上瓦房庄段,豫、陕,属秦岭(岩)群,['henan']['shaanxi']
+0,210057,旱沟碳质板岩,Hangou Carbonaceous Slate,Pt1,,吉林通化南、浑江北岸,现归于老岭(岩)群,['jilin']
+0,210058,蒿亭组,Haoting Fm,Pt1,,河北井陉,隶属于甘陶河群,['hebei']
+0,210059,河边村组,Hebiancun Fm,Pt1,,山西五台山区,,['shanxi']
+0,210060,河口(岩)群,Hekou Gr,Pt1,,四川会理、云南姜泽一带,,['sichuan']['yunnan']
+0,210061,核桃湾(岩)组,Hetaowan Fm,Pt1,,四川会理、盐边,,['sichuan']
+0,210062,黑茶山群,Heichashan Gr,Pt1,寨上村石英岩,山西吕梁山,,['shanxi']
+0,210063,黑山背组,Heishanbei Fm,Pt1,,山西五台山,,['shanxi']
+0,210064,红旗营子群,Hongqiyingzi Gr,Pt1,单塔子群、刘营组、凤凰嘴组,河北省崇礼、赤城一带,,['hebei']
+0,210065,红山组,Hongshan Fm,Pt1,,云南新平县、大红山一带,,['yunnan']
+0,210066,红石头(岩)组,Hongshitou Fm,Pt1,,山西五台山地区,本(岩)组无层理，故尚无层型剖面,['shanxi']
+0,210067,滹沱群,Hutuo Gr,Pt1,,山西、河北,李希霍芬命名“滹沱页岩”，真正确定“滹沱”实质含义的是维里士等(1907),['hebei']['shanxi']
+0,210068,花峪组,Huayu Fm,Pt1,,河南登封、密县地区,,['henan']
+0,210069,槐荫村组,Huaiyincun Fm,Pt1,瑶池村组三段,山西五台山区,,['shanxi']
+0,210070,荒岔沟(岩)组,Huangchagou Fm,Pt1,,吉林和平、腰营、清河,有人认为，该组由原新开河组荒岔沟段晋升为荒岔沟(岩)组，属集安(岩)群。本组层位及上下接触关系清楚，应称为荒岔沟组,['jilin']
+0,210071,黄羊岭组,Huangyangling Fm,Pt1,阿克日塔克达坂组,新疆昆仑山,,['xinjiang']
+0,210072,湟源群,Huangyuan Gr,Pt1,,青海中祁连山东段,,['shandong']['qinghai']
+0,210073,集安(岩)群,Jian Gr,Pt1,胶东系、中鞍山群、鞍山群、辑安亚群、辽河群、鸭绿江群、清河组、新开河组、霸王朝组、大东岔组、花山组等,吉林集安、通化、临江、长白市,,['jilin']
+0,210074,济宁(岩)群,Jining Gr,Pt1,,山东兖州滋阳山一带,,['shandong']
+0,210075,建安村组,Jianancun Fm,Pt1,瑶池村组一段,山西五台山区,,['shanxi']
+0,210076,绛道沟组,Jiangdaogou Fm,Pt1,,山西中条山区,,['shanxi']
+0,210077,胶南(岩)群,Jiaonan Gr,Pt1,,胶南,与胶北粉子山群和荆山群相似,
+0,210078,界牌梁组,Jiepailiang Fm,Pt1,前岭石英岩,山西中条山,,['shanxi']
+0,210079,荆山群,Jingshan Gr,Pt1,,鲁东地区,,['shandong']
+0,210080,巨屯组,Jutun Fm,Pt1,巨屯张格庄组,山东莱州、蓬莱、福山,属粉子山群,['shandong']
+0,210081,康定(岩)群,Kangding Gr,Pt1,磨盘山结晶片岩、仁和群,四川康定、泸定、西昌、冕宁、米易、盐边、攀枝花,,['sichuan']
+0,210082,宽甸群,Kuandian Gr,Pt1,,辽宁省与吉林交界的桓仁、辽阳、宽甸、集安一带,本群与吉林省之集安(岩)群为；本群与上覆层的接触关系，一些研究者认为与辽河群上亚群（陈荣度，1975）或“北辽河群”(张秋生，1984)、辽河群上部(白瑾，1993)为整合接触,['liaoning']['jilin']
+0,210083,宽滩组,Kuantan Fm,Pt1,四集庄组,山西五台山北坡,,['shanxi']
+0,210084,岚河群,Lanhe Gr,Pt1,,山西吕梁山区北段,,['shanxi']
+0,210085,浪子山(岩)组(组),Langzishan Fm(Fm),Pt1,双塔岭组,辽宁海城、辽阳、本溪一带,隶属于辽河(岩)群，为最下部的一个(岩)组,['liaoning']
+0,210086,老厂河组,Laochanghe Fm,Pt1,,云南新平一带,本组为大红山群下部的组级单位,['yunnan']
+0,210087,老岭(岩)群,Laoling Gr,Pt1,通化群、辽阳群,吉林集安通化浑江等县,,['jilin']
+0,210088,老爷山组,Laoyeshan Fm,Pt1,,山东芝罘岛北部,隶属于芝罘群,['shandong']
+0,210089,老营沟组,Laoyinggou Fm,Pt1,,辽宁宽甸一带,,['liaoning']
+0,210090,冷竹关(岩)组,Lengzhuguan Fm,Pt1,瓦斯沟组、冷水箐组、大田组,四川康定、冕宁、米易、盐边、攀枝花等地,,['sichuan']
+0,210091,里尔峪(岩)组(组),Lieryu Fm (Fm),Pt1,鹰嘴砬子组、杨木杆组、砖庙组、判甲炉组,辽宁海城吉林并延至朝鲜半岛北部,隶属辽河(岩)群(群),['liaoning']['jilin']
+0,210092,两角村组,Liangjiaocun Fm,Pt1,,山西吕梁山区北段,,['shanxi']
+0,210093,辽河群(岩)群,Liaohe Gr (Gr),Pt1,青城子变质岩系、响水寺统、大石桥统、盖平统、尧岭群、草河群、临江系、下辽河群、草河群、辽阳群等,辽宁东部辽阳、海城、营口、盖县、岫岩、凤城、丹东、宽甸及吉林通化、浑江、集安等地,本群有人称为辽河(岩)群,['liaoning']['jilin']
+0,210094,林家台子组,Linjiataizi Fm,Pt1,,辽宁凤城一带,,['liaoning']
+0,210095,刘定寺亚群,Liudingsi Sub-Gr,Pt1,,山西五台山区,,['shanxi']
+0,210096,刘家河组,Liuliahe Fm,Pt1,,辽宁凤城一带,,['liaoning']
+0,210097,刘家泉(岩)组,Loujiaquan Fm,Pt1,中天山群,新疆哈密东南,,['xinjiang']
+0,210098,刘家台组,Liujiatai Fm,Pt1,,青海湟源一带,隶属于湟源群,['qinghai']
+0,210099,龙峪组,Longyu Fm,Pt1,下阴片岩,山西中条山区,属中条群,['shanxi']
+0,210100,鲁杖子组,Luzhangzi Fm,Pt1,,河北青龙县双山子一带,,['hebei']
+0,210101,禄格庄组,Lugezhuang Fm,Pt1,山张家组、晶山组,胶东地区,属荆山群,
+0,210102,乱石村组,Luanshicun Fm,Pt1,,山西吕梁山北段,,['shanxi']
+0,210103,罗汉洞组,Luohandong Fm,Pt1,嵩山组、嵩山石英岩、嵩山石英岩组、嵩山石英岩层,河南嵩山地区,有人认为，本名称与甘肃白垩系罗汉洞组为同名异物，命名晚于甘肃，应另命新名,['henan']
+0,210104,落凼(岩)组,Luodong Fm,Pt1,岔河组,四川会理大团箐、落凼、冷水箐一带,,['sichuan']
+0,210105,麻山(岩)群,Mashan Gr,Pt1,,黑龙江鸡西、林口县一带,,['heilongjiang']
+0,210106,马衔山(岩)群,Maxianshan Gr,Pt1,皋兰系,甘肃兰州、榆中县马衔山一带,,['gansu']
+0,210107,蚂蚁河(岩)组,Mayihe Fm,Pt1,里尔峪组,吉林,隶属于集安(岩)群,['jilin']
+0,210108,曼岗河组,Manganghe Fm,Pt1,,云南新平、大红山一带,,['yunnan']
+0,210109,庙坡山组,Miaoposhan Fm,Pt1,井湾组,河南省嵩山地区,,['henan']
+0,210110,庙子沟组,Miaozigou Fm,Pt1,刘营组,河北崇礼、红旗营子一带,本组隶属于红旗营子群 Miao-Min(QH!!),['hebei']
+0,210111,南寺掌组,Nansizhang Fm,Pt1,,河北省井陉、曲阳一带,隶属于甘陶河群,['hebei']
+0,210112,南寺组,Nansi Fm,Pt1,,河北曲阳、井陉一带,,['hebei']
+0,210113,牛山组,Niushan Fm,Pt1,,河北获鹿一带,,['hebei']
+0,210114,坡头组,Potou Fm,Pt1,,云南大红山一带,,['yunnan']
+0,210115,浦河杂岩,Puhe Complex,Pt1,,安徽宿松浦河-界岭一带,,['anhui']
+0,210116,七东山亚群,Qidongshan SubGr,Pt1,,山西盂县(五台山区),本亚群属滹沱群最下部的亚群,['shanxi']
+0,210117,前马宗组,Qianmazong Fm,Pt1,,山西岚县,,['shanxi']
+0,210118,秦岭(岩)群,Qinling Gr,Pt1,毛集组、回龙寺组、银洞沟组、大河组、孤山头组、黄羊坝组、东流水组、双水磨组、张家庄组、太白组等,甘肃天水至太白、商南及河南西峡、内乡,,['henan']['gansu']
+0,210119,青龙河群,Qinglonghe Gr,Pt1,朱杖子群,河北省青龙县一带,,['hebei']
+0,210120,青石村组,Qingshicun Fm,Pt1,,山西五台山区,,['shanxi']
+0,210121,青石山组,Qingshishan Fm,Pt1,,安徽凤阳、霍丘地区,属凤阳(岩)群，原命名时称为青石山层,['anhui']
+0,210122,青杨沟(岩)组,Qingyanggou Fm,Pt1,,山西吕梁山,,['shanxi']
+0,210123,青杨树湾组,Qingyangshuwan Fm,Pt1,,山西岚县吕梁山,,['shanxi']
+0,210124,清水河(岩)组,Qingshuihe Fm,Pt1,,云南哀牢山地区,,['yunnan']
+0,210125,邱官庄(岩)组(组),Qiuguanzhuang Fm(Fm),Pt1,,山东胶南地区,属胶南(岩)群,['shandong']
+0,210126,上店坊(岩)组,Shangdianfang Fm,Pt1,双水磨组、张家庄组,陕、甘（秦岭）,王振东1998年在《陕西省岩石地层》一书首次介绍,['shaanxi']['gansu']
+0,210127,沈家堡子(岩)组,Shenjiabaozi Fm,Pt1,韩家沟(岩)组，照北山(岩)组1、2段,辽宁开原一带,,['liaoning']
+0,210128,石槽沟(岩)组,Shicaogou Fm,Pt1,秦岭(岩)群,河南西峡北部石槽沟、捷道沟一带,本组属秦岭(岩)群的一部分,['henan']
+0,210129,石窑凹组,Shiyaoao Fm,Pt1,,山西岚县、静乐一带,,['shanxi']
+0,210130,双房组,Shuangfang Fm,Pt1,,河南济源以北,,['henan']
+0,210131,双山子群,Shuangshanzi Gr,Pt1,栾县群、单塔子群、八道河群等,河北,,['hebei']
+0,210132,双塔岭组,Shuangtaling Fm,Pt1,,辽宁辽阳等地,本组隶属于宽甸群，为最底部分层,['liaoning']
+0,210133,水桃林段,Shuitaolin Mem,Pt1,,山东莱阳、莱西、平度等地,,['shandong']
+0,210134,泗源(岩)组,Siyuan Fm,Pt1,,浙东南区,,['zhejaing']
+0,210135,嵩山群,Songshan Gr,Pt1,,河南嵩山,,['henan']
+0,210136,宋集(岩)组,Songji Fm,Pt1,,安徽凤阳,属凤阳(岩)群最上部一个(岩)组,['anhui']
+0,210137,天蓬垴组,Tianpengnao Fm,Pt1,,山西五台山,属东冶亚群,['shanxi']
+0,210138,铁铜沟组,Tietonggou Fm,Pt1,秋岔群,陕西,,['shaanxi']
+0,210139,托赖(岩)群,Tuolai Gr,Pt1,野马南山群,青海祁连山西段,托赖山又称托来山,['shanxi']['qinghai']
+0,210140,温峪组,Wenyu Fm,Pt1,,山西中条山区,,['shanxi']
+0,210141,纹山组,Wenshan Fm,Pt1,,山西五台山,,['shanxi']
+0,210142,乌都坑组,Wudukeng Fm,Pt1,,云南哀牢山一带,,['yunnan']
+0,210143,吴家沟(岩)组(组),Wujiagou Fm(Fm),Pt1,,四川会理、盐边等地,,['sichuan']
+0,210144,五马箐(岩)组,Wumaqing Fm,Pt1,,云南米易垭口,,['yunnan']
+0,210145,五指岭组,Wuzhiling Fm,Pt1,龙婆寨层,河南嵩山地区,归属于嵩山群 五指岭组剖面是由寺里沟、铁匠沟、岩崩三个五指岭组剖面组成的复合剖面,['henan']
+0,210146,武家坪组,Wujiaping Fm,Pt1,吴家坪石英岩,山西夏县,隶属于中条群,['shanxi']
+0,210147,西峰山组,Xifengshan Fm,Pt1,,山西中条山,,['shanxi']
+0,210148,西河里组,Xiheli Fm,Pt1,西山村组,山西五台山,,['shanxi']
+0,210149,西盟(岩)群,Ximeng Gr,Pt1,,云南西盟、普洱一带,原称西盟群，分为四个组 1998年，云南1∶50万数字地质图编图组将其分解，改称西盟(岩)群，不包括原划的王雅组、允沟组及老街子组,['yunnan']
+0,210150,下白城组,Xiabaicheng Fm,Pt1,,河北青龙县双山子一带,,['hebei']
+0,210151,下村(岩)群,Xiacun Gr,Pt1,,四川会理、米易、盐边一带,,['sichuan']
+0,210152,祥山段,Xiangshan Mem,Pt1,,山东莱阳、莱西、平度等地,属野头组,['shandong']
+0,210153,小荒田(岩)组,Xiaohuangtian Fm,Pt1,,四川会理,,['sichuan']
+0,210154,小宋组,Xiaosong Fm,Pt1,小魏家组、五个庄组,山东莱州、平度、五莲等地区,,['shandong']
+0,210155,小羊街(岩)组,Xiaoyangjie Fm,Pt1,瑶山群,云南元江一带,隶属于哀牢山群，为最下部的一个组 原称小羊街组，1998年云南1∶50万数字地质图编图组改称小羊街(岩)组,['yunnan']
+0,210156,辛格尔组,Xingeer Fm,Pt1,赛(塞)纳尔组、波瓦姆群上亚群,新疆塔里木北缘辛格尔村南,本组与扬吉布拉克组层位相当，后者只相当本组的上部 本组尚未出露顶部 本组实际属波瓦姆群上部的组,['xinjiang']
+0,210157,新农村(岩)组,Xinnongcun Fm,Pt1,新开河组、达台山组、林房沟组下部、黑沟岭组下部,吉林通化,,['jilin']
+0,210158,星子(岩)群,Xingzi Gr,Pt1,板溪群、修水群、庐山杂岩,江西庐山一带,,['jaingxi']
+0,210159,幸福园组,Xingfuyuan Fm,Pt1,界牌梁石英岩组,河南济源,幸福园乃信虎园地名之误，由于幸福园组已广泛应用，不再更改,['henan']
+0,210160,徐村段,Xucun Mem,Pt1,,山东莱阳、莱西、平度等地,属陡崖组,['shandong']
+0,210161,雪龙山(岩)组,Xuelongshan Fm,Pt1,,云南维西县城西，西南雪龙山,,['yunnan']
+0,210162,雁岭沟(岩)组,Yanlinggou Fm,Pt1,东流水组、泸家垣组、太白组,陕西凤县唐藏－眉县，商州－商南和河南西峡、桐柏一带,近年(1994)河南区调队在本组(河南境内)大理岩中发现放射虫、有孔虫及海百合茎等化石，认为本组部分为移置岩块，应进一步划分,['henan']['shaanxi']
+0,210163,野鸡山群,Yejishan Gr,Pt1,,山西吕梁山区,,['shanxi']
+0,210164,野头组,Yetou Fm,Pt1,明村埠组、曲水河组,山东胶东地区,,['shandong']
+0,210165,银鱼沟群,Yinyugou Gr,Pt1,铁山河群,河南省济源市西北部一带,,['henan']
+0,210166,于家岭(岩)组,Yujialing Fm,Pt1,饮马庄组、刘家庄组等,鲁东胶南隆起区,隶属于胶南(岩)群,['shandong']
+0,210167,余家山组,Yujiashan Fm,Pt1,,山西中条山,,['shanxi']
+0,210168,余元下组,Yuyuanxia Fm,Pt1,马家窑大理岩,山西中条山区,,['shanxi']
+0,210169,榆树砬子(岩)群,Yushulazi Gr,Pt1,,辽宁庄河一带,,['liaoning']
+0,210170,张格庄组,Zhanggezhuang Fm,Pt1,登云山组、明村埠组、十哥庙统,山东蓬莱、福山、莱州、五莲,隶属粉子山群,['shandong']
+0,210171,张家沟组,Zhangjiagou Fm,Pt1,,河北青龙县一带,,['hebei']
+0,210172,张岩(岩)组,Zhangyan Fm,Pt1,,浙江龙泉等地,,['zhejaing']
+0,210173,赵池沟群,Zhaochigou Gr,Pt1,,内蒙古阿拉善左旗、宁夏黄旗口南不一带,,['Inner Mongolia']['ningxia']
+0,210174,珍珠门(岩)组,Zhenzhumen Fm,Pt1,王德山组、龙泉寺组,吉林通化南，浑江北岸，浑江老岭两侧,属老岭(岩)群 原称珍珠门组，与辽河群大石桥组 后改称珍珠门(岩)组使用,['jilin']
+0,210175,芝罘群,Zhifu Gr,Pt1,,鲁东地区烟台芝罘岛及附近岛屿。本群包括老爷山组、兵营组,,['shandong']['taiwan']
+0,210176,中条群,Zhongtiao Gr,Pt1,,山西中条山区,,['shanxi']
+0,210177,周家沟组,Zhoujiagou Fm,Pt1,,山西中条山区,,['shanxi']
+0,210178,祝家夼组,Zhujiakuang Fm,Pt1,山张家组、从家屯组、矿山组、张家林组、禄山统,山东福山、蓬莱,本组未分段，属粉子山群,['shandong']
+0,210179,砖庙组,Zhuanmiao Fm,Pt1,,辽宁宽甸一带,,['liaoning']
+0,200001,大宝山片麻岩,Dabaoshan Gneiss,Pt,,云南维西雪龙山,,['yunnan']
+0,200002,惠民组,Huimin Fm,Pt,,云南惠民、西定等地,,['yunnan']
+0,200003,机房沟(岩)群,Jifanggou Gr,Pt,西保安(岩)组、塔东(岩)组,吉林、黑龙江,,['jilin']['heilongjiang']
+0,200004,南秧田(岩)组,Nanyangtian Fm,Pt,,云南栗坡县麻栗坡-都龙一带,,['yunnan']
+0,200005,洒西(岩)组,Saxi Fm,Pt,,云南麻栗坡-都龙一带,,['yunnan']
+0,200006,沙金河组,Shajinhe Fm,Pt,,山西垣曲,,['shanxi']
+0,200007,外麦地(岩)组,Waimaidi Fm,Pt,,云南哀牢山北段,,['yunnan']
+0,200008,朱敦店(岩)组,Zhudundian Fm,Pt,黄营屯组,吉林塔东地区、东西河及汪清张家店等地隶属塔东(岩)群,,['jilin']
+0,388001,西大沟组,Xidagou Fm,P1-T2,,甘肃、青海、北祁连山区,,['gansu']['qinghai'],
+0,388002,菠茨沟组,Bocigou Fm,P2-T1,日拉沟组、淘金 沟组,四川宝兴、小金、丹巴等地,,['sichuan'],
+0,388003,仓房沟群,Cangfanggou Gr,P2-T1,,新疆玛纳斯-乌鲁木齐一带,,['xinjiang'],
+0,388004,锅底坑组,Guodikeng Fm,P2-T1,小龙口组,新疆,属仓房沟群,['xinjiang'],
+0,388005,卡尔蛇绿岩组,Kaer Ophiolite Fm,P2-T1,,四川石渠-木里一带,,['sichuan'],
+0,388006,石千峰群,Shiqianfeng Gr,P2-T1,凤凰山群〔1〕、辽中群、胡松层、芹泉层、大悲寺组、大悲寺段、蛤蟆山组、红砬组,晋、冀、鲁、豫、京、津、辽、吉、苏、皖、陕、甘、宁,在山东本群上部与淄博群为平行不整合或不整合接触 有些省曾称为“石千峰组”,['beijing']['tianjin']['hebei']['shanxi']['liaoning']['jilin']['jiangsu']['anhui']['shandong']['henan']['shaanxi']['gansu']['ningxia'],
+0,388007,夏牙村组,Xiayacun Fm,P2-T1,,西藏昌都,,['tibet'],
+0,388008,窑沟群,Yaogou Gr,P2-T2,诺音河组,甘肃、青海、内蒙古北祁连及甘肃龙首山地区。本群为一穿时性明显的岩石地层单位,,['Inner Mongolia']['gansu']['qinghai'],
+0,388009,理塘蛇绿岩群,Litang Ophiolite Gr,P-T,,四川竹庆-理塘-木里一带,,['sichuan'],
+0,388010,双泉组,Shuangquan Fm,P-T,,北京,又称双泉统、双泉系,['beijing'],
+0,388011,金沙江蛇绿岩群,Jinshajiang Ophiolite Gr,P-T1,嘎金雪山蛇绿混杂岩、绒角西山蛇绿混杂岩、扎仁雪堆蛇绿混杂岩、音都牛场蛇绿混杂岩等,云南、西藏金沙江断裂带两侧约5km宽的带内,本群曾称为金沙江蛇绿杂岩带、金沙江蛇绿岩套,['yunnan']['tibet'],
+0,386001,神岩段,Shenyan Mem,P2-3,,山西太原西山等地,,,['shanxi']
+0,373001,于家北沟组,Yujiabeigou Fm,"P1,2",,蒙古西拉木伦河以南,,,
+0,373002,赤丹潭组,Chidantang Fm,P1-2,冈达概组,四川西部,,,['sichuan']
+0,373003,大水沟组,Dashuigou Fm,P1-2,,湖北竹山、竹溪、房县地区,,,['hubei']
+0,373004,峨眉山玄武岩,Emeishan Basalt,P1-2,宣威喷出岩、乌龙坝组,四川盆地西部及攀西、云南、贵州西部,,,['sichuan']['guizhou']['yunnan']
+0,373005,鹅顶组,Eding Fm,P1-2,,海南东方县至昌江县一带,,,['hainan']
+0,373006,冈达概组,Gangdagai Fm,P1-2,东坝组、虎门组,川、滇,,,['sichuan']['yunnan']
+0,373007,官山段,Guanshan Mem,P1-2,,江西莲花、萍乡至乐平一带,,,['jaingxi']
+0,373008,郭家垭组,Guojiaya Fm,P1-2,龙池组,陕 西镇巴观音堂至西乡木竹坝,,,['shaanxi']
+0,373009,红泉组,Hongquan Fm,P1-2,窑沟组、上石盒子组,甘肃、宁夏,隶属于窑沟群,,['gansu']['ningxia']
+0,373010,解放村组,Jiefangcun Fm,P1-2,下柯岛组、开山屯组,吉林珲春,,,['jilin']
+0,373011,卡翁沟组,Kawenggou Fm,P1-2,毛屋群,四川,,,['sichuan']
+0,373012,龙潭组,Longtan Fm,P1-2,茅庄系、辰溪组、斗岭组、耒坝口组、炭山湾煤系（段）、乐平煤系、吴家坪组含煤段、礼贤煤系、吴家坪组下段、老虎山组、乐平组、砖厂湾煤系、三江口系、羊八寨组、兴梅组、宣泾煤系,苏、皖、浙、赣、湘、鄂、川、滇、黔、桂,,,['jiangsu']['zhejaing']['anhui']['jaingxi']['hubei']['hunan']['guangxi']['sichuan']['guizhou']['yunnan']
+0,373013,南龙组,Nanlong Fm,P1-2,江边组、乐东河组,海南东方县,,,['hainan']
+0,373014,平顶山段,Pingdingshan Mem,P1-2,落凫山砂岩、马头山砂岩,在豫西、豫北及晋南一带,"本段原称平顶山砂岩,曾被广泛使用",,['shanxi']['henan']
+0,373015,沙子坡组,Shazipo Fm,P1-2,大凹子组、尖山组 $ 南伞组,云南潞西 ,,,['yunnan']
+0,373016,石盒子组,Shihezi Fm,P1-2,古冶层,晋、冀、鲁、豫、京、津、辽、吉、苏、皖、陕、甘、宁、内蒙古等省(市、区),①根据岩性组合在山西省可划分为五个岩性段：骆驼脖子段、化客头段、天龙寺段、神岩段、平顶山段；在河南可划分为：小风口段、云盖山段和平顶山段；山东可分为：孝妇河段、奎山段、万山段、黑山段等 ②赵亚曾(1929)称为石盒子系,,['Inner Mongolia']
+0,373017,石叶湾组,Shiyewan Fm,P1-2,,内蒙古包头一带,,,['Inner Mongolia']
+0,373018,下拉组,Xiala Fm,P1-2,米酒雄灰岩系、文部组,西藏北部,,,['tibet']
+0,373019,乐平组,Leping Fm,P21-P12,枫田系、龙潭组、雾林山煤系,江西,最初黄汲清命名为乐平煤系 ,,['jaingxi']
+0,372001,巴斯尔干组,Basiergan Fm,P2,巴卡勒河组,新疆尼勒克县,,['xinjiang'],
+0,372002,奔子栏组,Benzilan Fm,P2,,云南德钦一带,,['yunnan'],
+0,372003,比尤勒包谷孜组,Biyoulebaoguzi Fm,P2,大龙沟系,新疆库车县,,['xinjiang'],
+0,372004,彩家段,Caijia Mem,P2,上石盒子组、石盒子系、蛤蟆山统、富隆山统,辽宁本溪太子河,,['liaoning'],
+0,372005,长兴组,Changxing Fm,P2,煤山石灰岩罗坑组(上部？),浙北地区及赣、皖、粤、闽、川、苏(苏州、南通)地区,本组曾分为葆青段和煤山段 ,['jiangsu']['zhejaing']['anhui']['fujian']['jaingxi']['guangdong']['sichuan'],
+0,372006,翠屏山组,Cuipingshan Fm,P2,乐平组、龙潭组上段,闽西南及粤北连平、梅县等地,,['fujian']['guangdong'],
+0,372007,达里约尔组,Daliyueer Fm,P2,,新疆叶城县,,['xinjiang'],
+0,372008,大河沿组,Daheyan Fm,P2,,新疆吐鲁番盆地,,['xinjiang'],
+0,372009,大隆组,Dalong Fm,P2,南寨系、巢县组、东阳港系、龙南组、保安页岩(段)、合山建造,苏，陕，黔，蜀，粤，湘，鄂，赣，皖，浙，闽,原始定义：据李四光等，1941年广西地层表“来宾南部及迁江一带地层表(张文佑)” 本组在广东，下与翠屏山组或九坡组、上与大冶组或四望嶂组整合接触；在四川其下与吴家坪组、上与飞仙关组(或大冶组)整合分界；在江西下与乐平组整合接触,['jiangsu']['zhejaing']['anhui']['fujian']['jaingxi']['hubei']['hunan']['guangdong']['guizhou']['shaanxi'],
+0,372010,大泉组,Daquan Fm,P2,肃南组、石千峰组,甘肃金昌,隶属于窑沟群,['gansu'],
+0,372011,大石包组,Dashibao Fm,P2,甲黄沟群(上部),四川西部 ,,['sichuan'],
+0,372012,迭山组,Dieshan Fm,P2,,甘肃、四川交界区 ,,['sichuan']['gansu'],
+0,372013,杜瓦组,Duwa Fm,P2,,新疆皮山县一带 (昆仑山北坡) ,,['xinjiang'],
+0,372014,方山口组,Fangshankou Fm,P2,红 柳峡群、阿其德组,甘肃、内蒙古 ,,['Inner Mongolia']['gansu'],
+0,372015,格顶组,Geding Fm,P2,水 竹塘组,广东韶关地区 ,,['guangdong'],
+0,372016,格曲组,Gequ Fm,P2,,青海东昆仑山-阿尼玛卿山 ,,['qinghai'],
+0,372017,蛤蟆山组,Hamashan Fm,P2,石千峰组,辽宁西部 ,,['liaoning'],
+0,372018,哈尔苏海组,Haersuhai Fm,P2,,内蒙古、甘肃、新疆 ,,['Inner Mongolia']['gansu']['xinjiang'],
+0,372019,哈吉尔组,Hajier Fm,P2,,青海南祁连山,隶属巴音河群 ,['hainan']['qinghai'],
+0,372020,哈米斯特组,Hamisite Fm,P2,克孜勒巴斯陶组,新疆天山 ,,['xinjiang'],
+0,372021,合山组,Heshan Fm,P2,六合滩层、石壁滩层、中谷灰岩、阴瓜沟灰岩、迁江煤系、三门江系,广西、贵州 ,,['guangxi']['guizhou'],
+0,372022,黑泥哨组,Heinishao Fm,P2,,滇、川 ,,['sichuan']['yunnan'],
+0,372023,红山组,Hongshan Fm,P2,城山组、新兴村组,黑龙江 ,,['heilongjiang'],
+0,372024,红岩井组,Hongyanjing Fm,P2,马莲井组,甘肃 ,,['gansu'],
+0,372025,红雁池组,Hongyanchi Fm,P2,,新疆,隶属芨芨槽群 ,['xinjiang'],
+0,372026,化客头段,Huaketou Mem,P2,,山西 ,,['shanxi'],
+0,372027,黄梁沟组,Huanglianggou Fm,P2,,新疆奇台 ,,['xinjiang'],
+0,372028,吉普日阿组,Jipuria Fm,P2,,西藏日土一带 ,,['tibet'],
+0,372029,坚扎弄组,Jianzhanong Fm,P2,,西藏改则夏岗江地区 ,,['tibet'],
+0,372030,姜叶玛组,Jiangyema Fm,P2,西兰塔组(为其一部分),西藏札达 ,,['tibet'],
+0,372031,将军庙组,Jiangjunmiao Fm,P2,,新疆准噶尔盆地东北缘 ,,['xinjiang'],
+0,372032,蒋家窑砾岩,Jiangjiayao Conglomerate,P2,,吉林,,['jilin'],
+0,372033,井井子沟组,Jingjingzigou Fm,P2,,新疆北天山、准噶尔、乌鲁木齐一带,隶属芨芨槽子群,['xinjiang'],
+0,372034,九陂组,Jiubei Fm,P2,龙潭组第四段、王潘里组、坝口岩系、腊石坝煤系(段)、东煤组、 东组,广东连县、韶关等地,,['guangdong'],
+0,372035,开山屯组,Kaishantun Fm,P2,解放村组、扇砾岩、“豆满层”,吉林延吉、黑龙江东宁,,['jilin']['heilongjiang'],
+0,372036,库吉尔台组,Kujiertai Fm,P2,,新疆东准噶尔 ,,['xinjiang'],
+0,372037,库莱组,Kulai Fm,P2,,新疆哈密 ,,['xinjiang'],
+0,372038,奎山段,Kuishan Mem,P2,,山东淄博、章丘等地,小川(琢治)命名，年代不详,['shandong'],
+0,372039,拉卜查日组,Labuchari Fm,P2,,青海唐古拉山北坡,隶属乌丽群,['qinghai'],
+0,372040,老山段,Laoshan Mem,P2,,赣西和赣中 ,,['jaingxi'],
+0,372041,老窝铺组,Laowopu Fm,P2,,内蒙古包头市老窝铺一带 ,,['Inner Mongolia'],
+0,372042,列龙沟组,Lielonggou Fm,P2,,西藏 ,,['tibet'],
+0,372043,林西组,Linxi Fm,P2,陶海营子组、碧流台组、洪浩尔坝组、孙家坟组、蔺家屯组、高盛沟组、余庆沟组、嘉鲁河组、北大山组、包尔敖包组,内蒙古、吉林、黑龙江,德日进，1924年命为林西系 ,['Inner Mongolia']['jilin']['heilongjiang'],
+0,372044,领*7组,Linghao Fm,P2,者浪组、那梭组、晒瓦组、岜仙组、雍里组、泡水组,广西、贵州、云南 ,,['guangxi']['guizhou']['yunnan'],
+0,372045,龙洞川组,Longdongchuan Fm,P2,,陕西镇安西口 ,,['shaanxi'],
+0,372046,芦草沟组,Lucaogou Fm,P2,妖魔山组,新疆,隶属芨芨槽群 ,['xinjiang'],
+0,372047,罗坑组,Luokeng Fm,P2,大隆组,闽西南,本组上部在大田漳平相变为长兴组,['fujian'],
+0,372048,骆驼脖子段,Luotuobozi Mem,P2,,山西 ,,['shanxi'],
+0,372049,门里沟组,Menligou Fm,P2,,陕西镇安西口孙家沟-熨斗滩一带,,['shaanxi'],
+0,372050,蒙拉组,Mengla Fm,P2,,西藏墨竹工卡县 ,,['tibet'],
+0,372051,那箐组,Naqing Fm,P2,长兴组,云南普洱,,['yunnan'],
+0,372052,南皮河组,Nanpihe Fm,P2,,云南耿马,,['yunnan'],
+0,372053,脑包沟组,Naobaogou Fm,P2,,内蒙古包头一带,,['Inner Mongolia'],
+0,372054,诺音河群,Nuo yinhe Gr,P2,,青、甘,"本群在青海已与巴音河群合并,统称巴音河群,待研究",['gansu']['qinghai'],
+0,372055,彭久组,Pengjiu Fm,P2,,广西钦州一带,,['guangxi'],
+0,372056,平地泉组,Pingdiquan Fm,P2,,新疆准噶尔,,['xinjiang'],
+0,372057,七宝山组,Qibaoshan Fm,P2,新塘组、龙潭组、新圹段、枧溪段(层)、钟鼓岭层、钟古段,江西宜春、上高、高安一带,,['jaingxi'],
+0,372058,泉子街组,Quanzijie Fm,P2,,新疆吐鲁番盆地,隶属仓房沟群,['xinjiang'],
+0,372059,热觉茶卡组,Rejuechaka Fm,P2,,西藏北部,,['tibet'],
+0,372060,沙湖组,Shahu Fm,P2,龙潭组、龙潭组蓝斑层、阳春组下部,广东中部,,['guangdong'],
+0,372061,沙井子组,Shajingzi Fm,P2,,新疆阿克苏、柯坪一带,,['xinjiang'],
+0,372062,沙龙组,Shalong Fm,P2,,西藏左贡、芒康一带,,['tibet'],
+0,372063,沙木组,Shamu Fm,P2,,云南德钦,,['yunnan'],
+0,372064,圣堂组,Shengtang Fm,P2,龙潭组上亚组、龙潭组第四段、阳春组、铁豆沙层,广东省广州至阳春各地,,['guangdong'],
+0,372065,狮子山段,Shizishan Mem,P2,王藩里段下部、新塘段,赣中和赣西等地,本段与王钰(1944)在贵州命名的狮子山段属同名异物，本段应改名--编者注,['jaingxi'],
+0,372066,十里墩组,Shilidun Fm,P2,,甘肃两当,有人认为本组为混杂岩，应改称十里墩混杂岩代表了西秦岭地区有成因及时代争议的地层--编者注,['gansu'],
+0,372067,石佛洞组,Shifodong Fm,P2,,云南耿马,,['yunnan'],
+0,372068,石关组,Shiguan Fm,P2,,青海、甘肃,,['gansu']['qinghai'],
+0,372069,水竹塘组,Shuizhutang Fm,P2,梅田段、龙潭阶中灰岩段、吴家坪组,广东连县 ,,['guangdong'],
+0,372070,孙家沟组,Sunjiagou Fm,P2,冀氏层、大峪镇组（豫），岐山组、石千峰系、滦县砂岩、洼里组、水泉子砾岩、朔县统,晋、冀、鲁、豫、皖、陕、甘、宁、内蒙古 ,,['Inner Mongolia'],
+0,372071,塔尔朗组,Taerlang Fm,P2,,新疆吐鲁番,隶属桃东沟群 ,['xinjiang'],
+0,372072,塔姆其萨依组,Tamuqisayi Fm,P2,,新疆伊宁县一带 ,,['xinjiang'],
+0,372073,桃东沟群,Taodonggou Gr,P2,,新疆吐鲁番 ,,['xinjiang'],
+0,372074,天龙寺段,Tian longsi Mem,P2,,山西太原西山一带 ,,['shanxi'],
+0,372075,铁木里克组,Tiemulike Fm,P2,,新疆天山西段，尼勒克一带 ,,['shanxi']['xinjiang'],
+0,372076,妥坝组,Tuoba Fm,P2,卡香达组、扎拉贡嘎组,四川、西藏 ,,['sichuan']['tibet'],
+0,372077,万山段,Wanshan Mem,P2,,鲁西,属石盒子组 ,['shandong'],
+0,372078,王潘里段,Wangpanli Mem,P2,新塘段七宝山组(段),赣西和赣中一带,,['jaingxi'],
+0,372079,王坡段,Wangpo Mem,P2,,陕西汉中、宁强、西乡,,['shaanxi'],
+0,372080,乌拉泊组,Wulabo Fm,P2,芨芨槽子组,新疆乌鲁木齐、吉木萨尔一带,隶属芨芨槽子群 ,['xinjiang'],
+0,372081,乌丽群,Wuli Gr,P2,,青海,,['qinghai'],
+0,372082,吴家坪组,Wujiaping Fm,P2,甘桥段、断杉段、长兴灰岩(组)、宝顶石灰岩、未来冲石灰岩,陕、鄂、川、赣、滇、黔、湘、皖等省,本组最初称为吴家坪石灰岩 陕西目前划分的吴家坪组包括长兴组 ,['anhui']['jaingxi']['hubei']['hunan']['sichuan']['guizhou']['yunnan']['shaanxi'],
+0,372083,梧桐沟组,Wutonggou Fm,P2,,新疆乌鲁木齐、吐鲁番盆地,隶属仓房沟群 ,['xinjiang'],
+0,372084,五道岭组,Wudaoling Fm,P2,,黑龙江嫩江、伊春、铁力、海林、尚志、阿城,,['heilongjiang'],
+0,372085,西口组,Xikou Fm,P2,北阳坡段,陕西镇安 ,,['shaanxi'],
+0,372086,下窑组,Xiayao Fm,P2,吴家坪组灰岩段、龙潭组灰岩段、长兴灰岩、凤凰山石灰岩,湖北 ,,['hubei'],
+0,372087,晓山萨依组,Xiao shansayi Fm,P2,黑石渡组、锦湾组,新疆西天山,,['xinjiang'],
+0,372088,孝妇河段,Xiaofuhe Mem,P2,,山东淄博、章丘等地,,['shandong'],
+0,372089,宣威组,Xuanwei Fm,P2,大龙潭含煤系、圭山煤系、玄威煤系、沙湾组［2］,云、贵、川交界区,,['sichuan'],
+0,372090,丫洲组,Ya zhou Fm(Central Island Fm),P2,,大埔岛(吐露港),"李作明1984(1987)年报导在本组发现华南晚二叠世植物化石(大羽羊齿),认为相当于龙潭组或乐平组",['Hong Kong'],
+0,372091,羊八寨组,Yangbazhai Fm,P2,老公寨组、龙潭组,云南墨江,,['yunnan'],
+0,372092,杨岗组,Yanggang Fm,P2,,黑龙江虎林县杨岗、密山县城山,,['heilongjiang'],
+0,372093,云盖山段,Yungaishan Mem,P2,,河南西部及北部,,['henan'],
+0,372094,熨斗滩组,Yundoutan Fm,P2,,陕西镇安西口,,['shaanxi'],
+0,372095,扎河坝组,Zhaheba Fm,P2,,新疆三塘湖盆地,,['xinjiang'],
+0,372096,忠什公组,Zhongshigong Fm,P2,,青海天峻一带,隶属诺音河群 ,['qinghai'],
+0,371001,阿尔巴萨依组,Aerbasayi Fm,P1,库莱组、缪林托凯山组、阿其克布拉克组,新疆乌鲁木齐市西至哈密一带,,['xinjiang'],
+0,371002,阿其克布拉克组,Aqikebulake Fm,P1,,新疆艾丁湖南一带,原大热泉子组现归阿其克布拉克组上部,['hunan']['xinjiang'],
+0,371003,巴勒迪尔塔格组,Balediertage Fm,P1,,新疆乌什一带,,['xinjiang'],
+0,371004,巴立克立克组,Balikelike Fm,P1,乌坦阔勒组,新疆塔里木西北 缘,,['xinjiang'],
+0,371005,巴音河群,Bayinhe Gr,P1,,青海、甘肃南祁连山,诺音河群归入本群内,['gansu']['qinghai'],
+0,371006,坝溜组,Baliu Fm,P1,茅口组,云南中部,,['yunnan'],
+0,371007,白定浦组,Baidingpu Fm,P1,,西藏康马,,['tibet'],
+0,371008,包磨山组,Baomoshan Fm,P1,风窝段、水坝山组、垭口田组、 花贡组、垭口田段,贵州普安一带,,['guizhou'],
+0,371009,包特格组,Baotege Fm,P1,,内蒙古满都拉地区,,['Inner Mongolia'],
+0,371010,碧云山组,Biyunshan Fm,P1,,新疆若羌县,,['xinjiang'],
+0,371011,丙麻组,Bingma Fm,P1,曼里组,云南保山,,['yunnan'],
+0,371012,草地沟组,Caodigou Fm,P1,,青海天峻县一带,,['qinghai'],
+0,371013,车头组,Chetou Fm,P1,彭家段、安州组中段、上饶组下段、茅口组上段 =,江西上饶及赣南地区,,['jaingxi'],
+0,371014,冲头段,Chongtou Mem,P1,,贵州紫云，罗甸一带,,['guizhou'],
+0,371015,大坝组,Daba Fm,P1,双河(岩)组,云南腾冲,,['yunnan'],
+0,371016,大东厂组,Dadongchang Fm,P1,双河(岩)组,云南腾冲一带,,['yunnan'],
+0,371017,大河深组,Daheshen Fm,P1,余富屯组、范家屯组、一拉溪组,吉林桦甸,,['jilin'],
+0,371018,大红山组,Dahongshan Fm,P1,,内蒙古,,['Inner Mongolia'],
+0,371019,大黄沟组,Dahuanggou Fm,P1,,甘肃、宁夏、内蒙古、青海,,['Inner Mongolia']['gansu']['qinghai']['ningxia'],
+0,371020,大名山组,Damingshan Fm,P1,回行组、景冒组,云南永德县一带,,['yunnan'],
+0,371021,大石寨组,Dashizhai Fm,P1,阿林河组、西里庙组,内蒙古、黑龙江,包括西里庙组、斑布加拉嘎组、高家窝棚组、包特格组三岩段、青凤山组、达里诺尔组火山岩,['Inner Mongolia']['heilongjiang'],
+0,371022,大蒜沟组,Dasuangou Fm,P1,庙岭组、寺洞沟组,吉林延吉一带,,['jilin'],
+0,371023,大新山组,Daxinshan Fm,P1,,云南思茅一带,,['yunnan'],
+0,371024,当冲组,Dangchong Fm,P1,狮子形组上段,江西、湖南,本组湖南认为与孤峰组相当，应更名(现暂保留--编者注),['jaingxi']['hunan'],
+0,371025,东坝组,Dongba Fm,P1,,云南、西藏交界区,,['yunnan']['tibet'],
+0,371026,东涌组,Dongyong Fm(Tong chong Fm),P1,,香港,,['Hong Kong'],
+0,371027,洞子沟组,Dongzigou Fm,P1,,黑龙江鸡东县等地,,['heilongjiang'],
+0,371028,峨查组,Echa Fm,P1,,海南东方县的白查至燕窝岭一带,“光片山组”为鹅顶组之误 ；上覆的“峨查组”实为南龙组，故命名剖面作为正层型不妥,['hainan'],
+0,371029,额阿钦(岩)群,Eaqin Gr,P1,,四川巴塘,,['sichuan'],
+0,371030,额阿钦组,Eaqin Fm,P1,嘎金雪山群、中心绒群上 段,四川,已降群为组,['sichuan'],
+0,371031,额里图组,Elitu Fm,P1,,内蒙古镶黄旗至翁牛特旗,,['Inner Mongolia'],
+0,371032,二龙山组,Erlongshan Fm,P1,,黑龙江密山市二龙山林场、宝清县勇进桥等地,,['heilongjiang'],
+0,371033,范家屯组,Fanjiatun Fm,P1,吴家屯组、哲斯组,吉林磐石县、永吉县,,['jilin'],
+0,371034,改交段,Gaijiao Mem,P1,,贵州紫 云、罗甸,属四大寨组,['guizhou'],
+0,371035,高井朝组,Gaojingchao Fm,P1,栖霞组,云南绿春县,,['yunnan'],
+0,371036,孤峰组,Gufeng Fm,P1,珞珈石灰岩、鸣山层、丁家山层、文笔山组、当冲组、官山组,皖、苏、浙、鄂、 粤、桂、川、湘,,['jiangsu']['zhejaing']['anhui']['hubei']['hunan']['guangdong']['guangxi']['sichuan'],
+0,371037,谷田组,Gutian Fm,P1,连阳煤组,广东连阳县,,['guangdong'],
+0,371038,哈尔加乌组,Haerjiawu Fm,P1,恰勒巴依组,新疆西准噶尔地区 ,,['xinjiang'],
+0,371039,黑山段,Heishan Mem,P1,,山东章丘、淄博等地 ,,['shandong'],
+0,371040,红柳河组,Hongliuhe Fm,P1,红柳河岩系、牙曼苏组第三亚组,新疆北山与甘肃交界地区 ,,['gansu']['xinjiang'],
+0,371041,红叶桥火山岩,Hongyeqiao Volcanic Rock,P1,,黑龙江 ,,['heilongjiang'],
+0,371042,猴子关灰岩,Houziguan Limestone,P1,,贵州 ,,['guizhou'],
+0,371043,吉东龙组,Jidonglong Fm,P1,,云南 ,,['yunnan'],
+0,371044,加温达坂组,Jiawendaban Fm,P1,,新疆空喀山口一带 ,,['xinjiang'],
+0,371045,佳木河组,Jiamuhe Fm,P1,,新疆准噶尔盆地西北缘 ,,['xinjiang'],
+0,371046,交嘎组,Jiaoga Fm,P1,热曲卡群、莽错组,西藏芒康、类乌齐 ,,['tibet'],
+0,371047,金塔组,Jinta Fm,P1,梧桐沟组,内蒙古黑鹰山至梧桐沟 ,,['Inner Mongolia'],
+0,371048,九十道班组,Jiushidaoban Fm,P1,,青海唐古拉山北坡,隶属开心岭群 ,['qinghai'],
+0,371049,喀大崩组,Kadabeng Fm,P1,,云南 ,,['yunnan'],
+0,371050,喀尔瓦组,Kaerwa Fm,P1,,新疆阿尔金山 ,,['xinjiang'],
+0,371051,卡拉岗组,Kalagang Fm,P1,莫老坝组、三塘湖组,新疆西准噶尔 ,,['xinjiang'],
+0,371052,卡仑达尔组,Kalundaer Fm,P1,萨热哲依组,新疆柯枰印干山以西 ,,['xinjiang'],
+0,371053,开派兹雷克组,Kaipaizileike Fm,P1,,新疆柯坪印干山 ,,['xinjiang'],
+0,371054,康马组,Kangma Fm,P1,,西藏 ,,['tibet'],
+0,371055,柯岛群(组),Kedao Gr(Fm),P1,寺洞沟组、庙岭组、豆满层、光明组、新屯组、香仁坪组、满河组等,吉林延吉一带 ,,['jilin'],
+0,371056,空喀山口组,Kongkashankou Fm,P1,巴兰格组及纳贺湾组上部、塔什立克湖群,新疆喀喇昆仑山一带及西藏,,['tibet']['xinjiang'],
+0,371057,库尔干组,Kuergan Fm,P1,,新疆南天山温宿、拜城北一带,,['xinjiang'],
+0,371058,库普库兹满组,Kupukuziman Fm,P1,,新疆柯坪,,['xinjiang'],
+0,371059,昆克拉契组,Kunkelaqi Fm,P1,,新疆柯坪以北,本组又称为空古拉奇组 ,['xinjiang'],
+0,371060,拉竹河组,Lazhuhe Fm,P1,茅口组,云南,,['yunnan'],
+0,371061,勒门沟组,Lemengou Fm,P1,,青海南祁连山,隶属巴音河群 ,['hainan']['qinghai'],
+0,371062,梁山组,Liangshan Fm,P1,垭口田组、王家铺组、倒石头组、矿山组(煤系)、铜矿溪组、阎王沟系(组)、黔阳组、马鞍煤系(组)、麻土坡组(段)、牌楼煤系、上煤组,陕、川、滇、黔、湘、鄂、赣、浙、粤 ,,['zhejaing']['jaingxi']['hubei']['hunan']['guangdong']['sichuan']['guizhou']['yunnan']['shaanxi'],
+0,371063,亮子川组,Liangzichuan Fm,P1,,黑龙江东宁县亮子川、浪东沟 ,,['heilongjiang'],
+0,371064,柳塘段,Liutang Mem,P1,下石盒子组,辽宁,正层型已被破坏 ,['liaoning'],
+0,371065,龙格组,Longge Fm,P1,先遣组,西藏 ,,['tibet'],
+0,371066,洛巴堆组,Luobadui Fm,P1,,西藏 ,,['tibet'],
+0,371067,骆驼沟组,Luotuogou Fm,P1,印尼喀拉岩系,新疆,印尼喀拉组命名早于本组，应选用之--编者注,['xinjiang'],
+0,371068,马尔争组,Maerzheng Fm,P1,,青海布青山地区,属布青山群,['qinghai'],
+0,371069,莽错组,Mangcuo Fm,P1,,西藏芒康县一带 ,,['tibet'],
+0,371070,茅口组,Maokou Fm,P1,三口江组、清溪冲灰岩、马鹿塘系、观音洞纺锤虫灰岩、董公寺灰岩、十子铺灰岩、狮子形灰岩(组)、赤颜寺灰岩(上部)、五十三梯系、倒钻石灰岩等,川、黔、湘、鄂、赣、桂、粤,本组与四大寨组及孤峰组沿走向相变 在广东省伏于童子岩组之下,['jaingxi']['hubei']['hunan']['guangdong']['guangxi']['sichuan']['guizhou'],
+0,371071,庙岭组,Miaoling Fm,P1,柯岛组,吉林、黑龙江 ,,['jilin']['heilongjiang'],
+0,371072,鸣山硅质岩(组),Mingshan Siliceous Rock(Fm),P1,,江西、福建、浙江、安徽,"最初称鸣山层,安徽、浙江将其对比为孤峰组",['zhejaing']['anhui']['fujian']['jaingxi'],
+0,371073,南港组,Nangang Fm,P1,狮子形组上段、章江组,赣中宜春、上高等地,本组与台湾南港组为同名异物,['jaingxi'],
+0,371074,诺日巴尕日保组,Nuoribagaribao Fm,P1,,青海唐古拉山,属开心岭群 ,['qinghai'],
+0,371075,平阳镇组,Pingyangzhen Fm,P1,,黑龙江鸡东县及东宁县 ,,['heilongjiang'],
+0,371076,普司格组,Pusige Fm,P1,,新疆和田以南地区 ,,['xinjiang'],
+0,371077,栖霞组,Qixia Fm,P1,大会山组、东沟组、大奄灰岩、水洞里灰岩、笔架山灰岩,苏、浙、皖、湘、桂、粤、闽、赣、滇、黔、鄂、川等省区,下伏层在云南为梁山组、黄龙组、光山营组、水长阱组、下密地组、西门崖子组；福建为鸣山组、船山组、泉上组；江西为梁山组、壶天组 本组上覆层在云南称茅口组；湖南为小江边组；福建为鸣山组或泉上组；江西为小江边组或茅口组 在云南境内茅口组与栖霞组难以划开，合并称阳新组 陕西境内本组不易单独划分开，统归于阳新组下部 本组正层型在南京栖霞山，已破坏，故另选新层型,['jiangsu']['zhejaing']['anhui']['fujian']['jaingxi']['hubei']['hunan']['guangdong']['guangxi']['sichuan']['guizhou']['yunnan'],
+0,371078,棋盘组,Qipan Fm,P1,丘盘达里岩系、萨克马尔亚丁斯克建造,新疆叶城 ,,['xinjiang'],
+0,371079,青龙屯组,Qinglongtun Fm,P1,,吉林延寿县青龙屯 ,,['jilin'],
+0,371080,曲布组,Qubu Fm,P1,卡当组,西藏定日 ,,['tibet'],
+0,371081,曲嘎组,Quga Fm,P1,巨日浦组、西藏组,西藏札达一带 ,,['tibet'],
+0,371082,泉上组,Quanshang Fm,P1,栖霞组上段,闽西南建瓯一带,本组与鸣山组层位相当，空间上相互交叉相变,['fujian'],
+0,371083,三道桥组,Sandaoqiao Fm,P1,,川西 ,,['sichuan'],
+0,371084,山谷旗组,Shanguqi Fm,P1,柯岛组下亚组、下柯岛组、柯岛组、光明组,吉林延吉 ,,['jilin'],
+0,371085,胜利沟组,Shengligou Fm,P1,下芨芨槽群、贝勒库都克组,新疆东准噶尔 ,,['xinjiang'],
+0,371086,石人子沟组,Shirenzigou Fm,P1,,新疆乌鲁木齐 ,,['xinjiang'],
+0,371087,寿山沟组,Shoushangou Fm,P1,青凤山组,吉林桦甸和磐石县、内蒙古巴林左旗等地 ,,['Inner Mongolia']['jilin'],
+0,371088,树河组,Shuhe Fm,P1,,四川盐源地区 ,,['sichuan'],
+0,371089,双堡塘组,Shuangputang Fm,P1,阿其德组,甘肃北山、内蒙古额济纳旗,,['Inner Mongolia']['gansu'],
+0,371090,双桥子组,Shuangqiaozi Fm,P1,,黑龙江东宁一带 ,,['heilongjiang'],
+0,371091,水峡口组,Shuixiakou Fm,P1,镇安系,陕西镇安及湖北西北部 ,,['hubei']['shaanxi'],
+0,371092,四大寨组,Sidazhai Fm,P1,垭口田组,贵州、广西,南丹组相当于贵州小浪风关组，广西本组包括龙马段、拔旺段,['guangxi']['guizhou'],
+0,371093,塔什库拉组,Tashikula Fm,P1,,新疆乌鲁木齐 ,,['xinjiang'],
+0,371094,滩前组,Tan qian Fm,P1,柯岛组上亚组、上柯岛组、庙岭组、柯岛组,吉林延吉 ,,['jilin'],
+0,371095,通渭组,Tongwei Fm,P1,,甘肃甘谷一带,本组可能与羊虎沟组为，待研究,['gansu'],
+0,371096,铜陵沟组,Tonglinggou Fm,P1,三道桥组、东大河组,四川康定一带 ,,['sichuan'],
+0,371097,童子岩组,Tongziyan Fm,P1,新铺煤系、兴梅组、大羽羊齿植物煤系、龙潭组下段、龙岩组、加福组,闽西南 ,,['fujian'],
+0,371098,土门岭组,Tumenling Fm,P1,,黑龙江五常县(小兴安岭、张广才岭地区),,['heilongjiang'],
+0,371099,吐露港组,Tulugang Fm,P1,大埔海组(?),香港吐露港一带,李作明等认为与广东茅口组或孤峰组大体相当,['Hong Kong'],
+0,371100,瓦屋湾组,Wawuwan Fm,P1,,湖北竹山、竹溪、房县等地区,,['hubei'],
+0,371101,围山湖组,Weishanhu Fm,P1,宁共曲久隆组、叶桑岗组、空喀山口组,西藏围山湖,按命名优先原则本组应称宁共曲久隆组(文世宣，1979),['tibet'],
+0,371102,文笔山组,Wenbishan Fm,P1,,闽西南 ,,['fujian'],
+0,371103,乌郎组,Wulang Fm,P1,塔尔得套组,新疆伊犁、博乐 ,,['xinjiang'],
+0,371104,武穴组,Wuxue Fm,P1,,湖北大冶-武穴及安徽铜陵一带,,['anhui']['hubei'],
+0,371105,夏桥段,Xiaqiao Mem,P1,,江苏徐州 ,,['jiangsu'],
+0,371106,仙人洞组,Xianrendong Fm,P1,栖霞组,云南墨江 ,,['yunnan'],
+0,371107,小风口段,Xiaofengkou Mem,P1,,豫西、豫北,隶属石盒子组 ,['henan'],
+0,371108,小湖段,Xiaohu Mem,P1,,江苏徐州、丰县、沛县,,['jiangsu'],
+0,371109,小江边组,Xiaojiangbian Fm,P1,茅口组下段、栖霞组上段,江西、湖南,,['jaingxi']['hunan'],
+0,371110,小提坎立克组,Xiaotikanlike Fm,P1,喷发岩组、库铁热克群,新疆温宿南天山 ,,['xinjiang'],
+0,371111,岩头组,Yantou Fm,P1,茅口组,滇东南文山县 ,,['yunnan'],
+0,371112,阳新群(组),Yangxin Gr(Fm),P1,观音崖燧石石灰岩、大厣灰岩、五十三梯系、倒钻岩石灰岩、巫山石灰岩(下部)等,鄂、川、陕、滇扬子区,"本群在四川与下伏梁山组呈整合,其上部为宣威组、黑泥哨组整合或被峨眉山玄武岩平行不整合覆盖",['hubei']['sichuan']['yunnan']['shaanxi'],
+0,371113,叶桑岗组,Yesanggang Fm,P1,围山湖组,新疆且末县叶桑岗至南依勒克，西藏北部一带,,['tibet']['xinjiang'],
+0,371114,玉泉组,Yuquan Fm,P1,,黑龙江阿城市玉泉、交界屯、小岭、平山等地,本组曾称玉泉灰岩、玉泉系、玉泉群,['heilongjiang'],
+0,371115,杂怀沟组,Zahuaigou Fm,P1,,内蒙古包头市石拐东部,,['Inner Mongolia'],
+0,371116,哲斯组,Zhesi Fm,P1,义和乌苏组、吴家屯组、范家屯组,内蒙古、吉林、黑龙江,本组原称Jusu honguer Fm,['Inner Mongolia']['jilin']['heilongjiang'],
+0,370001,阿恰群,Aqia Gr,P,,新疆巴楚,本群部分研究者认为与沙井子组相当,,['xinjiang']
+0,370002,长排头组,Changpaitou Fm,P,,香港新界东北部沙头角一带,,,['Hong Kong']
+0,370003,大浦海组,Dapuhai Fm(Tolo Harbour Fm),P,吐露港组(?),香港马屎洲和中文大学,本组相当于童子岩组(黎权伟，1998),,['Hong Kong']
+0,370004,尕笛考组,Gadikao Fm,P,扎格涌组,青海唐古拉山北坡,,,['qinghai']
+0,370005,芨芨槽群,Jijicao Gr,P,,新疆天山,,,['xinjiang']
+0,370006,拉巴组,Laba Fm,P,,云南,,,['yunnan']
+0,370007,曲布日嘎组,Quburiga Fm,P,扎卡组,西藏定日一带,,,['tibet']
+0,370008,荣中组,Rongzhong Fm,P,,西藏左贡县一带,本组原四川三区测队1970年曾依外来灰岩岩块中的化石将其定为来姑群C2+3,,['tibet']
+0,370009,三面井组,Sanmianjing Fm,P,,内蒙古、冀北,,,['Inner Mongolia']
+0,370010,色龙群,Selong Gr,P,,西藏定日一带,李璞等1952年曾称色隆组,,['tibet']
+0,370011,乌尔禾群,Wuerhe Gr,P,,新疆准噶尔盆地边缘,,,['xinjiang']
+0,366001,通天河蛇绿混杂岩,Tongtianhe Ophiolite Melange,C-T,,青海西金乌兰-通天河,,,['qinghai']
+0,365001,板城组,Bancheng Fm,C1-P1,,广西钦州一带,,['guangxi'],
+0,365002,月门沟群,Yuemengou Gr,"C2,P1",玉门沟群,晋、冀、豫、陕、皖北、辽南、鲁西、苏北及甘肃等地,①华北地层区东北部，太原组之下尚发育有本溪组 ②玉门沟为月门沟之误,['gansu'],
+0,365003,甘家组,Ganjia Fm,C2-P,,青海,,['qinghai'],
+0,365004,昂杰组,Angjie Fm,C2-P1,,西藏措勤-林周、噶尔、革吉、亚热等地,,['tibet'],
+0,365005,宝力高庙组,Baoligaomiao Fm,C2-P1,星火组,内蒙古及黑龙江,,['Inner Mongolia']['heilongjiang'],
+0,365006,冰峰组,Bingfeng Fm,C2-P1,冉浪组,四川巴塘、云南中甸一带,,['sichuan']['yunnan'],
+0,365007,布青山群,Buqingshan Gr,C2-P1,,青海东昆仑山,,['qinghai'],
+0,365008,查雅段,Chaya Mem,C2-P1,,西藏定日一带,该段为基龙组之上段,['tibet'],
+0,365009,打柴沟组,Dachaigou Fm,C2-P1,,青海格尔木一带,,['qinghai'],
+0,365010,大关山组,Daguanshan Fm,C2-P1,,甘肃、四川(秦岭)、青海,青海原也有此地层，后认为属生物地层单位，而归于尕海群,['sichuan']['gansu']['qinghai'],
+0,365011,格根敖包组,Gegenaobao Fm,C2-P1,盐池北山组,内蒙古东乌旗盐池北山,,['Inner Mongolia'],
+0,365012,经畲组,Jingshe Fm,C2-P1,,闽西南,,['fujian'],
+0,365013,酒局子组,Jiujuzi Fm,C2-P1,黄家沟组、斑布加拉嘎组,内蒙古敖汉旗-库伦旗一带,,['Inner Mongolia'],
+0,365014,开心岭群,Kaixinling Gr,C2-P1,,青海唐古拉山北坡,,['qinghai'],
+0,365015,孔雀屏组,Kongqueping Fm,C2-P1,,新疆奇台,,['xinjiang'],
+0,365016,来姑组,Laigu Fm,C2-P1,,西藏林周、波密、察隅,,['tibet'],
+0,365017,马平组,Maping Fm,C2-P1,南寨系、船山组等,桂、滇、黔、赣、湘、陕,,['jaingxi']['hunan']['guangxi']['guizhou']['yunnan']['shaanxi'],
+0,365018,南丹组,Nan dan Fm,C2-P1,,广西南丹,,['guangxi'],
+0,365019,山西组,Shanxi Fm,C2-P1,烟台统、荒神山层、南票组、上月门沟系、北岔沟组、南峪沟组、大苗庄组、欢喜岭组、荒山组、神后层、郝家坊组、赵各庄组、中杨家屯煤系,晋、冀、京、津、鲁、豫、陕、甘、宁、辽、吉、苏、皖及内蒙古等省(市、区),,['Inner Mongolia'],
+0,365020,树维门科组,Shuweimenke Fm,C2-P1,,青海东昆仑山,隶属布青山群,['qinghai'],
+0,365021,太原组,Taiyuan Fm,C2-P1,下月门沟煤系、大阳系、张家庄组(冀);清水涧组(京);半壁店组、朱屯层(冀)、开平组,晋、冀、京、鲁、豫、苏、皖、辽、吉、内蒙古、津、陕、甘、宁等省区,当本溪组存在时，与太原组的界线划在太原组最下部一层灰岩之底面,['Inner Mongolia'],
+0,365022,吞龙共巴组,Tunlonggongba Fm,C2-P1,塔什拉克湖群、脱塔拉组、鲁谷组、角木茶卡组、财那哈组、空喀山口群、库尔良群(?)等,西藏多玛-鲁谷一带,,['tibet'],
+0,365023,扎日根组,Zharigen Fm,C2-P1,,青海格尔木市诺日巴纳保,隶属开心岭群 ,['qinghai'],
+0,365024,中吾农山群,Zhongwunongshan Gr,C2-P1,,青海西部,"中吾农山用于地层命名,早于青海省统一订正的宗务隆山,故不改动",['qinghai'],
+0,365025,杨木岗组,Yangmugang Fm,"C3,P1",,黑龙江阿城、宾县、五常、东宁、宁安等地,与原始定义仅在时代归属上有别。黄本宏(1981)根据所含植物化石将其置于晚石炭世。黑龙江区调队(1997)将其时代延至早二叠世,['heilongjiang'],
+0,365026,珍子山组,Zhenzishan Fm,C3-P1,庙山组,黑龙江省密山县,,['heilongjiang'],
+0,365027,冈瓦纳群,Gangwana Gr,C-P,,西藏邦迪拉-西巴霞曲以东,,['tibet'],
+0,365028,果可山组,Guokeshan Fm,C-P,,青海土尔根大坂-青海南山,属中吾农山群,['hainan']['qinghai'],
+0,365029,霍尔巴错群,Huoerbacuo Gr,C-P,木实热不卡群、龙木错群、霍尔巴错群、龙格组,西藏日土,,['tibet'],
+0,365030,可果山组,Keguoshan Fm,C-P,,青海,隶属中吾农山群,['qinghai'],
+0,365031,木实热不卡群,Mushirebuka Gr,C-P,,西藏日土县、改则县,,['tibet'],
+0,365032,曲地组,Qudi Fm,C-P,,西藏日土县、改则县,为木实热不卡群上部的组级单位,['tibet'],
+0,365033,他披组,Tapi Fm,C-P,,云南文山,,['yunnan'],
+0,365034,羊山组,Yangshan Fm,C-P1,石门垭组、南沟河组、垭子组、三里冲组,陕南与鄂西北郧西地区。选层型是陕西地质局地层清理组1997年选定,,['shaanxi'],
+0,364001,巴平组,Baping Fm,C1-2,龙头锰系,广西南丹一带,,['guangxi'],
+0,364002,白家店组,Baijiadian Fm,C1-2,后房身沟组,内蒙古白家店一带,,['Inner Mongolia'],
+0,364003,摆佐组,Baizuo Fm,C1-2,,贵州贵定、独山、水城等,与长江中下游的老虎洞组，广西的大埔组相似。有人主张本组归于大埔组，为该组的一部分,['guizhou'],
+0,364004,包古图组,Baogutu Fm,C1-2,,新疆克拉玛依一带,,['xinjiang'],
+0,364005,本溪组,Benxi Fm,C1-2,,吉、冀、鲁、豫、皖等省。姚家套组(含炭层)、本溪湖夹炭层、本溪湖系、本溪湖石灰岩、东房身页岩、马圈子层、南山 砂岩、南山夹炭层,分布广、穿时特征十分明显，如辽宁为C1-2或C2，河南西部为C1。本组又分为湖田段和新洞沟段 本组原称本溪统(系),['hebei']['jilin']['anhui']['shandong']['henan'],
+0,364006,长岩窝组,Changyanwo Fm,C1-2,乱石窖组,四川,,['sichuan'],
+0,364007,大干沟组,Dagangou Fm,C1-2,西汉斯特沟组,青海格尔木一带,,['qinghai'],
+0,364008,顶坡组,Dingpo Fm,C1-2,扎普组、许池卡组、巴乡岭组,川、滇,,['sichuan']['yunnan'],
+0,364009,都安组,Duan Fm,C1-2,乐业组、隆或组,广西,,['guangxi'],
+0,364010,芨芨台子组,Jijitaizi Fm,C1-2,,甘肃、内蒙古，北山南带东段音凹峡-金塔,,['Inner Mongolia']['gansu'],
+0,364011,尖山营组,Jianshanying Fm,C1-2,,云南宁蒗、大理、金平,,['yunnan'],
+0,364012,九架炉组,Jiujialu Fm,C1-2,,贵州中部,,['guizhou'],
+0,364013,老虎洞组,Laohudong Fm,C1-2,丁山组、花石山组、黄龙白云岩,苏、皖、浙、赣、闽,本组原称老虎洞白云岩,['jiangsu']['zhejaing']['anhui']['fujian']['jaingxi'],
+0,364014,老王寨群,Laowangzhai Gr,C1-2,,云南哀牢山西侧,,['shanxi']['yunnan'],
+0,364015,林地组,Lindi Fm,C1-2,,闽西南 ,,['fujian'],
+0,364016,绿条山组,Lutiaoshan Fm,C1-2,,内蒙古红石山-雅干、甘肃,,['Inner Mongolia']['gansu'],
+0,364017,曼丙组,Manbing Fm,C1-2,,云南,属石登群 ,['yunnan'],
+0,364018,岷河组,Minhe Fm,C1-2,当额组,陕西、甘肃、四川,本组在陕西境内陕西区调队认为相当于羊山组下部而停用本名称,['sichuan']['shaanxi']['gansu'],
+0,364019,磨磐山组,Mopanshan Fm,C1-2,石咀子组、磐石组、明城群,吉林,,['jilin'],
+0,364020,南段组,Nanduan Fm,C1-2,,云南澜沧、孟连一带,,['yunnan'],
+0,364021,曲江组,Qujiang Fm,C1-2,,广东曲江一带 ,,['guangdong'],
+0,364022,扫子山组,Saozishan Fm,C1-2,北坡子泉群、石板山组,甘、新交界北山地区,,['gansu']['xinjiang'],
+0,364023,上朝组,Shangchao Fm,C1-2,,广西环江一带,,['guangxi'],
+0,364024,石板山组,Shibanshan Fm,C1-2,矛头山组、音凹峡组、花牛山组,甘、新 ,,['gansu']['xinjiang'],
+0,364025,石登群,Shideng Gr,C1-2,,云南兰坪等地,,['yunnan'],
+0,364026,石嘴子组,Shizuizi Fm,C1-2,吉林层、磐石层、家道沟组,内蒙古敖汗旗以东-库伦旗一线,,['Inner Mongolia'],
+0,364027,顺甸河组,Shundianhe Fm,C1-2,,云南文山、广南、富宁,,['yunnan'],
+0,364028,四峡口组,Sixiakou Fm,C1-2,铁厂铺组、岷河群、镇安系、四家庄组,鄂、陕交界郧西、山阳一带,,['hubei']['shaanxi'],
+0,364029,威宁组,Weining Fm,C1-2,德坞组,贵州、四川,,['sichuan']['guizhou'],
+0,364030,西沟组,Xigou Fm,C1-2,,四川松藩一带 ,,['sichuan'],
+0,364031,下加岭组,Xiajialing Fm,C1-2,,甘肃,,['gansu'],
+0,364032,小浪风关组,Xiaolangfengguan Fm,C1-2,,贵州紫云,本组与广西南丹组大致可以对比 ,['guizhou'],
+0,364033,羊虎沟组,Yanghugou Fm,C1-2,焉攴山系、太原组、阳露槽组、李家泉层、墨沟层、窑坡层、尖山组、三叉组、红山窑统、塔儿沟层等,甘肃北祁连山区,"本组的穿时特征较明显,在甘肃该组时代为C2,P1,在青海该组时代为C2",['gansu'],
+0,364034,袁家沟组,Yuanjiagou Fm,C1-2,界河街组,陕、鄂,"陕西山阳旬阳该组时代为C1-2,湖北郧西该组时代仅限于C1,穿时明显",['hubei']['shaanxi'],
+0,364035,月牙湖组,Yueyahu Fm,C1-2,,西藏拉竹龙，日湾擦卡，查桑,,['tibet'],
+0,364036,梓山组,Zishan Fm,C1-2,进贤煤系、仙姑岭煤系、藤田煤系、测水段,赣中、赣南,"王绍文创名时只有简短的描述,无实测剖面,时代定为石炭纪",['jaingxi'],
+0,363001,光庆组,Guangqing Fm,C3,,黑龙江密山县,,,['heilongjiang']
+0,363002,山秀岭组,Shanxiuling Fm,C3,彩秀岭组,吉、黑,,,['jilin']['heilongjiang']
+0,363003,双石头组,Shuangshitou Fm,C3,,河南商城王坳等地,,,['henan']
+0,363004,杨小庄组,Yangxiaozhuang Fm,C3,二道河组、杨大庄组,山西商城县杨小庄、马鞍山煤矿及皂河等地,,,['shanxi']
+0,362001,阿腊德依克赛组,Aladeyikesai Fm,C2,,新疆哈拉阿拉特山,,['xinjiang'],
+0,362002,阿木山组,Amushan Fm,C2,,内蒙古阿右旗-扎鲁特旗,,['Inner Mongolia'],
+0,362003,阿衣里河组,Ayilihe Fm,C2,虎拉山组、科什布拉克组、卡拉苏群,新疆南天山,,['xinjiang'],
+0,362004,阿孜干组,Azigan Fm,C2,别什特康组,新疆皮山县,,['xinjiang'],
+0,362005,奥尔吐组,Aoertu Fm,C2,,新疆博格达山一带,,['xinjiang'],
+0,362006,骜曲组,Aoqu Fm,C2,,西藏类乌齐、芒康、江达,,['tibet'],
+0,362007,巴塔玛依内山组,Batamayineishan Fm,C2,,新疆东准噶尔,,['xinjiang'],
+0,362008,本巴图组,Benbatu Fm,C2,,内蒙古达茂旗-扎鲁特旗,,['Inner Mongolia'],
+0,362009,别根他乌组,Biegentawu Fm,C2,,新疆乌什柯坪一带(南天山),本组最初译为别根套岩系,['xinjiang'],
+0,362010,擦蒙组,Cameng Fm,C2,,西藏日土县多玛-改则县,,['tibet'],
+0,362011,彩北石灰岩层,Caibei Limestone Bed,C2,,辽宁本溪,按新的划分意见本组应相当于太原组 本层即赵亚曾，1926年所建的本溪石灰岩。范国清，1994年改称为采北石灰岩层(应停用--编者注),['liaoning'],
+0,362012,草凉驿组,Caoliangyi Fm,C2,,陕西、甘肃,陕西区测队(1967)曾用草滩沟组代替草凉驿组。1983年陕西地层表改用草滩沟组代表下伏的奥陶系火山岩 故应恢复此名称,['shaanxi']['gansu'],
+0,362013,船山组,Chuanshan Fm,C2,,苏、皖、浙、赣、闽、粤、鄂等省,四川原划分的“船山组”与原定义不符，故不包括在内,['jiangsu']['zhejaing']['anhui']['fujian']['jaingxi']['hubei']['guangdong'],
+0,362014,大埔组,Dapu Fm,C2,大山塘白云岩,桂、滇、粤、鄂、赣、陕等省(区),本组最初称大埔白云岩或大埔白云石层,['jaingxi']['hubei']['guangdong']['guangxi']['yunnan']['shaanxi'],
+0,362015,道人冲组,Daorenchong Fm,C2,西冲头组、庙冲组、付大山砾岩,河南大别山区,,['henan'],
+0,362016,底坎尔组,Dikaner Fm,C2,土古土布拉克组、沙泉子组、阿牙克达格拉克岩系,新疆哈密、鄯善县,,['xinjiang'],
+0,362017,缔敖苏组,Diaosu Fm,C2,看(坎)因力克群、空贝利群,青海格尔木及新疆南部,,['qinghai']['xinjiang'],
+0,362018,丁家寨组,Dingjiazhai Fm,C2,,云南保山、泸水一带 ,,['yunnan'],
+0,362019,东图津河组,Dongtujinhe Fm,C2,秋尔贡布拉克组,新疆尼勒克县阿拉套山、博罗霍洛山一带,,['xinjiang'],
+0,362020,东扎口组,Dongzhakou Fm,C2,上加岭组、海巅峡群,甘肃临洮、武山一带,,['gansu'],
+0,362021,二道沟组,Erdaogou Fm,C2,,新疆哈密以北巴里坤  ,,['xinjiang'],
+0,362022,尕海群,Gahai Gr,C2,,甘肃、青海 ,,['gansu']['qinghai'],
+0,362023,干泉组,Ganquan Fm,C2,哈拉诺尔组、盐滩组,甘肃、新疆 ,,['gansu']['xinjiang'],
+0,362024,冈玛错组,Gangmacuo Fm,C2,,西藏日土县、改则县 ,,['tibet'],
+0,362025,哈拉阿拉特组,Halaalate Fm,C2,,新疆西准噶尔哈拉阿拉特山 ,,['xinjiang'],
+0,362026,哈拉米兰河群,Halamilanhe Gr,C2,奈扎塔石群、阿克苏河组、大九坝组,新疆塔里木,大九坝组岩性相当于哈拉米兰河群下部层位，未见顶 ,['xinjiang'],
+0,362027,浩特洛哇组,Haoteluowa Fm,C2,格尔木河组,青海东昆仑山 ,,['qinghai'],
+0,362028,黑石山组,Heishishan Fm,C2,,新疆东部星星峡至甘肃交界区,本组原为白山组的一部分,['gansu']['xinjiang'],
+0,362029,弧形梁组,Huxingliang Fm,C2,,新疆 ,,['xinjiang'],
+0,362030,胡油坊组,Huyoufang Fm,C2,,河南 ,,['henan'],
+0,362031,壶天群,Hutian Gr,C2,钟楼桥灰岩层,湘、赣、粤,江西将该群原分为黄龙组、船山组，因上述两名为扬子地区名称，现统一用大埔组及马平组(属东南地层区),['jaingxi']['hunan']['guangdong'],
+0,362032,湖田段,Hutian Mem,C2,孝义组、钙质结核铝土页岩,苏、鲁、冀、津、辽、晋、陕、甘,本段是穿时较强的岩石地层单位，有时本溪组上部缺失，段直接被太原组覆盖。其时代河北、辽宁为C1-2，山西为C2-P1,['tianjin']['hebei']['shanxi']['liaoning']['jiangsu']['shandong']['shaanxi']['gansu'],
+0,362033,黄龙组,Huanglong Fm,C2,黄金塘灰岩,苏、浙、皖、赣、鄂、粤、桂、滇、黔、川 ,,['jiangsu']['zhejaing']['anhui']['jaingxi']['hubei']['guangdong']['guangxi']['sichuan']['guizhou']['yunnan'],
+0,362034,吉木乃组,Jimunai Fm,C2,二道沟组,新疆布尔津南及托斯特 ,,['xinjiang'],
+0,362035,加麦弄群,Jiamainong Gr,C2,,青海、西藏 ,,['tibet']['qinghai'],
+0,362036,居里得能组,Julideneng Fm,C2,,新疆天山博格达-哈尔里克 ,,['xinjiang'],
+0,362037,喀拉治尔金组,Kalazhierjin Fm,C2,萨很托亥组、巴斯库坦群,新疆乌什卡拉铁克山西部,本组又称为喀拉治尔加组 ,['shanxi']['xinjiang'],
+0,362038,喀喇额尔齐斯群,Kalaeerqisi Gr,C2,,新疆锡泊渡-富蕴一带 ,,['xinjiang'],
+0,362039,卡拉沙依组,Kalashayi Fm,C2,,新疆巴楚县城小海子水库及卡拉沙依 ,,['xinjiang'],
+0,362040,卡拉乌衣组,Kalawuyi Fm,C2,,新疆英吉莎-叶城-皮山 ,,['xinjiang'],
+0,362041,康克林组,Kangkelin Fm,C2,扎尔加克组、铁列克河群,新疆柯坪 ,,['xinjiang'],
+0,362042,科古琴山组,Keguqinshan Fm,C2,哈沙河组,新疆西天山 ,,['xinjiang'],
+0,362043,克鲁克组,Keluke Fm,C2,,青海柴达木盆地北缘 ,,['qinghai'],
+0,362044,空树河组,Kongshuhe Fm,C2,,云南腾冲以北 ,,['yunnan'],
+0,362045,库尔良群,Kuerliang Gr,C2,别什特康组,新疆皮山 ,,['xinjiang'],
+0,362046,拉嘎组,Laga Fm,C2,,西藏噶尔-申扎 ,,['tibet'],
+0,362047,里查组,Licha Fm,C2,,西藏类乌齐、江达、芒康 ,,['tibet'],
+0,362048,柳树沟组,Liushugou Fm,C2,白杨沟组,新疆天山、博格达山一带 ,,['xinjiang'],
+0,362049,六棵树组,Liukeshu Fm,C2,平梁组、平凉层、胜利沟群,新疆东准噶尔 ,,['xinjiang'],
+0,362050,龙洞河组,Longdonghe Fm,C2,,云南,隶属石登群 ,['yunnan'],
+0,362051,龙吟组,Longyin Fm,C2,,贵州 ,,['guizhou'],
+0,362052,罗布通组,Luobutong Fm,C2,,西藏八宿然乌乡一带 ,,['tibet'],
+0,362053,马庄山组,Mazhuangshan Fm,C2,,新疆东部哈密东南坡子泉-马庄山一带,"本组原为白山组的一部分,现白山组已解体为四个组级单位",['xinjiang'],
+0,362054,蚂蚁石灰岩层,Mayi Limestone Bed,C2,,辽宁太子河地区,杨敬之1964年曾称为蚂蚁段,['liaoning'],
+0,362055,缪林托凯陶山组,Miaolintuokaitaoshan Fm,C2,,新疆博格达山北坡 ,,['xinjiang'],
+0,362056,木兹杜克组,Muziduke Fm,C2,康克林组,新疆柯坪、乌什一带 ,,['xinjiang'],
+0,362057,藕塘底组,Outangdi Fm,C2,叶家湾组、上新桥组,江西东北部、浙西北和苏南地区,本组在江西不整合于前泥盆系之上或平行不整合于珠藏坞组之上 ,['jaingxi'],
+0,362058,皮牙曼组,Piyaman Fm,C2,,新疆和田(昆仑山) ,,['xinjiang'],
+0,362059,祁家沟组,Qijiagou Fm,C2,,新疆乌鲁木齐一带 ,,['xinjiang'],
+0,362060,恰其海组,Qiaqihai Fm,C2,,新疆布尔津一带,现在的恰其海组仅相当于1981年命名时所划分的第四亚组,['xinjiang'],
+0,362061,恰提尔群,Qiatier Gr,C2,月牙湖组,新疆叶尔羌河上游、乔戈里峰至喀喇昆仑山口 ,,['xinjiang'],
+0,362062,前峡组,Qianxia Fm,C2,,新疆准噶尔南缘、乌鲁木齐一带,新疆区调队地层清理组将本组归于奇尔古斯套组内,['xinjiang'],
+0,362063,青天峡组,Qingtianxia Fm,C2,,海南东方县,重测的青天峡剖面，将原青天峡组的15层顶部砂岩之下至6层，修订为南好组,['hainan'],
+0,362064,泉旺头段,Quanwangtou Mem,C2,,江苏徐州、丰沛,属月门沟群太原组下部,['jiangsu'],
+0,362065,三关垭组,Sanguanya Fm,C2,,豫西淅川 ,,['henan']['sichuan'],
+0,362066,三棱石灰岩层,Sanleng Limestone Bed,C2,,辽宁南部,本组应归于太原组的底部--编者注 ,['liaoning'],
+0,362067,沙雷塞尔克组,Shaleisaierke Fm,C2,,新疆木垒县 ,,['xinjiang'],
+0,362068,沙玛尔沙依组,Shamaershayi Fm,C2,,新疆博格达山 ,,['xinjiang'],
+0,362069,沙士那组,Shashina Fm,C2,,西藏八宿一带 ,,['tibet'],
+0,362070,胜利泉组,Shengliquan Fm,C2,,新疆哈密以南 ,,['xinjiang'],
+0,362071,石喇嘛组,Shilama Fm,C2,,四川康定 ,,['sichuan'],
+0,362072,石钱滩组,Shiqiantan Fm,C2,红沙泉组、双井子组(灰岩) 化石沟组、锦西统,新疆东准噶尔卡拉麦里山 ,,['xinjiang'],
+0,362073,石嘴子组,Shizuizi Fm,C2,范家屯组、寿山沟组,吉林磐石县 ,,['jilin'],
+0,362074,拴马桩组,Shuanmazhuang Fm,C2,佘太组,内蒙古阴山地区(狼山-集宁一带) ,,['Inner Mongolia'],
+0,362075,水长阱组,Shuichangjing Fm,C2,,云南洱源一带 ,,['yunnan'],
+0,362076,塔哈奇组,Tahaqi Fm,C2,,新疆皮山县西昆仑山北坡 ,,['xinjiang'],
+0,362077,太勒古拉组,Tailegula Fm,C2,,新疆克拉玛依 ,,['xinjiang'],
+0,362078,唐家屯组,Tangjiatun Fm,C2,,黑龙江五常、阿城等地 ,,['heilongjiang'],
+0,362079,特给乃奇克达坂组,Tegeinaiqikedaban Fm,C2,,新疆英吉莎县一带 ,,['xinjiang'],
+0,362080,天宝山组,Tianbaoshan Fm,C2,天宝组,吉林延吉,吉林省地层多重划分对比研究专题组于1992年修订为天宝山组 ,['jilin'],
+0,362081,土坡组,Tupo Fm,C2,石磨沟组,宁夏中宁、中卫、同心及贺兰山等地 ,,['ningxia'],
+0,362082,屯头段,Tuntou Mem,C2,,江苏徐州、丰沛一带,属月门沟群太原组中上部 ,['jiangsu'],
+0,362083,窝瓜地组,Woguadi Fm,C2,寿山沟组、老爷岭亚组,吉林磐石等地 ,,['jilin'],
+0,362084,卧牛寺组,Woniusi Fm,C2,,云南保山 ,,['yunnan'],
+0,362085,梧桐窝子组,Wutongwozi Fm,C2,,新疆哈密 ,,['xinjiang'],
+0,362086,下密地组,Xiamidi Fm,C2,,云南墨江江城一带 ,,['yunnan'],
+0,362087,小海子组,Xiaohaizi Fm,C2,,新疆塔里木西北部 ,,['xinjiang'],
+0,362088,小峪石灰岩层,Xiaoyu Limestone Bed,C2,,辽宁 ,,['liaoning'],
+0,362089,新洞沟段,Xindonggou Mem,C2,,辽东太子河及大连复州一带,,['liaoning'],
+0,362090,新伊根河组,Xinyigenhe Fm,C2,,黑龙江额尔古纳右旗,,['heilongjiang'],
+0,362091,杨布拉克组,Yangbulake Fm,C2,,新疆木垒,,['xinjiang'],
+0,362092,妖魔梁组,Yaomoliang Fm,C2,,新疆东部巴里坤县莫钦乌拉山及巴里坤塔格一带,,['xinjiang'],
+0,362093,伊什基里克组,Yishijilike Fm,C2,吐尔拱河组,新疆特克斯县托玛苏,,['xinjiang'],
+0,362094,因格布拉克组,Yingebulake Fm,C2,,"新疆阿尔金山红柳沟,安南坝一带","本组原称因格布拉克群，1981年李天德重测剖面,并改群为组",['xinjiang'],
+0,362095,扎达日段,Zhadari Mem,C2,,西藏札达,该段为基龙组之下段,['tibet'],
+0,362096,展金组,Zhanjin Fm,C2,,西藏日土县－改则县,为木实热不卡群的中组,['tibet'],
+0,361001,巴楚组,Bachu Fm,C1,,新疆巴楚,,['xinjiang'],
+0,361002,巴都组,Badu Fm,C1,包舍口组,甘肃武山一带,,['gansu'],
+0,361003,巴什索贡组,Bashisuogong Fm,C1,努古斯土布拉克群,新疆阿图什柯坪一带,,['xinjiang'],
+0,361004,坝达组,Bada Fm,C1,,云南东部,,['yunnan'],
+0,361005,白山组,Baishan Fm,C1,,甘肃北山及内蒙古西部,,['Inner Mongolia']['gansu'],
+0,361006,北兴组,Beixing Fm,C1,,黑龙江密山,,['heilongjiang'],
+0,361007,簸箕湾组,Bojiwan Fm,C1,,贵州威宁一带,,['guizhou'],
+0,361008,测水组,Ceshui Fm,C1,马头寨煤系、忠信组、芙蓉山组(系)、狮岗层、中洞岭煤系,湘中南及广东一带,,['guangdong'],
+0,361009,查尔格拉河组,Chaergelahe Fm,C1,,黑龙江黑河市,,['heilongjiang'],
+0,361010,茶叶坡组,Chayepo Fm,C1,五里坝组上部,陕西镇巴一带,,['shaanxi'],
+0,361011,朝吐沟组,Chaotugou Fm,C1,,内蒙古敖汉旗一带,,['Inner Mongolia'],
+0,361012,城墙沟组,Chengqianggou Fm,C1,,青海欧龙布鲁克一带,,['qinghai'],
+0,361013,臭牛沟组,Chouniugou Fm,C1,三岔沟组,甘、宁、青、内蒙古等省(区),,['Inner Mongolia'],
+0,361014,打屋坝组,Dawuba Fm,C1,,贵州长顺一带,,['guizhou'],
+0,361015,大哈拉军山组,Dahalajunshan Fm,C1,,新疆特克斯县,,['xinjiang'],
+0,361016,大湖组,Dahu Fm,C1,,粤东,,['guangdong'],
+0,361017,大桥组,Daqiao Fm(Tai Kiu Fm),C1,,香港元朗大桥寺,,['Hong Kong'],
+0,361018,大赛坝组,Dasaiba Fm,C1,孟公坳组、英德石灰岩组、刘家塘组,粤北至粤中,,['guangdong'],
+0,361019,大羊场组,Dayangchang Fm,C1,,云南中甸县一带,,['yunnan'],
+0,361020,党河南山组,Danghenanshan Fm,C1,,青海天峻及甘肃肃北一带(祁连山),,['gansu']['qinghai'],
+0,361021,东风岭组,Dongfengling Fm,C1,马查拉组灰岩段,西藏类乌齐、芒康、江达,,['tibet'],
+0,361022,二峪河组,Eryuhe Fm,C1,下东沟组,陕西柞水鼓山-商州,,['shaanxi'],
+0,361023,干墩组,Gandun Fm,C1,,新疆 哈密觉罗塔格北坡 ,,['xinjiang'],
+0,361024,甘草湖组,Gancaohu Fm,C1,,新疆南天山东段 ,,['shandong']['xinjiang'],
+0,361025,高骊山组,Gaolishan Fm,C1,资丘组,苏、皖、鄂 ,,['jiangsu']['anhui']['hubei'],
+0,361026,哈拉郭勒组,Halaguole Fm,C1,,青海东昆仑山,原称哈拉郭勒群 ,['qinghai'],
+0,361027,海棠山段,Haitangshan Mem,C1,,陕西镇安海棠山一带 ,,['shaanxi'],
+0,361028,罕铁热克组,Hantiereke Fm,C1,,新疆昆仑山 ,,['xinjiang'],
+0,361029,和什拉甫组,Heshilafu Fm,C1,,新疆英吉莎-叶城一线以南 ,,['xinjiang'],
+0,361030,和州组,Hezhou Fm,C1,上沛组,安徽和县一带,原称和州灰岩及和州段,['anhui'],
+0,361031,黑山头组,Heishantou Fm,C1,东古鲁巴斯套组、阿拉土别库都克组、包古图组、散都克塔什组,新疆,,['xinjiang'],
+0,361032,横阱组,Hengjing Fm,C1,,云南 ,,['yunnan'],
+0,361033,红柳园组,Hongliuyuan Fm,C1,,甘肃、新疆、内蒙古 ,,['Inner Mongolia']['gansu']['xinjiang'],
+0,361034,红山嘴组,Hongshanzui Fm,C1,巴勒根岩系、塔哥尔组,新疆哈巴河一带 ,,['xinjiang'],
+0,361035,红水泉组,Hongshuiquan Fm,C1,翠岗组、谢尔茨拉组、翠岗林场组,内蒙古、黑龙江(大兴安岭地区) ,,['Inner Mongolia']['heilongjiang'],
+0,361036,红岩寺组,Hongyansi Fm,C1,,陕西柞水-山阳一带 ,,['shaanxi'],
+0,361037,洪湖吐河组,Honghutuhe Fm,C1,,黑龙江黑河市 ,,['heilongjiang'],
+0,361038,花达气组,Huadaqi Fm,C1,,黑龙江黑河市 ,,['heilongjiang'],
+0,361039,花园墙组,Huayuanqiang Fm,C1,固始组,河南 ,,['henan'],
+0,361040,怀头他拉组,Huaitoutala Fm,C1,,青海柴大木北缘 ,,['qinghai'],
+0,361041,黄金组,Huangjin Fm,C1,寺门石灰岩、上燕子系,广西 ,,['guangxi'],
+0,361042,加卡组,Jiaka Fm,C1,,西藏类乌齐，左贡,为马查拉群之下组,['tibet'],
+0,361043,夹山沟组,Jiashangou Fm,C1,,陕西省留坝县夹山沟一带,层型系陕西地层清理组(陕西区调队)1996年选定 ,['shaanxi'],
+0,361044,姜巴斯套组,Jiangbasitao Fm,C1,散都克塔什组、卡拉干的组、南明水组、绵脊梁组,新疆纸房、东泉、伊吾 ,,['xinjiang'],
+0,361045,旧司组,Jiusi Fm,C1,,黔南 ,,['guizhou'],
+0,361046,卡贡群,Kagong Gr,C1,,西藏类乌齐-察隅县瓦龙 ,,['tibet'],
+0,361047,克里塔克组,Kelitake Fm,C1,卡拉巴斯塔克组,新疆英吉莎-皮山县昆仑山 ,,['xinjiang'],
+0,361048,库山河组,Kushanhe Fm,C1,,新疆西昆仑山 ,,['xinjiang'],
+0,361049,狼泉组,Langquan Fm,C1,,新疆北部,"本组原为白山组,因在该组内发现三处不整合面而解体为4个组 ",['xinjiang'],
+0,361050,连县组,Lianxian Fm,C1,刘家塘组、半岭村组,广东 ,,['guangdong'],
+0,361051,梁沟组,Lianggou Fm,C1,,河南,,['henan'],
+0,361052,鹿寨组,Luzhai Fm,C1,林群组、上吕组、同车江层、长塘系、燕子系、江尾组、大圩组、巴定组,广西 ,,['guangxi'],
+0,361053,罗城组,Luocheng Fm,C1,恩特立介石灰岩,广西 ,,['guangxi'],
+0,361054,马查拉群,Machala Gr,C1,加卡系、自家浦群,西藏类乌齐-芒康,,['tibet'],
+0,361055,马角坝组,Majiaoba Fm,C1,,四川龙门山地区 ,,['sichuan'],
+0,361056,马栏边组,Malanbian Fm,C1,桂阳组,湘中南、粤北 ,,['hunan']['guangdong'],
+0,361057,莫尔根河组,Moergenhe Fm,C1,角高山组,内蒙古额左旗-依敏一带,,['Inner Mongolia'],
+0,361058,睦化组,Muhua Fm,C1,,贵州 ,,['guizhou'],
+0,361059,那林卡拉组,Nalinkala Fm,C1,清水组、卡姆斯特组、妖魔梁组、散都克塔什组,新疆布尔津县、富蕴一带,,['xinjiang'],
+0,361060,纳兴组,Naxing Fm,C1,港井组,西藏聂拉木县 ,,['tibet'],
+0,361061,南好组,Nanhao Fm,C1,青天峡组下段、三棱山组,海南省保亭、万宁等地,创名时无正层型 选层型为1997年海南地层清理组选定,['hainan'],
+0,361062,努古斯土布拉克组,Nugusitubulake Fm,C1,甘草湖组,新疆库鲁克塔格东段,新疆区调队地层清理组建议停用此名称，采用甘草湖组代之 考虑本名称命名较早，后人继续应用，故仍应采用本名称--编者注,['xinjiang'],
+0,361063,诺错组,Noucuo Fm,C1,倾多组、日东组一段,西藏八宿-察隅,,['tibet'],
+0,361064,帕斯群,Pasi Gr,C1,,新疆南部叶尔羌河 ,,['xinjiang'],
+0,361065,平掌组,Pingzhang Fm,C1,依柳组,云南凤庆一带 ,,['yunnan'],
+0,361066,坡子泉组,Poziquan Fm,C1,,甘、新交界北山地区坡子泉一带,本组从层位及时代上与雅满苏组、野云沟组大体相当 建组以前属白山组(雅满苏组)的一部分 ,['gansu']['xinjiang'],
+0,361067,铺门前组,Pumenqian Fm,C1,云端街段(组),滇西保山一带 ,,['yunnan'],
+0,361068,脐山组,Qishan Fm,C1,,新疆哈密觉罗塔格一带 ,,['xinjiang'],
+0,361069,前黑山组,Qianheishan Fm,C1,南洼顶组,内蒙古、甘肃、宁夏等省(区) ,,['Inner Mongolia']['gansu']['ningxia'],
+0,361070,沙大王组,Shadawang Fm,C1,,新疆准噶尔南部 ,,['xinjiang'],
+0,361071,山梁砾石组,ShanliangConglomerate Fm,C1,松喀尔苏组、弧形梁组(?),新疆东准噶尔 ,,['xinjiang'],
+0,361072,珊瑚河组,Shanhuhe Fm,C1,马查拉组、含煤碎屑岩段、加卡系、自家浦群,西藏昌都,另一选层型为左贡县加卡剖面 四川三区测队1974年测制 ,['tibet'],
+0,361073,上司组,Shangsi Fm,C1,“Shangsu Series”、大塘组上司段,黔、滇 ,,['guizhou']['yunnan'],
+0,361074,上西坑组,Shangxikeng Fm,C1,梓门桥段,江西萍乡市以西 ,,['jaingxi'],
+0,361075,上月山段,Shangyueshan Mem,C1,岩山口石灰岩,广西桂林 ,,['guangxi'],
+0,361076,尚保冲组,Shangbaochong Fm,C1,,湘中北部和湘东 ,,['hunan'],
+0,361077,申洛拱组,Shenluogong Fm,C1,,云南德钦 ,,['yunnan'],
+0,361078,石磴子组,Shidengzi Fm,C1,,湘中南 ,,['hunan'],
+0,361079,石拐子组,Shiguaizi Fm,C1,穿山沟组,青海祁漫塔格 ,,['qinghai'],
+0,361080,寺门组,Simen Fm,C1,兴全煤系、上燕子系(一部分)、河罗煤系、步头煤层、新圩煤层、石桥煤层、融三煤系,广西迁江、罗城一带 ,,['guangxi'],
+0,361081,他龙群,Talong Gr,C1,,新疆西昆仑山 ,,['xinjiang'],
+0,361082,塔木岗组,Tamugang Fm,C1,,新疆奇台以北 ,,['xinjiang'],
+0,361083,汤粑沟组,Tangbagou Fm,C1,,贵州独山 ,,['guizhou'],
+0,361084,通气沟组,Tongqigou Fm,C1,,吉林大绥河一带 ,,['jilin'],
+0,361085,托库孜达坂群,Tuokuzidaban Gr,C1,,新疆阿尔金山(且末县一带) ,,['xinjiang'],
+0,361086,王胡村组,Wanghucun Fm,C1,金陵组,安徽广德－太平一带 ,,['anhui'],
+0,361087,王家店组,Wangjiadian Fm,C1,,甘肃漳县大草滩乡一带,"一些研究者认为此系生物地层，不宜建组,现为大草滩组的一部分,已停用本名称--编者注",['gansu'],
+0,361088,乌青纳组,Wuqingna Fm,C1,,西藏昌都,范影年、文沛然等又将本组分为上、下亚组,['tibet'],
+0,361089,希贝库拉斯组,Xibeikulasi Fm,C1,,新疆西准噶尔 ,,['xinjiang'],
+0,361090,下集组,Xiaji Fm,C1,白石崖组,河南荆紫关、下集及永青山一带 ,,['henan'],
+0,361091,香山组,Xiangshan Fm,C1,,云南施店、保山 ,,['yunnan'],
+0,361092,祥摆组,Xiangbai Fm,C1,,贵州 ,,['guizhou'],
+0,361093,小热泉子组,Xiaorequanzi Fm,C1,,新疆吐鲁番觉罗塔格一带 ,,['xinjiang'],
+0,361094,雅满苏组,Yamansu Fm,C1,马鞍桥组、野云沟组、白山组、阿拉塔格组、马头滩组等,新疆哈密 ,,['xinjiang'],
+0,361095,杨家源组,Yangjiayuan Fm,C1,大节湖灰岩、刘家塘段、石磴子段,江西永新莲花及全南等地 ,,['jaingxi'],
+0,361096,杨山组,Yangshan Fm,C1,寒坡岭组,河南固始县杨山煤矿等地 ,,['henan'],
+0,361097,尧云岭组,Yao yunling Fm,C1,,广西罗城 |包括上月山段 ,,['guangxi'],
+0,361098,野云沟组,Ye yungou Fm,C1,梅斯布拉克组,"新疆南天山中,西部 ",,['xinjiang'],
+0,361099,叶家塘组,Yejiatang Fm,C1,,浙西和江西东北部,叶家塘组在江西东北部其上界与船山灰岩为平行不整合接触,['jaingxi'],
+0,361100,英塘组,Yingtang Fm,C1,畔塘组、隆安组,广西罗城,1985年广西区调队确定含义并选定层型剖面,['guangxi'],
+0,361101,永珠组,Yongzhu Fm,C1,,西藏申扎他尔玛－改则古昌 ,,['tibet'],
+0,361102,余富屯组,Yufutun Fm,C1,一拉溪组、大河深组、双河镇组,吉林磐石 ,,['jilin'],
+0,361103,鱼塘寨组,Yutangzhai Fm,C1,,滇西耿马一带 ,,['yunnan'],
+0,361104,杂多群,Zaduo Gr,C1,,青海唐古拉山北坡 ,,['qinghai'],
+0,361105,展坡组,Zhanpo Fm,C1,姜家沟组、木竹坝段、鱼洞子段,陕西镇巴观音堂－西乡木竹坝一带,,['shaanxi'],
+0,361106,樟树湾组,Zhangshuwan Fm,C1,,湘中北部和湘东,,['hunan'],
+0,361107,忠信组,Zhongxin Fm,C1,测水组、梓山组,广东连平忠信一带 ,,['guangdong'],
+0,361108,梓门桥组,Zimenqiao Fm,C1,,湘中南及粤中、西、北等地,,['hunan']['guangdong'],
+0,361109,总长沟组,Zongchanggou Fm,C1,茜沟石灰岩、公保府石灰岩、鸡池口石灰岩、石灰沟石灰岩等,"四川龙门山北段,绵竹至江油一线",,['sichuan'],
+0,361110,左巴组,Zuoba Fm,C1,,西藏左贡,本组原为盐井地区的古米组之中、上段 ,['tibet'],
+0,360001,艾克提克群,Aiketike Gr,C,,新疆南天山,部分研究者认为本组与阿依里河 组,['xinjiang'],
+0,360002,大澳组,Daao Fm(Tai O Fm),C,,香港大濠岛西北岸大澳至散石湾一带,艾伦等(1971)认为本组属侏罗纪；彭琪瑞(1983)将其归为二叠纪；李作明(1996)在大澳附近采到植物化石，认为也可与广东测水组对比 黎权伟(1998)认为与广东桥源组相当,['Hong Kong'],
+0,360003,基龙组,Jilong Fm,C,杰胜群,西藏聂拉木-亚东县、札达县-康马县,,['tibet'],
+0,360004,鹿圈屯组,Luquantun Fm,C,七间房亚组、吉林系(层)、鹿圈群(组),吉林,,['jilin'],
+0,360005,落马洲组,Luomazhou Fm(Lok Ma Chau Fm),C,,"香港罗湖元朗以北-落马洲一带,向东北延伸到深圳","本组可能与广东测水组相当(李作明，1984) 或相当于测水组上部(黎权伟,1997) 本组下部称米埔段,上部称大石磨段",['Hong Kong'],
+0,360006,邛依组,Qiongyi Fm,C,,川、滇,四川区调队地层清理时建立新地层单位,['sichuan']['yunnan'],
+0,360007,四道砾岩,Sidao Conglomerate,C,磨盘山组,吉林四道、内托一带,,['jilin'],
+0,360008,天鹅坪组,Tianeping Fm,C,,湘中南至粤北、桂北,,['hunan']['guangdong']['guangxi'],
+0,360009,土尔根大坂组,Tuergendaban Fm,C,,青海乌兰县一带,隶属中吾农山群,['qinghai'],
+0,360010,万寿山组,Wanshoushan Fm,C,,云南宜良,,['yunnan'],
+0,360011,西门崖子组,Ximenyazi Fm,C,,云南普洱一带,,['yunnan'],
+0,360012,响姑组,Xianggu Fm,C,,云南维西,,['yunnan'],
+0,360013,元朗组,Yuanlang Fm(Yuen Long Fm),C,,香港北部元朗、罗湖一带,"与广东石磴子组大体相当(李作明),本组主要见于钻孔中。本组下部称朗屏段,上部称马田段(黎权伟,1997)",['Hong Kong'],
+0,359001,澳角群,Aojiao Gr,AnD,,闽东南沿海,,['fujian'],
+0,359002,怒江组,Nujiang Fm,AnD,,西藏双湖-洛隆-八宿一带,,['tibet'],
+0,359003,亲营山组,Qinyingshan Fm,AnD,,福建东山县一带,隶属澳角群下部,['fujian'],
+0,359004,岩雅组,Yanya Fm,AnD,,闽东沿海,本组和其上的亲营山组组成澳角群,['fujian'],
+0,358001,墨江群,Mojiang Gr,D-S,,云南普洱,本群包括南边山组、龙别组、大中寨组、倮红组、曼波组、水箐组,,['yunnan']
+0,357001,查果罗玛组,Chaguoluoma Fm,"D2,C1",,西藏申扎，班戈一带,,['tibet'],
+0,357002,略阳组,L¨eyang Fm,"D2,C1",,陕西略阳县城以南,,['shaanxi'],
+0,357003,峡山群,Xiashan Gr,"D2,C1",,江西南部,,['jaingxi'],
+0,357004,云山组,Yunshan Fm,"D2,C1",官山岭砂岩,"赣南,赣西",,['jaingxi'],
+0,357005,洋湖组,Yanghu Fm,"D3,C1",上株岭层、翻下层,赣西、湘赣边界,,['jaingxi']['hunan'],
+0,357006,嶂岽组,Zhangdong Fm,D3-C,麻石岭层(段),赣中南区,,['jaingxi'],
+0,357007,阿木尼克组,Amunike Fm,D3-C1,,青海、甘肃祁连山南麓-柴达木北缘,,['gansu']['qinghai'],
+0,357008,长土多组,Changlai Fm,D3-C1,英德石灰岩、孟公坳组,粤西北至粤中,,['guangdong'],
+0,357009,大草滩组,Dacaotan Fm,D3-C1,大草滩岭群,甘肃漳县,,['gansu'],
+0,357010,洪古勒楞组,Hongguleleng Fm,D3-C1,和布克河组,新疆,,['xinjiang'],
+0,357011,江孜尔库都克组,Jiangzierkuduke Fm,D3-C1,和布克河组,新疆锡泊渡-奥什克山-东泉-三塘湖,,['xinjiang'],
+0,357012,九里坪组,Jiuliping Fm,D3-C1,王家楞组、火星沟组、沙湾组、三官殿组、姜家沟组、疙瘩寺板岩等,陕西凤县-镇安,,['shaanxi'],
+0,357013,库马苏群,Kumasu Gr,D3-C1,达拉维孜群,新疆富蕴县库马苏、忙代恰一带,,['xinjiang'],
+0,357014,擂鼓台组,Leigutai Fm,D3-C1,陈家边组、茨山组、老坎组,苏、皖、赣 ,,['jiangsu']['anhui']['jaingxi'],
+0,357015,茅坝组,Maoba Fm,D3-C1,,四川龙门山地区,,['sichuan'],
+0,357016,帽子峰组,Maozifeng Fm,D3-C1,打鼓岭群铺仔茵组 独兽岭组,广东、广西,本组穿时特征明显,['guangdong']['guangxi'],
+0,357017,奇尔古斯套群,Qiergusitao Gr,D3-C1,巴音沟组、前峡组等,新疆天山,,['xinjiang'],
+0,357018,三门滩组,Sanmentan Fm,D3-C1,峡山组,江西,,['jaingxi'],
+0,357019,色日巴彦敖包组,Seribayanaobao Fm,D3-C1,敖木根呼都克组、乌兰呼都克组、沟呼都克组,内蒙古苏尼特左旗,,['Inner Mongolia'],
+0,357020,石夹组,Shijia Fm,D3-C1,,广西钦州一带,,['guangxi'],
+0,357021,石角嘴段,Shijiaozui Mem,D3-C1,,广东,石角嘴段是帽子峰组上部的一个次级岩石地层单位,['guangdong'],
+0,357022,王家楞组,Wangjialeng Fm,D3-C1,,陕西太白县、凤县,"本组是在构造形态、层序颠倒情况下建立的单位，已导致划分混乱，一些研究者认为相当于九里坪组的一部分,建议废弃 现暂保留",['shaanxi'],
+0,357023,写经寺组,Xiejingsi Fm,D3-C1,,"鄂西,鄂西南及湘、川等省",,['hubei']['hunan']['sichuan'],
+0,357024,星红铺组,Xinghongpu Fm,D3-C1,太吉河组、二台子板岩、猫儿川组、落驾河组、云镇组,陕、甘、鄂,,['hubei']['shaanxi']['gansu'],
+0,357025,雪宝顶组,Xuebaoding Fm,D3-C1,岩窝组、东大河组,四川松潘一带,,['sichuan'],
+0,357026,亚里组,Yali Fm,D3-C1,,西藏聂拉木-亚东，札达底雅-康马,,['tibet'],
+0,357027,益哇沟组,Yiwagou Fm,D3-C1,,"甘肃迭部，西延入青海,南至四川","该组穿时特征明显,在四川该组时代为自中泥盆世开始",['sichuan']['gansu']['qinghai'],
+0,357028,中棚组,Zhongpeng Fm,D3-C1,华山岭组、陡水组及水心组,赣南于都、信丰 ,,['jaingxi'],
+0,357029,珠藏坞组,Zhucangwu Fm,D3-C1,五通砂岩上部,苏、浙、皖、赣相邻地区,"创名于1959年浙西地层现场会学术报告,1963年发表",['jiangsu']['zhejaing']['anhui']['jaingxi'],
+0,357030,五通组(群),Wutong Fm(Gr),D-C,云台观组、珞珈石英岩、擂鼓台组、观山组、界岭层等,浙、苏、皖、赣等省,本组原称乌通石英岩、乌桐系 江苏称为五通群,['jiangsu']['zhejaing']['anhui']['jaingxi'],
+0,357031,炎方组,Yanfang Fm,D-C,,滇东、滇东南、滇东北、黔西一带,,['guizhou']['yunnan'],
+0,357032,勐洪群,Menghong Gr,D-C,,云南腾冲、梁河,,['yunnan'],
+0,356001,波曲组,Boqu Fm,D2+3,曲门夏拉组(群),西藏聂拉木县,,['tibet'],
+0,356002,巴漆组,Baqi Fm,D2-3,付合组、马鞍山硅质岩、新邵组,桂、湘、粤,湖南本组上下 为黄公塘组及榴江组,['hunan']['guangdong']['guangxi'],
+0,356003,白沙头洲组,Baishatouzhou Fm,D2-3,,白沙头洲西南端沿海,,,
+0,356004,长育村组,Changyucun Fm,D2-3,,云南洱源一带,,['yunnan'],
+0,356005,大民山组,Daminshan Fm,D2-3,,内蒙古、黑龙江交界大兴安岭区,,['Inner Mongolia']['heilongjiang'],
+0,356006,干沟组,Gangou Fm,D2-3,桑龙潭组、三龙潭组,滇、川,,['sichuan']['yunnan'],
+0,356007,根里河组,Genlihe Fm,D2-3,,黑龙江罕达气-卧都河地区,与小河里河组不易划分,['heilongjiang'],
+0,356008,古道岭组,Gudaoling Fm,D2-3,杨岭沟组、狮子园组、玉皇山组、长沟组,陕、 鄂、川,,['hubei']['sichuan']['shaanxi'],
+0,356009,河心组,Hexin Fm,D2-3,捧达群,四川,,['sichuan'],
+0,356010,红岭山组,Honglingshan Fm,D2-3,,甘肃,隶属于西汉水群,['gansu'],
+0,356011,坎苏组,Kansu Fm,D2-3,,新疆新源一带,,['xinjiang'],
+0,356012,拉竹龙组,Lazhulong Fm,D2-3,,西藏日土县,,['tibet'],
+0,356013,烂泥箐组,Lanniqing Fm,D2-3,拉古德组、老阱寨组、上毛牛坪组,云南、四川,,['sichuan']['yunnan'],
+0,356014,老虎头组,Laohutou Fm,D2-3,大河陂组、松源组,广东,为桂头群上部一组,['guangdong'],
+0,356015,刘岭群,Liuling Gr,D2-3,,陕西太白、商南一带,本群为黄汲清等1931年命名的柞水系的一部分,['shaanxi'],
+0,356016,榴江组,Liujiang Fm,D2-3,腊烛台组、坛河组、平洞系(硅质岩)、响水洞组、桑郎组、自发堂组、道城垌组、新坡组,桂、滇、黔、粤、湘,,['hunan']['guangdong']['guangxi']['guizhou']['yunnan'],
+0,356017,芦草滩组,Lucaotan Fm,D2-3,上岩组、下岩组,新疆、甘肃阿尔金山一带,甘肃认为本组相当于三个井组,['gansu']['xinjiang'],
+0,356018,曼信组,Manxin Fm,D2-3,,云南 ,,['yunnan'],
+0,356019,忙代恰群,Mangdaiqia Gr,D2-3,,新疆阿尔泰山,,['xinjiang'],
+0,356020,南边山组,Nanbianshan Fm,D2-3,,云南,属墨江群,['yunnan'],
+0,356021,蒲莱段,Pulai Mem,D2-3,猫儿川组,陕南西秦岭,,['shaanxi'],
+0,356022,棋梓桥灰岩(组),Qiziqiao Limestone (Fm),D2-3,马鞍山组,湘、赣、粤等省,在广东、江西本组上覆称巴漆组、新邵组或榴江组、自发堂组、佘田桥组、长龙界组，下伏层称跳马涧组或黄公塘白云岩及东岗岭组,['jaingxi']['hunan']['guangdong'],
+0,356023,青石垭组,Qingshiya Fm,D2-3,下东沟组、车房沟组、大西沟组,陕西太白-商南一带,,['shaanxi'],
+0,356024,然物群,Ranwu Gr,D2-3,,西藏左贡县一带,,['tibet'],
+0,356025,松宗群,Songzong Gr,D2-3,,西藏八宿县松宗、然乌雅则、古琴等地,,['tibet'],
+0,356026,塔尔巴格特组,Taerbagete Fm,D2-3,,内蒙古达莱至额仁戈壁,,['Inner Mongolia'],
+0,356027,铁山组,Tieshan Fm,D2-3,尕还群、落驾河组、冷水河组、南羊山组、熊家山组,甘、陕、青、川、鄂等省,,['hubei']['sichuan']['shaanxi']['gansu']['qinghai'],
+0,356028,王冠沟组,Wangguangou Fm,D2-3,杨岭沟组、铁山组,豫、陕,"在陕西,其下因缺失白山沟组不整合覆于石瓮子组之上,其上因缺失葫芦山组而与下集组过渡",['henan']['shaanxi'],
+0,356029,下吾那组,Xiawuna Fm,D2-3,,甘肃迭部一带及四川、青海,青海归入尕海群,['sichuan']['gansu']['qinghai'],
+0,356030,汹钦组,Xiongqin Fm,D2-3,,青海玉树,,['qinghai'],
+0,356031,云台观组,Yuntaiguan Fm,D2-3,珞珈石英砂岩,黔东北、湘西北、鄂西、鄂西北一带,"本组是一个明显的穿时性岩石地层单位,其时代在不同地区可由D2-D2-3-D3等变化。陕西省原命名的云台观组与命名省有别，现划归铁矿梁组",['hubei']['hunan']['guizhou'],
+0,355001,何元寨组,Heyuanzhai Fm,D1-3,回贤组,滇（云南）,,,['yunnan']
+0,255002,贺根山蛇绿岩(岩)群,Hegenshan Ophiolite Gr,D1-3,,内蒙古贺根山,,,['Inner Mongolia']
+0,355003,卡拉麦里组,Kalamaili Fm,D1-3,苏吉泉组、红柳沟组、白山包组、苦水泉组,新疆东准噶尔,,,['xinjiang']
+0,355004,西汉水群,Xihanshui Gr,D1-3,,甘肃,该正层型剖面是西北地研所于1971年沿礼县西汉水重测,,['gansu']
+0,354001,安家岔组,Anjiacha Fm,D1-2,安溪沟组,甘肃,隶属于西汉水群,['gansu'],
+0,354002,班满到地组,Banmandaodi Fm,D1-2,,云南丽江,,['yunnan'],
+0,354003,北流组,Beiliu Fm,D1-2,德峨组、高峰街组,广西中南部,,['guangxi'],
+0,354004,穿洞段,Chuandong Mem,D1-2,,云南沾益一带,,['yunnan'],
+0,354005,船湾组,Chuanwan Fm(Plover Cove Fm),D1-2,,香港吐露港北岸一带,本组大体上与广东北部中部的杨溪组、老虎头组相当。李作明(1987)将原黄竹角咀组一分为二，分别称船湾组和白沙头洲组,['Hong Kong'],
+0,354006,达莲塘组,Daliantang Fm,D1-2,,云南广南一带,,['yunnan'],
+0,354007,当多组,Dangduo Fm,D1-2,当多沟组、岷堡沟组,甘、青、川等省,青海本组与上覆尕海群为整合接触，与下伏角子组为平行不整合接触,['sichuan']['gansu']['qinghai'],
+0,354008,古木组,Gumu Fm,D1-2,,滇东南,,['yunnan'],
+0,354009,罐子窑组,Guanziyao Fm,D1-2,李家湾组,贵州普安罐子窑、盘县、惠水,,['guizhou'],
+0,354010,桂头群,Guitou Gr,D1-2,盲仔峡系、鼎湖山系、 双头群、松源群,粤北至粤中,,['guangdong'],
+0,354011,哈诺敖包组,Hanuoaobao Fm,D1-2,,内蒙古东乌旗西山一带 ,,['Inner Mongolia'],
+0,354012,海通组,Haitong Fm,D1-2,多吉版组,西藏昌都、觉拥、芒康,,['tibet'],
+0,354013,黑台组,Heitai Fm,D1-2,,黑龙江,,['heilongjiang'],
+0,354014,老君山组,Laojunshan Fm,D1-2,雪山群、中宁组、沙流水群、永安堡群,甘、青、宁,,['gansu']['qinghai']['ningxia'],
+0,354015,莲花曲组,Lianhuaqu Fm,D1-2,,云南,,['yunnan'],
+0,354016,蟒山组,Mangshan Fm,D1-2,野山石英砂岩、老鸦山石英砂岩,贵州都匀、贵阳、凯里一带,,['guizhou'],
+0,354017,那叫组,Najiao Fm,D1-2,,广西六景一带,,['guangxi'],
+0,354018,怕当组,Padang Fm,D1-2,,滇西,,['yunnan'],
+0,354019,捧达组,Pengda Fm,D1-2,月里寨群,四川康定,,['sichuan'],
+0,354020,平恩组,Pingen Fm,D1-2,,桂西南、桂西地区,,['guangxi'],
+0,354021,箐门组,Qingmen Fm,D1-2,大槽子组,贵州昭通,本组四川已停用，认为相当缩头山组，本组穿时特征较明显,['guizhou'],
+0,354022,雀儿山组(群),Queershan Fm(Gr),D1-2,,甘肃北山及内蒙古额济纳旗,,['Inner Mongolia']['gansu'],
+0,354023,三个井组,Sangejing Fm,D1-2,,甘,本组穿时特征明显,['gansu'],
+0,354024,三河口群,Sanhekou Gr,D1-2,镇安系、透坊群、高家坝群、灵岩寺组,陕、甘（西秦岭）,本群构造复杂，马润华等认为属构造混杂带之岩石,['shaanxi']['gansu'],
+0,354025,舒家坝群,Shujiaba Gr,D1-2,榆树坪组,甘肃天水、礼县,,['gansu'],
+0,354026,踏坡组,Tabo Fm,D1-2,,陕西略阳,踏坡为塔坡之误音，作为地层单位名称，仍保留其原称,['shaanxi'],
+0,354027,乌奴耳礁灰岩(段),Wunuer Reef Limestone(Mem),D1-2,,内蒙古乌奴耳地区,,['Inner Mongolia'],
+0,354028,小董组,Xiaodong Fm,D1-2,,广西防城、钦州等地,,['guangxi'],
+0,354029,杨溪组,Yangxi Fm,D1-2,桂头群下亚群,粤北至粤中,,['guangdong'],
+0,354030,依克乌苏组,Yikewusu Fm,D1-2,,内蒙古额济纳旗,,['Inner Mongolia'],
+0,353001,艾尔肯组,Aierken Fm,D3,,新疆艾尔肯沟-呼斯台郭楞一线,,['xinjiang'],
+0,353002,安格尔音乌拉组,Angeeryinwula Fm,D3,,内蒙古东乌旗至贺斯格乌拉、牙克石等地,,['Inner Mongolia'],
+0,353003,安砂群,Ansha Gr,D3,南 靖群,闽西南,,['fujian'],
+0,353004,北门段,Beimen Mem,D3,,广东北部,,['guangdong'],
+0,353005,长龙界组,Changlongjie Fm,D3,,湘中南,,['hunan'],
+0,353006,春湾组,Chunwan Fm,D3,,广东阳春、开平一带,,['guangdong'],
+0,353007,大寨门组,Dazhaimen Fm,D3,,云南施甸一带,,['yunnan'],
+0,353008,东村组,Dongcun Fm,D3,,广西,,['guangxi'],
+0,353009,墩墩山群,Dundunshan Gr,D3,,甘肃、新疆交界北山地区,,['gansu']['xinjiang'],
+0,353010,额头村组,Etoucun Fm,D3,,广西桂林,,['guangxi'],
+0,353011,高坡场组,Gaopochang Fm,D3,改尧组,黔中,,['guizhou'],
+0,353012,革当组,Gedang Fm,D3,马革群、融县群,滇东南,,['yunnan'],
+0,353013,革老河组,Gelaohe Fm,D3,,贵州独山、惠水、威宁,,['guizhou'],
+0,353014,观山组,Guanshan Fm,D3,,苏、皖、赣,,['jiangsu']['anhui']['jaingxi'],
+0,353015,观雾山组,Guanwushan Fm,D3,,四川龙门山地区,,['sichuan'],
+0,353016,桂林组,Guilin Fm,D3,古化组,广西,,['guangxi'],
+0,353017,哈尔扎组,Haerzha Fm,D3,,青海柴达木盆地 ,,['qinghai'],
+0,353018,哈孜尔布拉克组,Hazierbulake Fm,D3,,新疆鄯善县南 ,,['xinjiang'],
+0,353019,贺家寨段,Hejiazhai Mem,D3,,贵州独山一带 ,,['guizhou'],
+0,353020,黑山沟组,Heishangou Fm,D3,,青海柴达木盆地西南缘,,['qinghai'],
+0,353021,葫芦山组,Hulushan Fm,D3,永青山组,河南,,['henan'],
+0,353022,黄家磴组,Huangjiadeng Fm,D3,,鄂、湘、川,命名人原称为黄家磴层，陕西区调队(1977)认为本组相当于蟠龙山组的一部分而不采用此名称,['hubei']['hunan']['sichuan'],
+0,353023,津丹苏组,Jindansu Fm,D3,,新疆南天山阔克沙勒岭南坡,,['xinjiang'],
+0,353024,卡希翁组,Kaxiweng Fm,D3,苏海图山组、喀热干德组(部分),新疆锡泊渡-北塔山一带,,['xinjiang'],
+0,353025,康古尔塔格组,Kangguertage Fm,D3,,新疆康古尔塔格一带,,['xinjiang'],
+0,353026,克安库都克组,Keankuduke Fm,D3,拜尔库都克组、卡希翁组,新疆卡姆斯特-红柳峡-东泉一带,,['xinjiang'],
+0,353027,克兹尔塔格组,Keziertage Fm,D3,,新疆柯坪地区,,['xinjiang'],
+0,353028,老秃顶子组,Laotudingzi Fm,D3,,黑龙江,张家元，1960年称该组为老秃顶子火山岩组,['heilongjiang'],
+0,353029,灵岩寺组,Lingyansi Fm,D3,铁扇关群,江西大余、崇义、井冈山、信丰,,['jaingxi'],
+0,353030,龙口冲组,Longkouchong Fm,D3,蒸水河组,湖南、江西 ,,['jaingxi']['hunan'],
+0,353031,泷段,Hanlong Mem,D3,,粤北至粤中 ,,['guangdong'],
+0,353032,麻山组,Mashan Fm,D3,煤炭冲段、活龙泉段,赣西、湘赣边境 ,,['jaingxi']['hunan'],
+0,353033,牦牛山组,Maoniushan Fm,D3,阿木尼克组(群)、契盖苏群,青海中南祁连山及柴达木盆地北缘,,['qinghai'],
+0,353034,孟公坳组,Menggongao Fm,D3,邵东组,湘中南至粤北 ,,['hunan']['guangdong'],
+0,353035,南光组,Nanguang Fm,D3,,云南景洪县,,['yunnan'],
+0,353036,欧家冲组,Oujiachong Fm,D3,岳麓山砂岩（系）、雪峰山砂岩、锡矿山组上段,湘中,,['hunan'],
+0,353037,蟠龙山组,Panlongshan Fm,D3,火焰溪组、黄家磴组,陕西西乡、镇巴、石泉,,['shaanxi'],
+0,353038,破城子组,Pochengzi Fm,D3,克孜勒塔格组、铜花山组,新疆库鲁克塔格 ,,['xinjiang'],
+0,353039,七里江灰岩,Qilijiang Limestone,D3,佘田组,湖南新化一带 ,,['hunan'],
+0,353040,七里卡山组,Qilikashan Fm,D3,,黑龙江,,['heilongjiang'],
+0,353041,齐也组,Qiye Fm,D3,奇文代衣群,新疆哈巴河县,,['xinjiang'],
+0,353042,奇自拉夫组,Qizilafu Fm,D3,提士纳夫组、奇兹那夫组,新疆叶城、民丰、奇自拉夫沟、库山河等一带,,['xinjiang'],
+0,353043,然巴组,Ranba Fm,D3,,西藏左贡绕金一带,,['tibet'],
+0,353044,融县组,Rongxian Fm,D3,拉岩组、冗降组,桂、粤、黔等省区,在广东本组与榴江组和五指山组为同时异相，上与马垌组、下和东岗岭组均为整合接触,['guangdong']['guangxi']['guizhou'],
+0,353045,沙流水组,Shaliushui Fm,D3,东大沟群、阿木尼克组,甘肃靖远一带 本群亦有人仍称为老君山群(组),,['gansu'],
+0,353046,沙窝子组,Shawozi Fm,D3,,四川龙门山地区 ,,['sichuan'],
+0,353047,佘田桥组,Shetianqiao Fm,D3,老江冲组、杨桥组,湖南新化,命名时仅指出时代范围，1933年田奇等才描述标准地点及岩性特征,['hunan'],
+0,353048,升平路段,Shengpinglu Mem,D3,,粤北至粤中 ,,['guangdong'],
+0,353049,十里亭段,Shiliting Mem,D3,,粤北至粤中,该段是天子岭组下部的一个次级岩石地层单位,['guangdong'],
+0,353050,双狼沟组,Shuanglanggou Fm,D3,大草滩群,甘肃西和县,隶属于西汉水群,['gansu'],
+0,353051,四方坡段,Sifangpo Mem,D3,,贵州独山、都匀、三都一带,该段属尧梭组,['guizhou'],
+0,353052,塔尔巴哈台组,Taerbahatai Fm,D3,,新疆塔尔巴哈台山-萨吾尔山一带,,['xinjiang'],
+0,353053,塔利坡组,Talipo Fm,D3,小羊场组,川、滇 ,,['sichuan']['yunnan'],
+0,353054,坦盖塔尔组,Tangaitaer Fm,D3,,新疆喀什以东及乌什以北一带 ,,['xinjiang'],
+0,353055,桃子坑组,Taozikeng Fm,D3,南靖群上亚群,闽西南,本组和下伏天瓦岽组组成安砂群,['fujian'],
+0,353056,天瓦岽组,Tianwadong Fm,D3,南靖群下亚群,闽西南,本组和上覆桃子坑组组成安砂群,['fujian'],
+0,353057,铁矿梁组,Tiekuangliang Fm,D3,云台观石英岩，三岔沟组,陕西镇巴等地 ,,['shaanxi'],
+0,353058,铁列克提组,Tielieketi Fm,D3,,新疆北部额敏一带 ,,['xinjiang'],
+0,353059,桐峪寺组,Tongyusi Fm,D3,干沟组、石泉沟组、黄泗沟组、穆沟组,陕西太白-山阳一带 ,,['shaanxi'],
+0,353060,头苏泉组,Tousuquan Fm,D3,拜辛德组,新疆伊吾、哈密一带 ,,['xinjiang'],
+0,353061,吐呼拉苏组,Tuhulasu Fm,D3,大哈拉军山组下亚组,新疆天山西部吐呼拉苏一带 ,,['shanxi']['xinjiang'],
+0,353062,托斯库尔他乌组,Tuosikuertawu Fm,D3,天格尔组,新疆赛里木湖-精河等地 ,,['xinjiang'],
+0,353063,望城坡组,Wangchengpo Fm,D3,卢家寨段,独山、都匀、凯里一带 ,,,
+0,353064,吴家坊组,Wujiafan Fm,D3,云麓宫组,湘、赣,,['jaingxi']['hunan'],
+0,353065,五里桥段,Wuliqiao Mem,D3,,贵州、独山、都匀三都一带,属尧梭组上部 ,['guizhou'],
+0,353066,五指山组,Wuzhishan Fm,D3,三里组、杨堤组、代化组、镇圩组、石楼梯组,桂、黔、滇等省区,,['guangxi']['guizhou']['yunnan'],
+0,353067,西湖段,Xihu Mem,D3,乌桐砂岩下部、五通砂岩下部,赣、浙、苏、皖交界区,,['jiangsu']['zhejaing']['anhui']['jaingxi'],
+0,353068,西屏山组,Xipingshan Fm,D3,,内蒙古巴丹吉林及额济纳旗,,['Inner Mongolia']['jilin'],
+0,353069,锡矿山组,Xikuangshan Fm,D3,邵东组,湘中南,在湘中地区包括兔子塘段、泥塘里段和马牯脑段,['hunan'],
+0,353070,小河里河组,Xiaohelihe Fm,D3,大河里河组,黑龙江罕达气北部 ,,['heilongjiang'],
+0,353071,尧梭组,Yaosuo Fm,D3,,"贵州都匀,独山,威宁等地 ",,['guizhou'],
+0,353072,一打得组,Yidade Fm,D3,禄劝黑页岩,云南盘溪一带 ,,['yunnan'],
+0,353073,岳麓山组,Yuelushan Fm,D3,,湘中北部及湘东及赣西萍乡高安一带,,['jaingxi']['hunan'],
+0,353074,宰格组,Zaige Fm,D3,下白云岩组,云南宣威、昆明、玉溪等地 ,,['yunnan'],
+0,353075,在结山组,Zaijieshan Fm,D3,,云南昭通、盘溪、建水一带,,['yunnan'],
+0,353076,者王组,Zhewang Fm,D3,,贵州独山、都匀、长顺一带,,['guizhou'],
+0,353077,中宁组,Zhongning Fm,D3,,宁夏中卫、中宁及内蒙古元山子等地区,,['Inner Mongolia']['ningxia'],
+0,353078,朱鲁木特组,Zhulumute Fm,D3,,新疆沙尔布尔提山一带,,['xinjiang'],
+0,353079,卓戈洞组,Zhuogedong Fm,D3,,西藏昌都、察雅、芒康、盐井等地,,['tibet'],
+0,352001,阿克塔什组,Aketashi Fm,D2,异物同名阿克塔什组,新疆天山,,['xinjiang'],
+0,352002,阿拉塔格组,Alatage Fm,D2,,新疆天山,,['xinjiang'],
+0,352003,阿勒泰组,Aletai Fm,D2,阿尔泰组、托克萨雷组、阿勒泰镇组、达拉维兹群,新疆阿尔泰山,,['xinjiang'],
+0,352004,阿帕达尔康组,Apadaerkang Fm,D2,,新疆乌什县阔克沙勒岭南坡,,['xinjiang'],
+0,352005,阿舍勒组,Ashele Fm,D2,,新疆哈巴河 ,,['xinjiang'],
+0,352006,巴尔雷克组,Baerleike Fm,D2,托尔登 阿克曼组、达尔布特组,新疆准噶尔,,['xinjiang'],
+0,352007,白山沟组,Baishangou Fm,D2,,河南淅川,,['henan'],
+0,352008,邦寨组,Bangzhai Fm,D2,铁矿山组、大河口亚组,贵州独山、贵阳一带,,['guizhou'],
+0,352009,布拉克巴什群,Bulakebashi Gr,D2,皮山岩系,新疆且末县、叶城县一带,,['xinjiang'],
+0,352010,布玉组,Buyu Fm,D2,,西藏察隅一带,本组为李璞1959年所命名的松宗群的一部分，现松宗群进一步划分为布玉组(下部)和敢布山组(上部),['tibet'],
+0,352011,苍纳组,Cangna Fm,D2,令牌山组、三仙姑群,四川,,['sichuan'],
+0,352012,查干山组,Chaganshan Fm,D2,,新疆东准噶尔一带,,['xinjiang'],
+0,352013,车河组,Chehe Fm,D2,罗富组与塘丁组(群)之和,广西南丹、河池及上林部分地区,,['guangxi'],
+0,352014,池沟组,Chigou Fm,D2,娘娘庙组、皂河砂岩,陕西柞水-商南一带,,['shaanxi'],
+0,352015,达尔雷克布拉克组,Daerleikebulake Fm,D2,,新疆鄯善县南,,['xinjiang'],
+0,352016,大枫沟组,Dafenggou Fm,D2,龙洞沟组、石坪组、东岔河组及瓦房店组,陕西凤县-旬阳一带,,['shaanxi'],
+0,352017,丁宗隆组,Dingzonglong Fm,D2,,四川,,['sichuan'],
+0,352018,东岗岭组,Donggangling Fm,D2,九重山组、鸡德组、皇岗岭组,桂中、桂北及滇东南、粤西、粤北、湘南,广东本组整合于老虎头组或信都组之上,['hunan']['guangdong']['guangxi']['yunnan'],
+0,352019,东坪组,Dongping Fm,D2,,粤北,,['guangdong'],
+0,352020,独山组,Dushan Fm,D2,,贵州独山、贵阳一带,,['guizhou'],
+0,352021,福兴屯组,Fuxingtun Fm,D2,,黑龙江延寿县马鞍山、福兴屯等地,,['heilongjiang'],
+0,352022,海口组,Haikou Fm,D2,,云南,创名人未描述，据谢家荣1941年的叙述,['yunnan'],
+0,352023,汗吉尕组,Hanjiga Fm,D2,,新疆 ,,['xinjiang'],
+0,352024,红崖坡组,Hongyapo Fm,D2,,滇东北 ,,['yunnan'],
+0,352025,宏川组,Hongchuan Fm,D2,,黑龙江伊春市宏川、十四林场、木兰县等地 ,,['heilongjiang'],
+0,352026,呼吉尔斯特组,Hujiersite Fm,D2,,新疆沙尔布尔提山东部 ,,['shandong']['xinjiang'],
+0,352027,黄公塘白云岩,Huanggongtang Dolomite,D2,,湘南和湘中地区 ,,['hunan'],
+0,352028,黄家沟组,Huangjiagou Fm,D2,榆树坪组、雷家坝组、邓家沟组,甘肃,隶属于西汉水群 ,['gansu'],
+0,352029,火烘组,Huohong Fm,D2,罐子窑组、纳标组,贵州 ,,['guizhou'],
+0,352030,金宝石组,Jinbaoshi Fm,D2,,四川龙门山前山带 ,,['sichuan'],
+0,352031,克孜勒陶组,Keziletao Fm,D2,苏库洛克群,新疆英吉沙县布伦口-恰尔隆一带和阿克陶县库斯拉甫东、柯克亚、克孜勒陶等地,,['xinjiang'],
+0,352032,库鲁木迪组,Kulumudi Fm,D2,,新疆西准噶尔 ,,['xinjiang'],
+0,352033,冷堡子组,Lengbaozi Fm,D2,鲁班桥石英岩、欧家坝阶、古道岭组冷堡子段,甘肃,,['gansu'],
+0,352034,黎塘组,Litang Fm,D2,,"广西宾阳黎塘镇,贵港市龙头山,武宣二塘一带",,['guangxi'],
+0,352035,龙洞水组,Longdongshui Fm,D2,,贵州独山、贵阳 ,,['guizhou'],
+0,352036,罗段组,Luoduan Fm,D2,棋梓桥组,湘赣边境 ,,['jaingxi']['hunan'],
+0,352037,罗富组,Luofu Fm,D2,,广西 ,,['guangxi'],
+0,352038,落石沟组,Luoshigou Fm,D2,布拉克巴什群,新疆西昆仑山 ,,['xinjiang'],
+0,352039,民塘组,Mintang Fm,D2,,广西横县六景一带 ,,['guangxi'],
+0,352040,那巴组,Naba Fm,D2,,西藏左敢县一带,,['tibet'],
+0,352041,南盘江段,Nanpanjiang Mem,D2,下双河组,云南曲靖至盘溪一带,该段属两冲组，又称南盘江灰岩段,['yunnan'],
+0,352042,牛耳川组,Niuerchuan Fm,D2,沙坪组、凤镇组、娘娘庙组、皇河砂岩,陕西柞水县、山阳县 ,,['shaanxi'],
+0,352043,穷错组,Qiongcuo Fm,D2,光头坡组、三仙姑群(组)上段,川、滇等省 ,,['sichuan']['yunnan'],
+0,352044,曲靖组,Qu jing Fm,D2,夸兴山组、婆兮组,云南昭通、曲靖、盘溪、建水及四川攀西、甘洛一带,,['sichuan']['yunnan'],
+0,352045,萨阿尔明组,Saaerming Fm,D2,快克德组、雅马台组、派尔萨布拉克组,新疆天山,,['xinjiang'],
+0,352046,萨吾尔山组,Sawuershan Fm,D2,布尔津组,新疆东准噶尔 ,,['xinjiang'],
+0,352047,桑知阿考组,Sangzhiakao Fm,D2,,青海玉树 ,,['qinghai'],
+0,352048,上伦白云岩,Shanglun Dolomite,D2,,广西象州 ,,['guangxi'],
+0,352049,上双河段,Shangshuanghe Mem,D2,,云南曲靖 ,,['yunnan'],
+0,352050,石家沟组,Shijiagou Fm,D2,龙家河组,陕、鄂 ,,['hubei']['shaanxi'],
+0,352051,石峡沟组,Shixiagou Fm,D2,,宁夏、内蒙古 ,,['Inner Mongolia']['ningxia'],
+0,352052,四排组,Sipai Fm,D2,白马页岩、应堂组、榴江系等,广西修仁、鹿寨、荔浦一带,,['guangxi'],
+0,352053,宋家桥段,Songjiaqiao Mem,D2,,贵州独山、贵阳高坡场一带,该段属独山组 ,['guizhou'],
+0,352054,缩头山组,Suotoushan Fm,D2,广西系、海口段、昭通组一段、水井边段、三岔路段等,滇东北及川西地区 ,,['sichuan']['yunnan'],
+0,352055,唐家湾组,Tangjiawan Fm,D2,,广西东北及北部,,['guangxi'],
+0,352056,天子岭组,Tianziling Fm,D2,大乌石灰岩(组),粤、桂,,['guangdong']['guangxi'],
+0,352057,跳马涧组,Tiaomajian Fm,D2,,湘中、南及江西等地,,['jaingxi'],
+0,352058,托格买提组,Tuogemaiti Fm,D2,托什罕组、阔克沙勒岭组、阿伯塔尔康组上亚组,新疆乌什县 ,,['xinjiang'],
+0,352059,卧驼山组,Wotuoshan Fm,D2,,宁夏卧驼山至依克乌苏一线之南,,['ningxia'],
+0,352060,乌鲁苏巴斯套组,Wulusubasitao Fm,D2,德仁格依里登组、纸房组,新疆巴里坤卡姆斯特-红柳峡一带,,['xinjiang'],
+0,352061,西冲组,Xichong Fm,D2,,滇东曲靖-盘溪一带,由西冲群改为西冲组,['yunnan'],
+0,352062,信都组,Xindu Fm,D2,铁厂组［1］,广西、广东,广东境内本组位于老虎头组之上、东岗岭组之下,['guangdong']['guangxi'],
+0,352063,崖子沟组,Yazigou Fm,D2,,云南木里 ,,['yunnan'],
+0,352064,养马坝组,Yangmaba Fm,D2,,四川北川县龙门山地区 ,,['sichuan'],
+0,352065,腰桑南组,Yaosangnan Fm,D2,乌奴尔组,黑龙江省嫩江两岸 ,,['heilongjiang'],
+0,352066,亦格尔达坂组,Yigeerdaban Fm,D2,,新疆鄯善亦格尔达坂-库米什等地,本组原称亦格尔达坂岩系,['xinjiang'],
+0,352067,易家湾组,Yijiawan Fm,D2,巨口铺组,湘中南及湘赣交界地区,,['jaingxi']['hunan'],
+0,352068,蕴都喀拉组,Yundukala Fm,D2,平顶山组,新疆锡泊渡、富蕴、北塔山一带,,['xinjiang'],
+0,352069,卓木巴斯套组,Zhuomubasitao Fm,D2,金格尔达组、托让格库都克组,新疆巴里坤县卡姆斯特-红柳峡-东泉一带 ,,['xinjiang'],
+0,351001,阿尔皮什麦布拉克组,Aerpishimaibulake Fm,D1,阿尔皮徐米泉系,新疆鄯善南 ,,['xinjiang'],
+0,351002,蚕多组,Canduo Fm,D1,格绒组、东山组、儿罪呛组、藏卡组,四川,云南原划分出的蚕多群已改划归依吉群,['sichuan'],
+0,351003,春节桥组,Chunjieqiao Fm,D1,,西藏察隅,,['tibet'],
+0,351004,翠峰山组,Cuifengshan Fm,D1,坡检冲组,云南曲靖至盘溪一带,,['yunnan'],
+0,351005,达尔东组,Daerdong Fm,D1,,西藏申扎、文部等县 ,,['tibet'],
+0,351006,大乐组,Dale Fm,D1,鹿马段,广西象州、金秀县一带,,['guangxi'],
+0,351007,大南湖组,Dananhu Fm,D1,卡拉塔格组,新疆哈密和巴里坤等地,,['xinjiang'],
+0,351008,大中寨组,Dazhongzhai Fm,D1,,云南墨江,本组隶属墨江群 ,['yunnan'],
+0,351009,丹林组,Danlin Fm,D1,,贵州独山、赫章等地,,['guizhou'],
+0,351010,东立吉组,Dongliji Fm,D1,,云南元江一带,,['yunnan'],
+0,351011,二塘组,Ertang Fm,D1,落脉组,广西 象州县大乐、武宣二塘一带,,['guangxi'],
+0,351012,尕拉组,Gala Fm,D1,,甘、青、川,,['sichuan']['gansu']['qinghai'],
+0,351013,甘溪组,Ganxi Fm,D1,,四川龙 门山地区 ,,['sichuan'],
+0,351014,格绒组,Gerong Fm,D1,,四川西部 ,,['sichuan'],
+0,351015,公馆组,Gongguan Fm,D1,龙家河组,陕、鄂交界一带 ,,['hubei']['shaanxi'],
+0,351016,关上组,Guanshang Fm,D1,,云 南 ,,,
+0,351017,官桥白云岩,Guanqiao Dolomite,D1,侣塘组,桂中地区 ,,['guangxi'],
+0,351018,桂家屯段,Guijiatun Mem,D1,,云南翠峰山至盘溪一带,属翠峰山组第三段 ,['yunnan'],
+0,351019,罕达气火山岩,Handaqi Volcanic Rock,D1,草帽山组,黑龙江罕达气和兴隆地区,创名文献为M-51-Ⅷ幅最终地质报告 前人曾称罕达气段、罕达气(岩)组,['heilongjiang'],
+0,351020,和布克赛尔组,Hebukesaier Fm,D1,乌吐尔布拉克组、芒克鲁组、曼格尔组,新疆西准噶尔沙尔布尔提山一带 ,,['xinjiang'],
+0,351021,贺县组,Hexian Fm,D1,旱圳组，苍梧组、石桥组(群),桂东北、粤西、湘南 ,,['hunan']['guangdong']['guangxi'],
+0,351022,黑龙宫组,Heilonggong Fm,D1,上黑龙宫组,黑龙江 ,,['heilongjiang'],
+0,351023,黄京山组,Huangjingshan Fm,D1,,广西 ,,['guangxi'],
+0,351024,康布铁堡组,Kangbutiebao Fm,D1,玛因鄂博组,新疆阿勒泰、福海县、富蕴县一带 ,,['xinjiang'],
+0,351025,莲花山组,Lianhuashan Fm,D1,金竹坳砂岩、苍梧组、大瑶山群、石桥组、拉郎组、下叶山组,广西 ,,['guangxi'],
+0,351026,凉泉组,Liangquan Fm,D1,强拉组,西藏普兰、聂拉木、定日一带 ,,['tibet'],
+0,351027,龙别组,Longbie Fm,D1,,云南,属墨江群 ,['yunnan'],
+0,351028,龙果扎普组,Longguozhapu Fm,D1,,西藏察隅一带 ,,['tibet'],
+0,351029,倮红组,Louhong Fm,D1,,云南 ,,['yunnan'],
+0,351030,马拉苏组,Malasu Fm,D1,盖布拉克组,新疆白杨河-玛依拉山一带,,['xinjiang'],
+0,351031,莫丁组,Moding Fm,D1,,桂南、桂西到滇东南 ,,['guangxi']['yunnan'],
+0,351032,那高岭组,Nagaoling Fm,D1,,广西南部,,['guangxi'],
+0,351033,平驿铺组,Pingyipu Fm,D1,桂溪组、木耳厂组、观音庙组、关山坡组,四川北部一带 ,,['sichuan'],
+0,351034,坡脚组,Pojiao Fm,D1,,滇、川、桂 ,,['guangxi']['sichuan']['yunnan'],
+0,351035,坡松冲组,Posongchong Fm,D1,翠峰山群,滇、川、黔,"西南地区的泥盆系(初稿)写于1974年,坡松冲组源于此书(油印本) ",['sichuan']['guizhou']['yunnan'],
+0,351036,普通沟组,Putonggou Fm,D1,热尔群下岩组,甘、川 ,,['sichuan']['gansu'],
+0,351037,前坤头沟组,Qiankuntougou Fm,D1,,内蒙古敖汉旗一带 ,,['Inner Mongolia'],
+0,351038,钦州组,Qinzhou Fm,D1,大岭组,桂南地区 ,,['guangxi'],
+0,351039,青山组,Qingshan Fm,D1,阿冷初组、山江组,云南洱源一带 ,,['yunnan'],
+0,351040,冉家湾组,Ranjiawan Fm,D1,三仙姑群(组)下段、格绒组,云南中甸一带 ,,['yunnan'],
+0,351041,热尔组(群),Reer Fm (Gr),D1,,四川若尔盖县,修订后的热尔群仅局限在原来划分的上部，并降群为组,['sichuan'],
+0,351042,沙坝脚组,Shabajiao Fm,D1,下何元寨组,云南施甸一带,有些研究者认为本组相当向阳寺组的一部分，不宜单独建组,['yunnan'],
+0,351043,狮子山组,Shizishan Fm,D1,,滇西盈江,由原关上组底部分出本组,['yunnan'],
+0,351044,石坊群,Shifan Gr,D1,,甘肃文县一带,,['gansu'],
+0,351045,舒家坪组,Shujiaping Fm,D1,,贵州独山、贵阳一带 ,,['guizhou'],
+0,351046,托让格库都克组,Tuoranggekuduke Fm,D1,,新疆阿勒泰东部 ,,['xinjiang'],
+0,351047,弯月组,Wanyue Fm,D1,,吉林东辽一带 ,,['jilin'],
+0,351048,王家村组,Wangjiacun Fm,D1,,云南施店 ,,['yunnan'],
+0,351049,西岔河组,Xichahe Fm,D1,,陕、鄂交界地区 ,,['hubei']['shaanxi'],
+0,351050,西屯段,Xitun Mem,D1,桂家屯组、西屯头组等,云南曲靖一带,属翠峰山组第二段 ,['yunnan'],
+0,351051,下西山村段,Xiaxishancun Mem,D1,,云南曲靖、盘溪一带 ,,['yunnan'],
+0,351052,向阳寺组,Xiangyangsi Fm,D1,,云南大理、金平、中甸一带 ,,['yunnan'],
+0,351053,徐家冲段,Xujiachong Mem,D1,,云南,属翠峰山组最顶部段 ,['yunnan'],
+0,351054,丫山组,Yashan Fm,D1,,赣南大余或至全南一带 ,,['jaingxi'],
+0,351055,依吉组,Yiji Fm,D1,,四川木里及云南,本组原称依吉群(云南仍称之) 在云南本组(群)平行不整合伏于邛依组之下,['sichuan']['yunnan'],
+0,351056,依木干他乌组,Yimugantawu Fm,D1,,新疆柯坪 ,,['xinjiang'],
+0,351057,郁江组,Yujiang Fm,D1,吴村页岩，郁江建造,广西全境 ,,['guangxi'],
+0,351058,源口组,Yuankou Fm,D1,,湘南 ,,['hunan'],
+0,350001,北塔山组,Beitashan Fm,D,喀热干德组、托让格库都克组、江孜尔库都克组、加马特组、铁热克特组,新疆富蕴-北塔山一带,,['xinjiang'],
+0,350002,黄竹角咀组,Huangzhujiaozui Fm(Bluff head,D,,香港白沙头洲至黄竹角咀泥涌和大洞等地,本组分为上、下两部分，据化石下部时代为D1-2，上部为D3。从资料分析本组相当于李作明所划分的白沙头洲组和船湾组,['Hong Kong'],
+0,350003,马鞍山组〔7〕,Maanshan Fm〔7〕(Ma On shan Fm,D,,香港马鞍山矿厂一带,与粤中天子岭组、帽子峰组大体相当--李作明(1987),['Hong Kong'],
+0,350004,南湾组,Nanwan Fm,D,赤眉组、东双河变质岩片,河南西峡、商城一带 ,,['henan'],
+0,350005,王家街组,Wangjiajie Fm,D,,吉林永吉一带 ,,['jilin'],
+0,350006,危关组,Weiguan Fm,D,绕积组(群)、东大河组、头道村组、青羊坡组,四川北川县 ,,['sichuan'],
+0,350007,温泉组,Wenquan Fm,D,腊垒组,云南昌宁一带 ,,['yunnan'],
+0,350008,五道沟群,Wudaogou Gr,D,,吉林延边珲春一带,本群原称五道沟组 ,['jilin'],
+0,350009,杨金沟组,Yangjingou Fm,D,,吉林珲春东部小西南岔-马滴达一带 ,,['jilin'],
