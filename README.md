@@ -19,5 +19,5 @@ Visualization Platform: Neo4j (https://neo4j.com)
 * main_task.py   # Relationship extraction with BERT(Pre-training of Deep Bidirectional Transformers for Language Understanding)
 
 ## Data
-* res copy.csv   # The data obtained from Baidu's encyclopedia
+* res copy.csv   # The data obtained from Baidu's encyclopedia (https://baike.baidu.com/)
 * location.csv    # Chinese administrative division names and abbreviations
