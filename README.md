@@ -1,9 +1,9 @@
 # Stratigraphic Knowledge Graph (StraKG)
 
 ## Overview
-This work designed and constructed a Stratigraphic Knowledge Graph (StraKG) to explore a novel approache in geoscience data mining and understanding. StraKG enables a new workflow to analyze the open and big literature data in geoscience in the form of knowledge graphs.
+The background of this work is the increasing amount of geoscience literature data shared online, including those from governmental agencies, research institutions, and the crowdsourcing encyclopedia. Knowledge graph is a effective way to explore and analyze the open text data. In this work, we designed and constructed a knoweldge graph for the field of stratigraph, called StraKG, to help process records in the Baidu Encyclopedia, a big open text data resource in Chinese. The files shared in this repository are code for building the layered structure of the StraKG and extracting instance records and relationships from open text. 
 
-StraKG has two layers: schema layer and instance layer. In the schema layer, we used community-recognized terminology from geological dictionaries. In the instance layer, we used natural language processing techniques to analyze open data (Baidu Encyclopedia) and obtained relationships between strata and entities such as rocks and spatial locations.
+StraKG has a two-layer structure, represening ontologies and instances, respectively. At the top is the schema layer for classes and properties of the ontologies. Community-level geological dictionaries were used as a foundation to build the ontologies. At the bottom is the instance layer. Text mining techniques were used to to analyze open text from Baidu Encyclopedia, extracting instances of strata, rocks, locations and relationships between them. In our work we also established mapping between the schema layer and instance layer and implemented a list of experments to test the utility of the resulting StraKG.
 
 ## Requirements
 Requirements: Python (3.6+), PyTorch (1.2.0+), Spacy (2.1.8+), py2neo (4.3.0)
