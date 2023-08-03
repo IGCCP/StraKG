@@ -3,25 +3,10 @@ import xlrd
 from py2neo import Graph, Node, Relationship, NodeMatcher
 import csv
 
-# 连接neo4j数据库，输入地址、用户名、密码
+# Connect to neo4j database, enter address, username, password
 graph = Graph("bolt://localhost:7687", username="neo4j", password='123456')
 graph.delete_all()
 
-'''
-nodeRock = Node('Rock', DM='YSEB', HZM='岩石', YYM='rock', BZ='Petrology')
-with open('./chaifen_res/rock.csv', 'r', encoding='utf-8') as fR:
-    readerR = csv.reader(fR)
-    dataR = list(readerR)
-
-for i in range(0, len(dataR)):
-    # print(dataR[i])
-    nodeR = Node('Rock', DM=dataR[i][0], HZM=dataR[i][1], YYM=dataR[i][2], BZ=dataR[i][3])
-    graph.create(nodeR)
-    relationshipR = Relationship(nodeR, 'isInstance', nodeRock)
-    # relationshipR_ = Relationship(nodeRock, 'hasInstance', nodeR)
-    graph.create(relationshipR)
-    # graph.create(relationshipR_)
-    '''
 with open('./geotime.csv', 'r', encoding='utf-8') as ft:
     readert = csv.reader(ft)
     datat = list(readert)
@@ -85,8 +70,6 @@ for i in range(0, len(datat)):
                 graph.create(node0)
                 graph.create(rel0)
 
-
-
 with open('./baike/mergeRock.csv', 'r', encoding='utf-8') as f:
     reader = csv.reader(f)
     data = list(reader)
@@ -111,47 +94,4 @@ for i in range(1, len(data)):
         graph.create(node3)
         relation2 = Relationship(node1, 'hasGeotime', node3)
         graph.create(relation2)
-
-'''
-for j in range(22, 74):
-        noderock_ = graph.evaluate('match (x:Rock) where x.HZM="' + data[i][j] + '" return(x)')
-        if noderock_:
-            Node_nameR = noderock_
-            relation3 = Relationship(node1, 'contain', Node_nameR)
-            graph.create(relation3)'''
-
-
-'''
-readbook = xlrd.open_workbook('./chaifen_res/rock.xls', 'r')
-# 获取读入的文件的sheet
-sheet = readbook.sheet_by_index(0)  #索引的方式，从0开始
-# 获取sheet的最大行数和列数
-nrows = sheet.nrows #行
-ncols = sheet.ncols #列
-#print(nrows,ncols)  # 5147 4
-'''
-
-'''
-# 获取某个单元格的值
-lng = sheet.cell(i,1).value#获取i行1列的表格值
-lat = sheet.cell(i,2).value#获取i行2列的表格值
-'''
-'''
-# ROCK
-nodeRock = Node('Rock', DM='YSEB', cn='岩石', yn='rock', bz='Petrology')
-
-with open('./chaifen_res/rock.csv', 'r', encoding='utf-8') as fR:
-    readerR = csv.reader(fR)
-    dataR = list(readerR)
-
-for i in range(0, len(dataR)):
-    #print(dataR[i])
-    nodeR = Node('Rock', DM=dataR[i][0], HZM=dataR[i][1], YYM=dataR[i][2], BZ=dataR[i][3])
-    graph.create(nodeR)
-    relationshipR = Relationship(nodeR, 'isInstance', nodeRock)
-    relationshipR_ = Relationship(nodeRock, 'hasInstance', nodeR)
-    graph.create(relationshipR)
-    graph.create(relationshipR_)'''
-
-print('down')
 
