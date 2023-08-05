@@ -5,18 +5,13 @@ import torch
 from transformers import BertTokenizer, BertForSequenceClassification
 from torch.nn import functional as F
 
-def infer(sentence, model_path, device):
-    # Load pre-trained model and tokenizer
-    model = BertForSequenceClassification.from_pretrained(model_path)
-    tokenizer = BertTokenizer.from_pretrained(model_path)
-    model.to(device)
-    model.eval()
-
-    # Tokenize input sentence and obtain output logits
-    inputs = tokenizer(sentence, return_tensors="pt", truncation=True, padding=True, max_length=128)
-    inputs = inputs.to(device)
+def infer(model_path, tokenizer, sentence):
+    model = BertForSequenceClassification.from_pretrained(model_path, num_labels=5)
+    tokenized_sentence = tokenizer.encode(sentence)
+    input_ids = torch.tensor([tokenized_sentence])
     with torch.no_grad():
-        outputs = model(**inputs)
-    logits = outputs[0]
-    probs = F.softmax(logits, dim=1)
-    return probs
+        output = model(input_ids)
+    label_indices = torch.argmax(output[0], axis=1)
+    labels = ["named_by", "year_named", "isLocatedIn", "hasThickness", "contains"]
+    predicted_label = labels[label_indices[0]]
+    return predicted_label
