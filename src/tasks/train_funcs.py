@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 28 09:37:26 2019
-
-@author: weetee
-"""
 import os
-import math
 import torch
 import torch.nn as nn
 from ..misc import save_as_pickle, load_pickle
@@ -22,8 +14,8 @@ def load_state(net, optimizer, scheduler, args, load_best=False):
     """ Loads saved model and optimizer states if exists """
     base_path = "./data/"
     amp_checkpoint = None
-    checkpoint_path = os.path.join(base_path,"task_test_checkpoint_%d.pth.tar" % args.model_no)
-    best_path = os.path.join(base_path,"task_test_model_best_%d.pth.tar" % args.model_no)
+    checkpoint_path = os.path.join(base_path,"relationship_extraction_checkpoint_%d.pth.tar" % args.model_no)
+    best_path = os.path.join(base_path,"relationship_extraction_model_best_%d.pth.tar" % args.model_no)
     start_epoch, best_pred, checkpoint = 0, 0, None
     if (load_best == True) and os.path.isfile(best_path):
         checkpoint = torch.load(best_path)
@@ -45,18 +37,17 @@ def load_state(net, optimizer, scheduler, args, load_best=False):
 
 def load_results(model_no=0):
     """ Loads saved results if exists """
-    losses_path = "./data/task_test_losses_per_epoch_%d.pkl" % model_no
-    accuracy_path = "./data/task_train_accuracy_per_epoch_%d.pkl" % model_no
-    f1_path = "./data/task_test_f1_per_epoch_%d.pkl" % model_no
+    losses_path = "./data/relationship_extraction_losses_per_epoch_%d.pkl" % model_no
+    accuracy_path = "./data/relationship_extraction_accuracy_per_epoch_%d.pkl" % model_no
+    f1_path = "./data/relationship_extraction_f1_per_epoch_%d.pkl" % model_no
     if os.path.isfile(losses_path) and os.path.isfile(accuracy_path) and os.path.isfile(f1_path):
-        losses_per_epoch = load_pickle("task_test_losses_per_epoch_%d.pkl" % model_no)
-        accuracy_per_epoch = load_pickle("task_train_accuracy_per_epoch_%d.pkl" % model_no)
-        f1_per_epoch = load_pickle("task_test_f1_per_epoch_%d.pkl" % model_no)
+        losses_per_epoch = load_pickle("relationship_extraction_losses_per_epoch_%d.pkl" % model_no)
+        accuracy_per_epoch = load_pickle("relationship_extraction_accuracy_per_epoch_%d.pkl" % model_no)
+        f1_per_epoch = load_pickle("relationship_extraction_f1_per_epoch_%d.pkl" % model_no)
         logger.info("Loaded results buffer")
     else:
         losses_per_epoch, accuracy_per_epoch, f1_per_epoch = [], [], []
     return losses_per_epoch, accuracy_per_epoch, f1_per_epoch
-
 
 def evaluate_(output, labels, ignore_idx):
     ### ignore index 0 (padding) when calculating accuracy
@@ -74,7 +65,7 @@ def evaluate_(output, labels, ignore_idx):
     return acc, (o, l)
 
 def evaluate_results(net, test_loader, pad_id, cuda):
-    logger.info("Evaluating test samples...")
+    logger.info("Evaluating test samples for relationship extraction...")
     acc = 0; out_labels = []; true_labels = []
     net.eval()
     with torch.no_grad():
@@ -89,10 +80,10 @@ def evaluate_results(net, test_loader, pad_id, cuda):
                 attention_mask = attention_mask.cuda()
                 token_type_ids = token_type_ids.cuda()
                 
-            classification_logits = net(x, token_type_ids=token_type_ids, attention_mask=attention_mask, Q=None,\
+            relationship_logits = net(x, token_type_ids=token_type_ids, attention_mask=attention_mask, Q=None,\
                           e1_e2_start=e1_e2_start)
             
-            accuracy, (o, l) = evaluate_(classification_logits, labels, ignore_idx=-1)
+            accuracy, (o, l) = evaluate_(relationship_logits, labels, ignore_idx=-1)
             out_labels.append([str(i) for i in o]); true_labels.append([str(i) for i in l])
             acc += accuracy
     
@@ -103,9 +94,8 @@ def evaluate_results(net, test_loader, pad_id, cuda):
         "recall": recall_score(true_labels, out_labels),
         "f1": f1_score(true_labels, out_labels)
     }
-    logger.info("***** Eval results *****")
+    logger.info("***** Eval results for relationship extraction *****")
     for key in sorted(results.keys()):
         logger.info("  %s = %s", key, str(results[key]))
     
     return results
-    
