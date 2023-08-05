@@ -6,21 +6,18 @@ import re
 from itertools import permutations
 
 def load_pickle(filename):
-    completeName = os.path.join("./data/",\
-                                filename)
+    completeName = os.path.join("./data/", filename)
     with open(completeName, 'rb') as pkl_file:
         data = pickle.load(pkl_file)
     return data
 
 def save_as_pickle(filename, data):
-    completeName = os.path.join("./data/",\
-                                filename)
+    completeName = os.path.join("./data/", filename)
     with open(completeName, 'wb') as output:
         pickle.dump(data, output)
 
 def get_subject_objects(sent_):
-    ### get subject, object entities by dependency tree parsing
-    #sent_ = next(sents_doc.sents)
+    # get subject, object entities by dependency tree parsing
     root = sent_.root
     subject = None; objs = []; pairs = []
     for child in root.children:
