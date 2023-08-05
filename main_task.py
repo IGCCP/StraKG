@@ -34,7 +34,9 @@ if __name__ == "__main__":
         
     if (args.infer == 1) and (args.task != 'fewrel'):
         inferer = infer_from_trained(args, detect_entities=True)
-        test = "[STRATA]苇子峪组[/STRATA]本组以[ROCK]石榴透辉角闪斜长片麻岩[/ROCK]、[ROCK]角闪辉石麻粒岩[/ROCK]为主"
+        test = "[E1]苇子峪组[/E1]本组以[E2]石榴透辉角闪斜长片麻岩[/E2]、角闪辉石麻粒岩为主"
+        test1 = "[E1]苇子峪组[/E1]本组以石榴透辉角闪斜长片麻岩、[E2]角闪辉石麻粒岩[/E2]为主"
+        # The [E1]Reed Valley Formation[E1] is dominated by [E2]pomegranate-turbidite hornblende gneiss[/E2] and [E2]hornblende gneiss[/E2].
         inferer.infer_sentence(test, detect_entities=False)
         test2 = "大梨沟组命名山西地矿局二一四队，1993年命名。"
         
