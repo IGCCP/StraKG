@@ -5,7 +5,7 @@ The background of this work is the increasing amount of geoscience literature da
 
 StraKG has a two-layer structure, representing ontologies and instances, respectively. At the top is the schema layer for classes and properties of the ontologies. Community-level geological dictionaries were used as a foundation to build ontologies. At the bottom is the instance layer. Text mining techniques were used to analyze open text from Baidu Encyclopedia, extracting instances of strata, rocks, and locations, as well as the relationships between those entities. In our work, we also established mapping between the schema layer and instance layer and implemented a list of experiments to test the utility of the resulting StraKG.
 
-![Untitled Diagram-概念层](https://github.com/IGCCP/GUKG/assets/39733492/50ef03b0-f273-4282-8e5d-1111f46347ba)
+![Untitled Diagram-概念层](https://github.com/IGCCP/StraKG/assets/39733492/b75e6360-de5d-4c6f-9b50-31a5341e5c79)
 
 
 ## Requirements
