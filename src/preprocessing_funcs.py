@@ -8,7 +8,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
-from .misc import save_as_pickle, load_pickle, get_subject_objects
+from .mlsc import save_as_pickle, load_pickle, get_subject_objects
 from tqdm import tqdm
 import logging
 
