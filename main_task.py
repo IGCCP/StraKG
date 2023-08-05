@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
 
 from src.tasks.trainer import train_and_fit
-from src.tasks.infer import infer_from_trained, FewRel
+from src.tasks.infer import infer_from_trained
 import logging
 from argparse import ArgumentParser
-
 
 logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', level=logging.INFO)
 logger = logging.getLogger('__file__')
 
 if __name__ == "__main__":
     parser = ArgumentParser()
-    parser.add_argument("--task", type=str, default='semeval', help='semeval, fewrel')
+    parser.add_argument("--task", type=str, default='semeval', help='semeval')
     parser.add_argument("--train_data", type=str, default='./data/train.txt', help="training.txt file path") 
     parser.add_argument("--test_data", type=str, default='./data/test.txt', help="test.txt file path")
     parser.add_argument("--use_pretrained_blanks", type=int, default=0, help="0: Don't use pre-trained blanks model, 1: use pre-trained blanks model")
@@ -23,23 +22,20 @@ if __name__ == "__main__":
     parser.add_argument("--num_epochs", type=int, default=11, help="No of epochs")
     parser.add_argument("--lr", type=float, default=0.00007, help="learning rate")
     parser.add_argument("--model_no", type=int, default=0, help='''Model ID: 0 - BERT''')
-    parser.add_argument("--model_size", type=str, default='bert-base-uncased', help="For BERT: 'bert-base-uncased', 'bert-large-uncased'")
+    parser.add_argument("--model_size", type=str, default='bert-base-uncased', help="For BERT: 'bert-base-uncased'")
     parser.add_argument("--train", type=int, default=1, help="0: Don't train, 1: train")
     parser.add_argument("--infer", type=int, default=1, help="0: Don't infer, 1: Infer")
     
     args = parser.parse_args()
     
-    if (args.train == 1) and (args.task != 'fewrel'):
+    if args.train == 1:
         net = train_and_fit(args)
         
-    if (args.infer == 1) and (args.task != 'fewrel'):
+    if args.infer == 1:
         inferer = infer_from_trained(args, detect_entities=True)
         test = "[E1]苇子峪组[/E1]本组以[E2]石榴透辉角闪斜长片麻岩[/E2]、角闪辉石麻粒岩为主"
-        test1 = "[E1]苇子峪组[/E1]本组以石榴透辉角闪斜长片麻岩、[E2]角闪辉石麻粒岩[/E2]为主"
-        # The [E1]Reed Valley Formation[E1] is dominated by [E2]pomegranate-turbidite hornblende gneiss[/E2] and [E2]hornblende gneiss[/E2].
         inferer.infer_sentence(test, detect_entities=False)
         test2 = "大梨沟组命名山西地矿局二一四队，1993年命名。"
-        
         inferer.infer_sentence(test2, detect_entities=True)
         
         while True:
@@ -47,7 +43,3 @@ if __name__ == "__main__":
             if sent.lower() in ['quit', 'exit']:
                 break
             inferer.infer_sentence(sent, detect_entities=False)
-    
-    if args.task == 'fewrel':
-        fewrel = FewRel(args)
-        meta_input, e1_e2_start, meta_labels, outputs = fewrel.evaluate()
