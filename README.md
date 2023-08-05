@@ -24,7 +24,11 @@ Visualization Platform: Neo4j (https://neo4j.com)
 ## Data
 * instance.csv   # data in the instance layer
 * *Note: The last character of the full name in Chinese (the last word of the name in English) indicates the unit of this lithological stratum.*
-* *Fm(组): Formation*</ br> *Gr(): Group*</ br>  *(段): Member*</ br> 
+  * *Fm(组): Formation*
+  * *Gr(群): Group*
+  * *Mem(段): Member*
+  * *Sub-Gr(亚群): sub-group*
+  * *complex(杂岩)* *Complex is an informal lithostratigraphic unit that refers to a large set of massively thick and complexly composed sedimentary* *,* *ejecta* *,* *or metamorphic strata that* *,* *to the extent that they have been studied, cannot be classified as a definitive formal lithostratigraphic unit*
 * res copy.csv   # The data obtained from Baidu Encyclopedia (https://baike.baidu.com/)
 * location.csv    # Chinese administrative division names and abbreviations (schema layer)
 * geologic time.rdf    # geologic time in the schema layer
