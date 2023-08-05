@@ -22,7 +22,8 @@ Visualization Platform: Neo4j (https://neo4j.com)
 * * /src   # Documents related to the training model
 
 ## Data
-* instance.csv   # data in the instance layer 
+* instance.csv   # data in the instance layer
+** Note: The last character of the full name in Chinese (the last word of the name in English) indicates the unit of this lithological stratum. Fo: Formation
 * res copy.csv   # The data obtained from Baidu Encyclopedia (https://baike.baidu.com/)
 * location.csv    # Chinese administrative division names and abbreviations (schema layer)
 * geologic time.rdf    # geologic time in the schema layer
