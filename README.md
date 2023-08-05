@@ -19,7 +19,7 @@ Visualization Platform: Neo4j (https://neo4j.com)
 * location.py   # Associated location information with strata in the instance layer
 * main.py    # StraKG construction
 * main_task.py   # Relationship extraction with BERT (Pre-training of Deep Bidirectional Transformers for Language Understanding)
-* * /src   # Documents related to the training model
+* * /src   # Documents related to the training model (All the changes in task)
 
 ## Data
 * instance.csv   # data in the instance layer
