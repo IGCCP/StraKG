@@ -36,7 +36,7 @@ if __name__ == "__main__":
         inferer = infer_from_trained(args, detect_entities=True)
         test = "[STRATA]苇子峪组[/STRATA]本组以[ROCK]石榴透辉角闪斜长片麻岩[/ROCK]、[ROCK]角闪辉石麻粒岩[/ROCK]为主"
         inferer.infer_sentence(test, detect_entities=False)
-        test2 = "After eating the chicken, he developed a sore throat the next morning."
+        test2 = "大梨沟组命名山西地矿局二一四队，1993年命名。"
         
         inferer.infer_sentence(test2, detect_entities=True)
         
