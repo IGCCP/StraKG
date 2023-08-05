@@ -25,4 +25,4 @@ Visualization Platform: Neo4j (https://neo4j.com)
 * instance.csv   # data in the instance layer
 * res copy.csv   # The data obtained from Baidu Encyclopedia (https://baike.baidu.com/)
 * location.csv    # Chinese administrative division names and abbreviations (schema layer)
-* GeologicalTime.rdf    # geological time in the schema layer
+* geologic time.rdf    # geologic time in the schema layer
