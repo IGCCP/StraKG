@@ -7,7 +7,7 @@ import torch.optim as optim
 from torch.nn.utils import clip_grad_norm_
 from .preprocessing_funcs import load_dataloaders
 from .train_funcs import Two_Headed_Loss, load_state, load_results, evaluate_
-from .misc import save_as_pickle, load_pickle
+from .mlsc import save_as_pickle, load_pickle
 import matplotlib.pyplot as plt
 import time
 import logging
