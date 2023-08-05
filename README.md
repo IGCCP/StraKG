@@ -22,7 +22,7 @@ Visualization Platform: Neo4j (https://neo4j.com)
 * * /src   # Documents related to the training model
 
 ## Data
-* instance.csv   # data in the instance layer
+* instance.csv   # data in the instance layer 
 * res copy.csv   # The data obtained from Baidu Encyclopedia (https://baike.baidu.com/)
 * location.csv    # Chinese administrative division names and abbreviations (schema layer)
 * geologic time.rdf    # geologic time in the schema layer
