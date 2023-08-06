@@ -1,12 +1,47 @@
 # -*- coding: utf-8 -*-
-import xlrd
+
 from py2neo import Graph, Node, Relationship, NodeMatcher
 import csv
 
 # Connect to neo4j database, enter address, username, password
-graph = Graph("bolt://localhost:7687", username="neo4j", password='123456')
+graph = Graph("bolt://localhost:7687", auth=("neo4j", '123456'))
 graph.delete_all()
 
+## Concept layer
+# Geographic ontology
+with open('./location_res/location.csv', 'r', encoding='utf-8') as f1:
+    reader1 = csv.reader(f1)
+    data1 = list(reader1)
+    print(len(data1))
+
+noden = Node(DM='GeoLocation', cn='中国地名', yn='Chinese Geographical Names', bz='China Administrative Units')
+graph.create(noden)
+
+for i in range(0, len(data1)):
+    node = Node('Province', code=data1[i][0], cfn=data1[i][1], cn=data1[i][2],
+                bn=data1[i][3], qy=data1[i][5], yn=data1[i][6])
+    node_ = Node('Capital', sh=data1[i][4])
+    graph.create(node)
+    graph.create(node_)
+    relation = Relationship(noden, 'hasProvince', node)
+    relation_ = Relationship(node, 'isCapital', node_)
+    graph.create(relation)
+    graph.create(relation_)
+
+# Rock ontology  Relationship type: subclassOf; Node label: Rock
+nodeRock = Node('Rock', DM='YSEB', HZM='岩石', YYM='rock', BZ='Petrology')
+
+with open('./chaifen_res/rock.csv', 'r', encoding='utf-8') as fR:
+    readerR = csv.reader(fR)
+    dataR = list(readerR)
+
+for i in range(0, len(dataR)):
+    nodeR = Node('Rock', DM=dataR[i][0], HZM=dataR[i][1], YYM=dataR[i][2], BZ=dataR[i][3])
+    graph.create(nodeR)
+    relationshipR = Relationship(nodeR, 'isInstance', nodeRock)
+    graph.create(relationshipR)
+
+# Geologic time ontology  Relationship type: subclassOf; Node label: Geotime
 with open('./geotime.csv', 'r', encoding='utf-8') as ft:
     readert = csv.reader(ft)
     datat = list(readert)
@@ -70,19 +105,28 @@ for i in range(0, len(datat)):
                 graph.create(node0)
                 graph.create(rel0)
 
+## Instance layer; link the different ontology in the concept layer
 with open('./baike/mergeRock.csv', 'r', encoding='utf-8') as f:
     reader = csv.reader(f)
     data = list(reader)
     print(len(data))
 
-
+NodeS = Node('Strata', yn = 'Strata')
 for i in range(1, len(data)):
-    # print(i)
     node1 = Node('Strata', cn=data[i][1], yn=data[i][2], alias=data[i][4],
-                 distribution=data[i][5], bz=data[i][6], code=data[i][0])
-    # print(data[i][1])
+                distribution=data[i][5], bz=data[i][6], code=data[i][0])
     graph.create(node1)
+    reltionshipS = Relationship(node1, 'isInstance', NodeS)
 
+    # Determine whether the node already exists
+    for j in range(7, 21):
+        nodelocation = graph.evaluate('match (x:Province) where x.yn="' + data[i][j] + '" return(x)')
+        if nodelocation:
+            Node_name = nodelocation
+            relation1 = Relationship(node1, 'islocated', Node_name)
+            graph.create(relation1)
+
+    # Determine whether the node already exists
     nodegeotime = graph.evaluate('match (x:Geotime) where x.code="' + data[i][3] + '" return(x)')
     if nodegeotime:
         Node_name1 = nodegeotime
@@ -95,3 +139,12 @@ for i in range(1, len(data)):
         relation2 = Relationship(node1, 'hasGeotime', node3)
         graph.create(relation2)
 
+    # Determine whether the node already exists
+    for j in range(22, 74):
+        noderock_ = graph.evaluate('match (x:Rock) where x.HZM="' + data[i][j] + '" return(x)')
+        if noderock_:
+            Node_nameR = noderock_
+            relation3 = Relationship(node1, 'contain', Node_nameR)
+            graph.create(relation3)
+
+print('over')
