@@ -1,0 +1,6587 @@
+@prefix ex: <http://straKG.org/> .
+
+ex:Aerbasayi_Fm ex:hasCname "阿尔巴萨依组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371001" .
+
+ex:Agulugou_Fm ex:hasCname "阿古鲁沟组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225001" .
+
+ex:Aierjigan_Gr ex:hasCname "爱尔基干群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225002" .
+
+ex:Aiketike_Gr ex:hasCname "艾克提克群" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360001" .
+
+ex:Ailaoshan_Gr ex:hasCname "哀牢山群" ;
+    ex:hasGeotime "Pt1-3" ;
+    ex:hasSerialNumber "280002" .
+
+ex:Ailegemiao_Fm ex:hasCname "艾勒格庙组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231002" .
+
+ex:Aiqiling_Fm ex:hasCname "埃歧岭组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242001" .
+
+ex:Akesu_Gr ex:hasCname "阿克苏群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221001" .
+
+ex:Aladeyikesai_Fm ex:hasCname "阿腊德依克赛组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362001" .
+
+ex:Alashan_Gr ex:hasCname "阿拉善岩群" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150003" .
+
+ex:Aletonggou_Fm ex:hasCname "阿勒通沟组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241001" .
+
+ex:Along_Fm ex:hasCname "阿龙组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210001" .
+
+ex:Amunike_Fm ex:hasCname "阿木尼克组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357007" .
+
+ex:Amushan_Fm ex:hasCname "阿木山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362002" .
+
+ex:Angjie_Fm ex:hasCname "昂杰组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365004" .
+
+ex:Anjicun_Mem ex:hasCname "安吉村段" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210002" .
+
+ex:Anlelin_Fm ex:hasCname "安乐林组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220001" .
+
+ex:Anshan_Gr ex:hasCname "鞍山群" ;
+    ex:hasGeotime "Ar" ;
+    ex:hasSerialNumber "100001" .
+
+ex:Aoertu_Fm ex:hasCname "奥尔吐组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362005" .
+
+ex:Aojiao_Gr ex:hasCname "澳角群" ;
+    ex:hasGeotime "AnD" ;
+    ex:hasSerialNumber "359001" .
+
+ex:Aojiatan_Fm ex:hasCname "奥家滩(岩)组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140001" .
+
+ex:Aoqu_Fm ex:hasCname "骜曲组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362006" .
+
+ex:Aoyougou_Fm ex:hasCname "熬油沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221002" .
+
+ex:Aqia_Gr ex:hasCname "阿恰群" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370001" .
+
+ex:Aqikebaxi_Fm ex:hasCname "阿其克巴西组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231001" .
+
+ex:Aqikebulake_Fm ex:hasCname "阿其克布拉克组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371002" .
+
+ex:Ayilihe_Fm ex:hasCname "阿衣里河组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362003" .
+
+ex:Azigan_Fm ex:hasCname "阿孜干组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362004" .
+
+ex:Bachu_Fm ex:hasCname "巴楚组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361001" .
+
+ex:Bada_Fm ex:hasCname "坝达组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361004" .
+
+ex:Badaojian_Fm ex:hasCname "八道尖(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249013" .
+
+ex:Badaojiang_Fm ex:hasCname "八道江组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240001" .
+
+ex:Badu_Fm ex:hasCname "巴都组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361002" .
+
+ex:Badu_Gr ex:hasCname "八都(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210003" .
+
+ex:Bagongshan_Gr ex:hasCname "八公山群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231003" .
+
+ex:Baicaoping_Fm ex:hasCname "白草坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220002" .
+
+ex:Baidingpu_Fm ex:hasCname "白定浦组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371007" .
+
+ex:Baifangzi_Fm ex:hasCname "白房子组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231005" .
+
+ex:Baihelong_Fm ex:hasCname "百合垄组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230003" .
+
+ex:Baijiadian_Fm ex:hasCname "白家店组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364002" .
+
+ex:Bailongshan_Fm ex:hasCname "白龙山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210004" .
+
+ex:Bainaimiao_Fm ex:hasCname "白乃庙组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231006" .
+
+ex:Baishahe_Fm ex:hasCname "白沙河(岩)组" ;
+    ex:hasGeotime "Ar-Pt1" ;
+    ex:hasSerialNumber "150018" .
+
+ex:Baishan_Fm ex:hasCname "白山组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361005" .
+
+ex:Baishatouzhou_Fm ex:hasCname "白沙头洲组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356003" .
+
+ex:Baishugou_Fm ex:hasCname "白术沟组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231007" .
+
+ex:Baiyanggou_Gr ex:hasCname "白杨沟群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240002" .
+
+ex:Baiyinbaolage_Fm ex:hasCname "白音宝拉格组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231008" .
+
+ex:Baiyunebo_Gr ex:hasCname "白云鄂博群" ;
+    ex:hasGeotime "Ch-Qn" ;
+    ex:hasSerialNumber "224001" .
+
+ex:Baiyunshan_Fm ex:hasCname "白云山(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210005" .
+
+ex:Baizhiyan_Fm ex:hasCname "柏枝(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130001" .
+
+ex:Baizhu_Fm ex:hasCname "白竹组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230002" .
+
+ex:Baizuo_Fm ex:hasCname "摆佐组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364003" .
+
+ex:Balediertage_Fm ex:hasCname "巴勒迪尔塔格组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371003" .
+
+ex:Bali_Fm ex:hasCname "坝里组" ;
+    ex:hasGeotime "Z1-2" ;
+    ex:hasSerialNumber "243001" .
+
+ex:Balikelike_Fm ex:hasCname "巴立克立克组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371004" .
+
+ex:Baliu_Fm ex:hasCname "坝溜组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371006" .
+
+ex:Baliya_Fm ex:hasCname "八里垭组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230001" .
+
+ex:Bancheng_Fm ex:hasCname "板城组" ;
+    ex:hasGeotime "C1-P1" ;
+    ex:hasSerialNumber "365001" .
+
+ex:Banfanggou_Fm ex:hasCname "板房沟(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210006" .
+
+ex:Bangchuigou_Fm ex:hasCname "棒棰沟组" ;
+    ex:hasGeotime "E" ;
+    ex:hasSerialNumber "QH!!b136" .
+
+ex:Banqiao_Fm ex:hasCname "板桥(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220003" .
+
+ex:Banqiaoshan_Fm ex:hasCname "板桥山组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242003" .
+
+ex:Banshigou_Fm ex:hasCname "板石沟(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220004" .
+
+ex:Banxi_Gr ex:hasCname "板溪群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230004" .
+
+ex:Banyukou_Fm ex:hasCname "板峪口(岩)组" ;
+    ex:hasGeotime "Ar-Pt" ;
+    ex:hasSerialNumber "150016" .
+
+ex:Baoban_Gr ex:hasCname "抱板群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221004" .
+
+ex:Baofengzhai_Mem ex:hasCname "宝峰寨段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220005" .
+
+ex:Baogutu_Fm ex:hasCname "包古图组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364004" .
+
+ex:Baoligaomiao_Fm ex:hasCname "宝力高庙组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365005" .
+
+ex:Baolinchong_Fm ex:hasCname "宝林冲组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230005" .
+
+ex:Baomoshan_Fm ex:hasCname "包磨山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371008" .
+
+ex:Baoshankou_Fm ex:hasCname "豹山口组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240003" .
+
+ex:Baoshi_Fm ex:hasCname "宝石组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241002" .
+
+ex:Baotege_Fm ex:hasCname "包特格组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371009" .
+
+ex:Baping_Fm ex:hasCname "巴平组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364001" .
+
+ex:Baqi_Fm ex:hasCname "巴漆组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356002" .
+
+ex:Bashikuergan_Gr ex:hasCname "巴什库尔干群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221003" .
+
+ex:Bashisuogong_Fm ex:hasCname "巴什索贡组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361003" .
+
+ex:Basiergan_Fm ex:hasCname "巴斯尔干组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372001" .
+
+ex:Batamayineishan_Fm ex:hasCname "巴塔玛依内山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362007" .
+
+ex:Bayinhe_Gr ex:hasCname "巴音河群" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371005" .
+
+ex:Bazhukeng_Fm ex:hasCname "拔竹坑组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231004" .
+
+ex:Baziping_Fm ex:hasCname "八子坪组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242002" .
+
+ex:Beidajian_Fm ex:hasCname "北大尖组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220006" .
+
+ex:Beidaxing_Fm ex:hasCname "北大兴组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210007" .
+
+ex:Beijiangjun_Fm ex:hasCname "北将军(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210008" .
+
+ex:Beiketan_Fm ex:hasCname "贝克滩组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221005" .
+
+ex:Beikuanhe_Fm ex:hasCname "北宽河组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230006" .
+
+ex:Beiluotai_Fm ex:hasCname "悖罗台组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210010" .
+
+ex:Beimenxia_Fm ex:hasCname "北门峡组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225003" .
+
+ex:Beiqilianshan_Ophilite_Gr ex:hasCname "北祁连山蛇绿岩群" ;
+    ex:hasGeotime "Z-O2" ;
+    ex:hasSerialNumber "249021" .
+
+ex:Beisainaertage_Fm ex:hasCname "北塞纳尔塔格组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231009" .
+
+ex:Beishihe_Fm ex:hasCname "北师河组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230007" .
+
+ex:Beiwu_Fm ex:hasCname "北坞组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220007" .
+
+ex:Beixing_Fm ex:hasCname "北兴组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361006" .
+
+ex:Beiyashan_Fm ex:hasCname "北崖山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210009" .
+
+ex:Beiyixi_Fm ex:hasCname "贝义西组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241003" .
+
+ex:Benbatu_Fm ex:hasCname "本巴图组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362008" .
+
+ex:Benxi_Fm ex:hasCname "本溪组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364005" .
+
+ex:Benzilan_Fm ex:hasCname "奔子栏组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372002" .
+
+ex:Biegaizi_Fm ex:hasCname "鳖盖子组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221006" .
+
+ex:Biegentawu_Fm ex:hasCname "别根他乌组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362009" .
+
+ex:Bikou_Gr ex:hasCname "碧口(岩)群" ;
+    ex:hasGeotime "Pt2-3(Ch1 AnZ)" ;
+    ex:hasSerialNumber "280004" .
+
+ex:Bilute_Fm ex:hasCname "比鲁特组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225004" .
+
+ex:Bingfeng_Fm ex:hasCname "冰峰组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365006" .
+
+ex:Binggou_Gr ex:hasCname "冰沟群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225005" .
+
+ex:Binggounan_Fm ex:hasCname "冰沟南组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231010" .
+
+ex:Bingma_Fm ex:hasCname "丙麻组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371011" .
+
+ex:Bingmagou_Fm ex:hasCname "兵马沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221007" .
+
+ex:Bingying_Fm ex:hasCname "兵营组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210012" .
+
+ex:Biyoulebaoguzi_Fm ex:hasCname "比尤勒包谷孜组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372003" .
+
+ex:Biyunshan_Fm ex:hasCname "碧云山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371010" .
+
+ex:Bizigou_Fm ex:hasCname "篦子沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210011" .
+
+ex:Bochatetage_Gr ex:hasCname "博查特塔格群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225006" .
+
+ex:Bocigou_Fm ex:hasCname "菠茨沟组" ;
+    ex:hasGeotime "P2-T1" ;
+    ex:hasSerialNumber "388002" .
+
+ex:Bogenligou_Fm ex:hasCname "播根里沟组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230008" .
+
+ex:Bojiwan_Fm ex:hasCname "簸箕湾组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361007" .
+
+ex:Bolunganbulake_Fm ex:hasCname "泊仑干布拉克组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221009" .
+
+ex:Boluositanmiao_Fm ex:hasCname "波罗斯坦庙组" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150004" .
+
+ex:Boqu_Fm ex:hasCname "波曲组" ;
+    ex:hasGeotime "D2+3" ;
+    ex:hasSerialNumber "356001" .
+
+ex:Bowamu_Gr ex:hasCname "波瓦姆群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221008" .
+
+ex:Bukatuwei_Fm ex:hasCname "布卡吐维组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221010" .
+
+ex:Buqingshan_Gr ex:hasCname "布青山群" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365007" .
+
+ex:Caibei_Limestone_Bed ex:hasCname "彩北石灰岩层" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362011" .
+
+ex:Caijia_Mem ex:hasCname "彩家段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372004" .
+
+ex:Cameng_Fm ex:hasCname "擦蒙组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362010" .
+
+ex:Cangfanggou_Gr ex:hasCname "仓房沟群" ;
+    ex:hasGeotime "P2-T1" ;
+    ex:hasSerialNumber "388003" .
+
+ex:Cangshan_Gr ex:hasCname "苍山群" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260001" .
+
+ex:Caodaban_Fm ex:hasCname "草大坂组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242004" .
+
+ex:Caodian_Gr ex:hasCname "曹店组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231011" .
+
+ex:Caodigou_Fm ex:hasCname "草地沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371012" .
+
+ex:Caoliangyi_Fm ex:hasCname "草凉驿组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362012" .
+
+ex:Caoqu_Gr ex:hasCname "草曲群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230009" .
+
+ex:Caozhuang_Gr ex:hasCname "曹庄(岩)群" ;
+    ex:hasGeotime "Ar1" ;
+    ex:hasSerialNumber "110001" .
+
+ex:Ceshui_Fm ex:hasCname "测水组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361008" .
+
+ex:Ceyu_Gr ex:hasCname "测鱼群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221011" .
+
+ex:Chaergelahe_Fm ex:hasCname "查尔格拉河组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361009" .
+
+ex:Chafanzi_Mem ex:hasCname "茶坊子段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220008" .
+
+ex:Chagouquan_Fm ex:hasCname "岔沟泉组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231012" .
+
+ex:Chaguoluoma_Fm ex:hasCname "查果罗玛组" ;
+    ex:hasGeotime "D2,C1" ;
+    ex:hasSerialNumber "357001" .
+
+ex:Chahushan_Mem ex:hasCname "茶壶山段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220009" .
+
+ex:Chamagong_Gr\(Chamashan_Gr\) ex:hasCname "查马贡群(茶马山群)" ;
+    ex:hasGeotime "Z-∈1-2" ;
+    ex:hasSerialNumber "249006" .
+
+ex:Changan_Fm ex:hasCname "长安组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241004" .
+
+ex:Changchong_Fm ex:hasCname "长冲(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210013" .
+
+ex:Changchun_Fm ex:hasCname "长春组" ;
+    ex:hasGeotime "AnR" ;
+    ex:hasSerialNumber "c63 " .
+
+ex:Changkenshui_Fm ex:hasCname "长坑水组" ;
+    ex:hasGeotime "1-2" ;
+    ex:hasSerialNumber "QH!!c68 " .
+
+ex:Changlai_Fm ex:hasCname "长土多组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357008" .
+
+ex:Changlingzi_Fm ex:hasCname "长岭子组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240005" .
+
+ex:Changning_Fm ex:hasCname "昌宁组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240004" .
+
+ex:Changpaitou_Fm ex:hasCname "长排头组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370002" .
+
+ex:Changshushan_Fm ex:hasCname "长树山(岩)组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140002" .
+
+ex:Changxing_Fm ex:hasCname "长兴组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372005" .
+
+ex:Changyanwo_Fm ex:hasCname "长岩窝组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364006" .
+
+ex:Changyao_Fm ex:hasCname "常窑组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130002" .
+
+ex:Changyucun_Fm ex:hasCname "长育村组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356004" .
+
+ex:Changzhougou_Fm ex:hasCname "常州沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221012" .
+
+ex:Chaotiehe_Fm ex:hasCname "炒铁河组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210014" .
+
+ex:Chaotugou_Fm ex:hasCname "朝吐沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361011" .
+
+ex:Chaowangping_Fm ex:hasCname "朝王坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220010" .
+
+ex:Chaoyang_Fm ex:hasCname "朝阳组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242005" .
+
+ex:Chaya_Mem ex:hasCname "查雅段" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365008" .
+
+ex:Chayepo_Fm ex:hasCname "茶叶坡组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361010" .
+
+ex:Chayu\(Zayu\)Fm ex:hasCname "查隅组" ;
+    ex:hasGeotime "O2" ;
+    ex:hasSerialNumber "QH!!c44 " .
+
+ex:Chencai_Gr ex:hasCname "陈蔡群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220011" .
+
+ex:Chengdaogou_Fm ex:hasCname "程道沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210016" .
+
+ex:Chengjiang_Fm ex:hasCname "澄江组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241005" .
+
+ex:Chengqianggou_Fm ex:hasCname "城墙沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361012" .
+
+ex:Chengshan_Fm ex:hasCname "城山组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230010" .
+
+ex:Chenjiajian_Fm ex:hasCname "陈家涧组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221013" .
+
+ex:Chenjiashan_Fm ex:hasCname "陈家山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210015" .
+
+ex:Chetou_Fm ex:hasCname "车头组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371013" .
+
+ex:Chidantang_Fm ex:hasCname "赤丹潭组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373002" .
+
+ex:Chijianling_Fm ex:hasCname "赤坚岭(岩)组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140003" .
+
+ex:Chishangou_Fm ex:hasCname "赤山沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210017" .
+
+ex:Chongtou_Mem ex:hasCname "冲头段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371014" .
+
+ex:Chouniugou_Fm ex:hasCname "臭牛沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361013" .
+
+ex:Chuanlinggou_Fm ex:hasCname "串岭沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221014" .
+
+ex:Chuanshan_Fm ex:hasCname "船山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362013" .
+
+ex:Chujiashan_Fm ex:hasCname "储家山组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240006" .
+
+ex:Cigou_Fm ex:hasCname "茨沟(岩)组",
+        "茨沟组" ;
+    ex:hasGeotime "Ar",
+        "Ar3" ;
+    ex:hasSerialNumber "100002",
+        "130003" .
+
+ex:Ciyushan_Fm ex:hasCname "茨榆山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210018" .
+
+ex:Cizhuping_Fm ex:hasCname "茨竹坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220012" .
+
+ex:Cuijiatun_Fm ex:hasCname "崔家屯组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240007" .
+
+ex:Cuipingshan_Fm ex:hasCname "翠屏山组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372006" .
+
+ex:Cuizhuang_Fm ex:hasCname "崔庄组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230011" .
+
+ex:Daao_Fm\(Tai_O_Fm\) ex:hasCname "大澳组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360002" .
+
+ex:Daba_Fm ex:hasCname "大坝组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371015" .
+
+ex:Dabaoshan_Gneiss ex:hasCname "大宝山片麻岩" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200001" .
+
+ex:Dabieshan_Gr ex:hasCname "大别山(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210020" .
+
+ex:Dacao_Fm ex:hasCname "大漕组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140004" .
+
+ex:Dacaotan_Fm ex:hasCname "大草滩组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357009" .
+
+ex:Dachaigou_Fm ex:hasCname "打柴沟组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365009" .
+
+ex:Dadongcha_Fm ex:hasCname "大东岔(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210021" .
+
+ex:Dadongchang_Fm ex:hasCname "大东厂组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371016" .
+
+ex:Dagangou_Fm ex:hasCname "大干沟组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364007" .
+
+ex:Daganshan_Fm ex:hasCname "大绀山组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241006" .
+
+ex:Daguanshan_Fm ex:hasCname "大关山组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365010" .
+
+ex:Dagushi_Fm ex:hasCname "大古石组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210022" .
+
+ex:Dahalajunshan_Fm ex:hasCname "大哈拉军山组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361015" .
+
+ex:Dahe_Fm ex:hasCname "大河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220013" .
+
+ex:Dahebian_Fm ex:hasCname "大河边(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230012" .
+
+ex:Daheshen_Fm ex:hasCname "大河深组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371017" .
+
+ex:Daheyan_Fm ex:hasCname "大河沿组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372008" .
+
+ex:Dahongkou_Fm ex:hasCname "大红口组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230013" .
+
+ex:Dahongshan_Fm ex:hasCname "大红山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371018" .
+
+ex:Dahongshan_Gr ex:hasCname "大红山群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210024" .
+
+ex:Dahongyu_Fm ex:hasCname "大红峪组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221015" .
+
+ex:Dahu_Fm ex:hasCname "大湖组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361016" .
+
+ex:Dahuanggou_Fm ex:hasCname "大黄沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371019" .
+
+ex:Dahuoluoshan_Fm ex:hasCname "大豁落山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231013" .
+
+ex:Daianhe_Fm ex:hasCname "代安河组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241009" .
+
+ex:Dajiangbian_Fm ex:hasCname "大江边组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230014" .
+
+ex:Dajinshan_Fm ex:hasCname "大金山组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239001" .
+
+ex:Dakendaban_Gr ex:hasCname "达肯大坂(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210019" .
+
+ex:Dali_Gr ex:hasCname "大理(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220014" .
+
+ex:Daligou_Fm ex:hasCname "大梨沟组" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150005" .
+
+ex:Daliyueer_Fm ex:hasCname "达里约尔组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372007" .
+
+ex:Dalizi_Fm ex:hasCname "大栗子(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210025" .
+
+ex:Dalong_Fm ex:hasCname "大隆组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372009" .
+
+ex:Dalongkou_Fm ex:hasCname "大龙口组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220015" .
+
+ex:Damenglong_Gr ex:hasCname "大勐龙群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220016" .
+
+ex:Damingshan_Fm ex:hasCname "大名山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371020" .
+
+ex:Daminshan_Fm ex:hasCname "大民山组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356005" .
+
+ex:Dananao_Gr ex:hasCname "大南澳群" ;
+    ex:hasGeotime "AnR" ;
+    ex:hasSerialNumber "d103" .
+
+ex:Dananping_Fm ex:hasCname "大南坪(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120001" .
+
+ex:Danfeng_Gr\(Gr\) ex:hasCname "丹凤群(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230016" .
+
+ex:Dangchong_Fm ex:hasCname "当冲组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371024" .
+
+ex:Danghenanshan_Fm ex:hasCname "党河南山组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361020" .
+
+ex:Danshanshi_Gr ex:hasCname "担山石群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210031" .
+
+ex:Danzhou_Gr ex:hasCname "丹洲群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230017" .
+
+ex:Daojiuwan_Fm ex:hasCname "捣臼湾组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220022" .
+
+ex:Daorenchong_Fm ex:hasCname "道人冲组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362015" .
+
+ex:Daoxiang_Fm ex:hasCname "稻香组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242006" .
+
+ex:Daozhuanyao_Fm ex:hasCname "道砖窑组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210032" .
+
+ex:Daposhan_Fm ex:hasCname "大迫山组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221016" .
+
+ex:Dapu_Fm ex:hasCname "大埔组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362014" .
+
+ex:Dapuhai_Fm\(Tolo_Harbour_Fm\) ex:hasCname "大浦海组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370003" .
+
+ex:Daqiao_Fm\(Tai_Kiu_Fm\) ex:hasCname "大桥组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361017" .
+
+ex:Daquan_Fm ex:hasCname "大泉组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372010" .
+
+ex:Darezha_Fm ex:hasCname "大热渣组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220017" .
+
+ex:Dasaiba_Fm ex:hasCname "大赛坝组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361018" .
+
+ex:Dashajiang_Fm ex:hasCname "大沙江组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241007" .
+
+ex:Dashangou_Fm ex:hasCname "大山沟(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130004" .
+
+ex:Dashibao_Fm ex:hasCname "大石包组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372011" .
+
+ex:Dashiqiao_Fm ex:hasCname "大石桥组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210026" .
+
+ex:Dashiqiao_Fm\(Fm\) ex:hasCname "大石桥组(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210027" .
+
+ex:Dashizhai_Fm ex:hasCname "大石寨组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371021" .
+
+ex:Dashuigou_Fm ex:hasCname "大水沟组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373003" .
+
+ex:Dasuangou_Fm ex:hasCname "大蒜沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371022" .
+
+ex:Datangpo_Fm ex:hasCname "大塘坡组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241008" .
+
+ex:Datongying_Fm ex:hasCname "大同营组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210028" .
+
+ex:Dawangzi_Fm ex:hasCname "大网子组" ;
+    ex:hasGeotime "Pt3-∈1" ;
+    ex:hasSerialNumber "270002" .
+
+ex:Dawokeng_Fm ex:hasCname "大窝坑组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220018" .
+
+ex:Dawuba_Fm ex:hasCname "打屋坝组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361014" .
+
+ex:Daxinshan_Fm ex:hasCname "大新山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371023" .
+
+ex:Daxinwu_Fm ex:hasCname "大新屋(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230015" .
+
+ex:Dayangchang_Fm ex:hasCname "大羊场组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361019" .
+
+ex:Dayanping_Fm ex:hasCname "大岩坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220019" .
+
+ex:Dayanshan_Fm ex:hasCname "大岩山(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210029" .
+
+ex:Dayaogu_Fm ex:hasCname "大药姑组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220020" .
+
+ex:Dayingpan_Fm ex:hasCname "大营盘组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220021" .
+
+ex:Dayingshan_Fm ex:hasCname "大营山(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210030" .
+
+ex:Dayingzi_Fm ex:hasCname "大营子(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130005" .
+
+ex:Dayugou_Fm ex:hasCname "大峪沟(岩)组" ;
+    ex:hasGeotime "Ar3(Ar2?)" ;
+    ex:hasSerialNumber "150002" .
+
+ex:Demala_Gr ex:hasCname "德玛拉(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210033" .
+
+ex:Dengfeng_Gr ex:hasCname "登封(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130006" .
+
+ex:Dengjia_Fm ex:hasCname "邓家组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231015" .
+
+ex:Dengshan_Gr ex:hasCname "登山群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231014" .
+
+ex:Dengxiangying_Gr ex:hasCname "登相营群" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260002" .
+
+ex:Dengying_Fm ex:hasCname "灯影组" ;
+    ex:hasGeotime "Z2-∈1" ;
+    ex:hasSerialNumber "249009" .
+
+ex:Deqin_Gr ex:hasCname "德钦(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230018" .
+
+ex:Diancangshan_Gr ex:hasCname "点苍山(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210034" .
+
+ex:Dianfangtai_Fm ex:hasCname "店房台(岩)组" ;
+    ex:hasGeotime "Ar-Pt" ;
+    ex:hasSerialNumber "150017" .
+
+ex:Diaosu_Fm ex:hasCname "缔敖苏组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362017" .
+
+ex:Diaowangshan_Fm ex:hasCname "雕王山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210035" .
+
+ex:Diaoyutai_Fm ex:hasCname "钓鱼台组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231016" .
+
+ex:Dieshan_Fm ex:hasCname "迭山组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372012" .
+
+ex:Dikaner_Fm ex:hasCname "底坎尔组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362016" .
+
+ex:Dikou_Fm ex:hasCname "迪口组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239002" .
+
+ex:Dingguosi_Mem ex:hasCname "定国寺段" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210036" .
+
+ex:Dingjiazhai_Fm ex:hasCname "丁家寨组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362018" .
+
+ex:Dingpo_Fm ex:hasCname "顶坡组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364008" .
+
+ex:Dingwuling_Fm ex:hasCname "丁屋岭组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241010" .
+
+ex:Dingyaohe_Fm ex:hasCname "丁腰河组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242007" .
+
+ex:Dingyuan_Fm ex:hasCname "定远(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220023" .
+
+ex:Dongba_Fm ex:hasCname "东坝组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371025" .
+
+ex:Dongchagou_Fm ex:hasCname "东岔沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210037" .
+
+ex:Dongchonghe_Complex ex:hasCname "东冲河杂岩" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130007" .
+
+ex:Dongfengling_Fm ex:hasCname "东风岭组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361021" .
+
+ex:Donghua_Fm ex:hasCname "东华组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239003" .
+
+ex:Dongjia_Fm ex:hasCname "董家组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240008" .
+
+ex:Dongjiao_Gr ex:hasCname "东焦群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210038" .
+
+ex:Dongmen_Fm ex:hasCname "硐门组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241012" .
+
+ex:Dongpo_Fm ex:hasCname "东坡组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242008" .
+
+ex:Dongqiaoenbulake_Fm ex:hasCname "东巧恩布拉克组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231017" .
+
+ex:Dongshuigou_Fm ex:hasCname "东水沟(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130008" .
+
+ex:Dongtujinhe_Fm ex:hasCname "东图津河组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362019" .
+
+ex:Dongwu_Fm ex:hasCname "冬屋组" ;
+    ex:hasGeotime "Qn-Z1" ;
+    ex:hasSerialNumber "234005" .
+
+ex:Dongyan_Fm ex:hasCname "东岩组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241011" .
+
+ex:Dongye_Sub-Gr ex:hasCname "东冶亚群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210039" .
+
+ex:Dongyong_Fm\(Tong_chong_Fm\) ex:hasCname "东涌组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371026" .
+
+ex:Dongzhakou_Fm ex:hasCname "东扎口组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362020" .
+
+ex:Dongzigou_Fm ex:hasCname "洞子沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371027" .
+
+ex:Doucun_Sub_Gr ex:hasCname "豆村亚群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210041" .
+
+ex:Doushantuo_Fm ex:hasCname "陡山沱组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242009" .
+
+ex:Douya_Fm ex:hasCname "陡崖组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210040" .
+
+ex:Duan_Fm ex:hasCname "都安组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364009" .
+
+ex:Duguan_Fm ex:hasCname "杜关组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225007" .
+
+ex:Duiwoliang_Fm ex:hasCname "碓窝梁组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240009" .
+
+ex:Dujiagou_Fm ex:hasCname "杜家沟组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130009" .
+
+ex:Dulahala_Fm ex:hasCname "都拉哈拉组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221017" .
+
+ex:Dunzigou_Gr ex:hasCname "墩子沟群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225008" .
+
+ex:Duoyitang_Fm ex:hasCname "多益塘组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230019" .
+
+ex:Duwa_Fm ex:hasCname "杜瓦组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372013" .
+
+ex:Duyantang_Fm ex:hasCname "独岩塘组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220024" .
+
+ex:Eaqin_Fm ex:hasCname "额阿钦组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371030" .
+
+ex:Eaqin_Gr ex:hasCname "额阿钦(岩)群" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371029" .
+
+ex:Ebian_Gr ex:hasCname "峨边群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220025" .
+
+ex:Echa_Fm ex:hasCname "峨查组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371028" .
+
+ex:Eding_Fm ex:hasCname "鹅顶组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373005" .
+
+ex:Eergunahe_Fm ex:hasCname "额尔古纳河组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240010" .
+
+ex:Ejiaao_Fm ex:hasCname "鹅家坳组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230020" .
+
+ex:Elitu_Fm ex:hasCname "额里图组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371031" .
+
+ex:Emeishan_Basalt ex:hasCname "峨眉山玄武岩" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373004" .
+
+ex:Enda_Fm ex:hasCname "恩达组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239004" .
+
+ex:Erdaogou_Fm ex:hasCname "二道沟组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362021" .
+
+ex:Erdaohe_Fm ex:hasCname "二道河组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221018" .
+
+ex:Erlongshan_Fm ex:hasCname "二龙山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371032" .
+
+ex:Erqingshan_Fm ex:hasCname "二青山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231018" .
+
+ex:Eryuhe_Fm ex:hasCname "二峪河组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361022" .
+
+ex:Etouchang_Fm ex:hasCname "鹅头厂组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220026" .
+
+ex:Ewenling_Fm ex:hasCname "峨文岭组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221019" .
+
+ex:Fangniushan_Fm ex:hasCname "放牛山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210042" .
+
+ex:Fangshankou_Fm ex:hasCname "方山口组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372014" .
+
+ex:Fanji_ajiao_Mem ex:hasCname "范家峧段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220027" .
+
+ex:Fanjiatun_Fm ex:hasCname "范家屯组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371033" .
+
+ex:Fanjingshan_Gr ex:hasCname "梵净山群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220028" .
+
+ex:Fanzhao_Fm ex:hasCname "番召组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230021" .
+
+ex:Feidong_Gr ex:hasCname "肥东(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230022" .
+
+ex:Feiweihe_Fm ex:hasCname "肥味河组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210043" .
+
+ex:Fengdongkou_Fm ex:hasCname "丰垌口组" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260003" .
+
+ex:Fenggang_Fm ex:hasCname "凤港组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210045" .
+
+ex:Fengjiawan_Fm ex:hasCname "冯家湾组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225010" .
+
+ex:Fengshanying_Fm ex:hasCname "凤山营组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220029" .
+
+ex:Fengtongzhai_Fm ex:hasCname "蜂桶寨组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240011" .
+
+ex:Fengyang_Gr ex:hasCname "凤阳(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210046" .
+
+ex:Fenzishan_Gr ex:hasCname "粉子山群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210044" .
+
+ex:Fotangcun_Fm ex:hasCname "佛堂村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210047" .
+
+ex:Foziling_Gr ex:hasCname "佛子岭(岩)群" ;
+    ex:hasGeotime "Z-D(Pt?)" ;
+    ex:hasSerialNumber "249020" .
+
+ex:Fulaishan_Fm ex:hasCname "浮莱山组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240012" .
+
+ex:Fuliangpeng_Fm ex:hasCname "富良棚组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220030" .
+
+ex:Fulu_Fm ex:hasCname "富禄组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241013" .
+
+ex:Fuping_Gr ex:hasCname "阜平(岩)群" ;
+    ex:hasGeotime "Ar" ;
+    ex:hasSerialNumber "100003" .
+
+ex:Furongba_Fm ex:hasCname "芙蓉坝组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230023" .
+
+ex:Fuzikuang_Fm ex:hasCname "辅子夼组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240013" .
+
+ex:Gadikao_Fm ex:hasCname "尕笛考组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370004" .
+
+ex:Gahai_Gr ex:hasCname "尕海群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362022" .
+
+ex:Gaijiao_Mem ex:hasCname "改交段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371034" .
+
+ex:Gaixian_Fm ex:hasCname "盖县组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210048" .
+
+ex:Galashan_Fm ex:hasCname "嘎拉山组" ;
+    ex:hasGeotime "Pt3-∈1" ;
+    ex:hasSerialNumber "270003" .
+
+ex:Gancaohu_Fm ex:hasCname "甘草湖组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361024" .
+
+ex:Gandaozi_Limestone_Mem ex:hasCname "甘岛子灰岩段" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240014" .
+
+ex:Gandun_Fm ex:hasCname "干墩组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361023" .
+
+ex:Gangdagai_Fm ex:hasCname "冈达概组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373006" .
+
+ex:Gangmacuo_Fm ex:hasCname "冈玛错组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362024" .
+
+ex:Gangmusang_Fm ex:hasCname "刚木桑组" ;
+    ex:hasGeotime "2-3" ;
+    ex:hasSerialNumber "QH!!g35 " .
+
+ex:Gangou_Fm ex:hasCname "干沟组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356006" .
+
+ex:Gangwana_Gr ex:hasCname "冈瓦纳群" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365027" .
+
+ex:Gangyu_Fm ex:hasCname "岗嵛组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210050" .
+
+ex:Ganheba_Fm ex:hasCname "干河坝组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220031" .
+
+ex:Ganjia_Fm ex:hasCname "甘家组" ;
+    ex:hasGeotime "C2-P" ;
+    ex:hasSerialNumber "365003" .
+
+ex:Ganjingzi_Fm ex:hasCname "甘井子组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240015" .
+
+ex:Ganquan_Fm ex:hasCname "干泉组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362023" .
+
+ex:Gantaohe_Gr ex:hasCname "甘陶河群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210049" .
+
+ex:Gaofan_Sub-Gr ex:hasCname "高繁亚群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130010" .
+
+ex:Gaojian_Gr ex:hasCname "高涧群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230024" .
+
+ex:Gaojiawan_Fm ex:hasCname "高家湾组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225011" .
+
+ex:Gaojiayu_Fm ex:hasCname "高家峪组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210051" .
+
+ex:Gaojingchao_Fm ex:hasCname "高井朝组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371035" .
+
+ex:Gaoligongshan_Gr ex:hasCname "高黎贡山(岩)群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225012" .
+
+ex:Gaolishan_Fm ex:hasCname "高骊山组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361025" .
+
+ex:Gaoshanhe_Gr ex:hasCname "高山河群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221020" .
+
+ex:Gaoxiaoling_Fm ex:hasCname "高小岭组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210052" .
+
+ex:Gaoyuzhuang_Fm ex:hasCname "高于庄组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221021" .
+
+ex:Gedacun_Metamorphic_Volcanic_Mem ex:hasCname "疙瘩村变火山岩段" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150006" .
+
+ex:Geding_Fm ex:hasCname "格顶组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372015" .
+
+ex:Gegenaobao_Fm ex:hasCname "格根敖包组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365011" .
+
+ex:Gegongzhen_Fm ex:hasCname "葛公镇组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231019" .
+
+ex:Gekeng_Fm ex:hasCname "葛坑组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239005" .
+
+ex:Genlihe_Fm ex:hasCname "根里河组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356007" .
+
+ex:Gequ_Fm ex:hasCname "格曲组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372016" .
+
+ex:Gezhencun_Fm ex:hasCname "戈枕村组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221022" .
+
+ex:Gongcha_Gr ex:hasCname "龚岔群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231020" .
+
+ex:Gongdong_Fm ex:hasCname "拱洞组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230025" .
+
+ex:Gongyanghe_Gr ex:hasCname "公养河群" ;
+    ex:hasGeotime "Z-∈2" ;
+    ex:hasSerialNumber "249007" .
+
+ex:Goushenmiao_Fm ex:hasCname "垢神庙组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230026" .
+
+ex:Guandaokou_Gr ex:hasCname "官道口群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225013" .
+
+ex:Guanfangshan_Fm ex:hasCname "关防山组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220033" .
+
+ex:Guangdongping_Fm ex:hasCname "广东坪(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220034" .
+
+ex:Guangqing_Fm ex:hasCname "光庆组" ;
+    ex:hasGeotime "C3" ;
+    ex:hasSerialNumber "363001" .
+
+ex:Guangshan_Mem ex:hasCname "光山段" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210054" .
+
+ex:Guanjiagou_Fm ex:hasCname "关家沟组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241016" .
+
+ex:Guanmenshan_Fm ex:hasCname "关门山组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221024" .
+
+ex:Guanshan_Mem ex:hasCname "官山段" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373007" .
+
+ex:Guanyinya_Fm ex:hasCname "观音崖组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242010" .
+
+ex:Gucheng_Fm ex:hasCname "古城组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241014" .
+
+ex:Gucunping_Fm ex:hasCname "古村坪(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220032" .
+
+ex:Gudaoling_Fm ex:hasCname "古道岭组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356008" .
+
+ex:Gudongjing_Gr ex:hasCname "古硐井群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221023" .
+
+ex:Gufeng_Fm ex:hasCname "孤峰组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371036" .
+
+ex:Guihuaqiaogou_Fm ex:hasCname "桂花桥沟组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239006" .
+
+ex:Guishan_Fm ex:hasCname "龟山(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230027" .
+
+ex:Gujia_Fm ex:hasCname "古家组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241015" .
+
+ex:Guodikeng_Fm ex:hasCname "锅底坑组" ;
+    ex:hasGeotime "P2-T1" ;
+    ex:hasSerialNumber "388004" .
+
+ex:Guojiaya_Fm ex:hasCname "郭家垭组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373008" .
+
+ex:Guojiayao_Fm ex:hasCname "郭家窑组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130011" .
+
+ex:Guojiazhai_Sub-Gr ex:hasCname "郭家寨亚群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210055" .
+
+ex:Guokeshan_Fm ex:hasCname "果可山组" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365028" .
+
+ex:Guozhuang_Fm ex:hasCname "郭庄(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210056" .
+
+ex:Guquanshan_Fm ex:hasCname "谷泉山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210053" .
+
+ex:Gutian_Fm ex:hasCname "谷田组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371037" .
+
+ex:Haerhada_Fm ex:hasCname "哈尔哈达组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225014" .
+
+ex:Haerjiawu_Fm ex:hasCname "哈尔加乌组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371038" .
+
+ex:Haersuhai_Fm ex:hasCname "哈尔苏海组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372018" .
+
+ex:Haitangshan_Mem ex:hasCname "海棠山段" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361027" .
+
+ex:Haiyuan_Gr ex:hasCname "海原群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225016" .
+
+ex:Haizhou_Gr ex:hasCname "海州(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220035" .
+
+ex:Hajier_Fm ex:hasCname "哈吉尔组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372019" .
+
+ex:Halaalate_Fm ex:hasCname "哈拉阿拉特组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362025" .
+
+ex:Halaguole_Fm ex:hasCname "哈拉郭勒组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361026" .
+
+ex:Halahuogete_Fm ex:hasCname "哈拉霍疙特组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225015" .
+
+ex:Halamilanhe_Gr ex:hasCname "哈拉米兰河群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362026" .
+
+ex:Halasi_Gr ex:hasCname "哈拉斯群" ;
+    ex:hasGeotime "Z-∈1" ;
+    ex:hasSerialNumber "249004" .
+
+ex:Hamashan_Fm ex:hasCname "蛤蟆山组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372017" .
+
+ex:Hamisite_Fm ex:hasCname "哈米斯特组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372020" .
+
+ex:Hangaoshan_Gr ex:hasCname "汉高山群" ;
+    ex:hasGeotime "(Ch1)Pt2" ;
+    ex:hasSerialNumber "224002" .
+
+ex:Hangeerqiaoke_Fm ex:hasCname "汉格尔乔克组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242011" .
+
+ex:Hangou_Carbonaceous_Slate ex:hasCname "旱沟碳质板岩" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210057" .
+
+ex:Hanmushan_Gr ex:hasCname "韩母山群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240016" .
+
+ex:Hantiereke_Fm ex:hasCname "罕铁热克组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361028" .
+
+ex:Hanyuan_Fm ex:hasCname "韩源组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220036" .
+
+ex:Haoteluowa_Fm ex:hasCname "浩特洛哇组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362027" .
+
+ex:Haoting_Fm ex:hasCname "蒿亭组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210058" .
+
+ex:Hashihaer_Fm ex:hasCname "哈什哈尔组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231021" .
+
+ex:Hawula_Fm ex:hasCname "哈乌拉组" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150007" .
+
+ex:Hebiancun_Fm ex:hasCname "河边村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210059" .
+
+ex:Hecun_Fm ex:hasCname "河村组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220037" .
+
+ex:Heichashan_Gr ex:hasCname "黑茶山群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210062" .
+
+ex:Heinishao_Fm ex:hasCname "黑泥哨组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372022" .
+
+ex:Heishan_Fm ex:hasCname "黑山组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220039" .
+
+ex:Heishan_Mem ex:hasCname "黑山段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371039" .
+
+ex:Heishanbei_Fm ex:hasCname "黑山背组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210063" .
+
+ex:Heishanguan_Fm ex:hasCname "黑山官组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231022" .
+
+ex:Heishantou_Fm ex:hasCname "黑山头组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361031" .
+
+ex:Heishishan_Fm ex:hasCname "黑石山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362028" .
+
+ex:Heiyazhai_Fm ex:hasCname "黑崖寨(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120002" .
+
+ex:Hejiawan_Fm ex:hasCname "贺家湾组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140005" .
+
+ex:Hejiazhai_Fm ex:hasCname "何家寨组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230029" .
+
+ex:Hekou_Gr ex:hasCname "河口(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210060" .
+
+ex:Helanshan_Gr ex:hasCname "贺兰山群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221025" .
+
+ex:Hengjing_Fm ex:hasCname "横阱组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361032" .
+
+ex:Henglingguan_Gr ex:hasCname "横岭关群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130012" .
+
+ex:Hengluchong_Fm ex:hasCname "横路冲组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230031" .
+
+ex:Hengyong_Fm ex:hasCname "横涌组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220040" .
+
+ex:Heshan_Fm ex:hasCname "合山组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372021" .
+
+ex:Heshangzhen_Gr ex:hasCname "河上镇群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230030" .
+
+ex:Heshilafu_Fm ex:hasCname "和什拉甫组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361029" .
+
+ex:Hetaowan_Fm ex:hasCname "核桃湾(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210061" .
+
+ex:Hetong_Fm ex:hasCname "合桐组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230028" .
+
+ex:Hexin_Fm ex:hasCname "河心组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356009" .
+
+ex:Hezhou_Fm ex:hasCname "和州组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361030" .
+
+ex:Hilleltu_Fm ex:hasCname "西勒图组" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224010" .
+
+ex:Hongan_Gr ex:hasCname "红安(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220041" .
+
+ex:Hongchicun_Fm ex:hasCname "虹赤村组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230034" .
+
+ex:Hongguang_Fm ex:hasCname "红光组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230032" .
+
+ex:Hongguleleng_Fm ex:hasCname "洪古勒楞组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357010" .
+
+ex:Honghutuhe_Fm ex:hasCname "洪湖吐河组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361037" .
+
+ex:Hongjiang_Fm ex:hasCname "洪江组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241017" .
+
+ex:Hongling_Fm ex:hasCname "红岭组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240017" .
+
+ex:Honglingshan_Fm ex:hasCname "红岭山组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356010" .
+
+ex:Hongliuhe_Fm ex:hasCname "红柳河组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371040" .
+
+ex:Hongliuquan_Fm ex:hasCname "红柳泉组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221026" .
+
+ex:Hongliuyuan_Fm ex:hasCname "红柳园组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361033" .
+
+ex:Hongmen_Fm ex:hasCname "鸿门(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130014" .
+
+ex:Hongqiyingzi_Gr ex:hasCname "红旗营子群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210064" .
+
+ex:Hongquan_Fm ex:hasCname "红泉组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373009" .
+
+ex:Hongshan_Fm ex:hasCname "洪山组",
+        "红山组" ;
+    ex:hasGeotime "P2",
+        "Z1" ;
+    ex:hasSerialNumber "241018",
+        "372023" .
+
+ex:Hongshanzui_Fm ex:hasCname "红山嘴组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361034" .
+
+ex:Hongshitou_Fm ex:hasCname "红石头(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210066" .
+
+ex:Hongshuiquan_Fm ex:hasCname "红水泉组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361035" .
+
+ex:Hongshuizhuang_Fm ex:hasCname "洪水庄组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225017" .
+
+ex:Hongtoushan_Fm ex:hasCname "红透山(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130013" .
+
+<http://straKG.org/Hongtupo_Fm〔2〕> ex:hasCname "红土坡组〔2〕" ;
+    ex:hasGeotime "Ar" ;
+    ex:hasSerialNumber "100004" .
+
+ex:Hongyanchi_Fm ex:hasCname "红雁池组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372025" .
+
+ex:Hongyanjing_Fm ex:hasCname "红岩井组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372024" .
+
+ex:Hongyansi_Fm ex:hasCname "红岩寺组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361036" .
+
+ex:Hongyeqiao_Volcanic_Rock ex:hasCname "红叶桥火山岩" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371041" .
+
+ex:Hongzaoshan_Fm ex:hasCname "红藻山组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240018" .
+
+ex:Hongzixi_Fm ex:hasCname "红子溪组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230033" .
+
+ex:Houhe_Complex ex:hasCname "后河杂岩" ;
+    ex:hasGeotime "Ar-Pt1" ;
+    ex:hasSerialNumber "150019" .
+
+ex:Houhe_Gr ex:hasCname "后河(岩)群" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250001" .
+
+ex:Houshancun_Fm ex:hasCname "后山村组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130015" .
+
+ex:Houziguan_Limestone ex:hasCname "猴子关灰岩" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371042" .
+
+ex:Huacheling_Fm ex:hasCname "滑车岭组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130016" .
+
+ex:Huadaqi_Fm ex:hasCname "花达气组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361038" .
+
+ex:Huaerdi_Fm ex:hasCname "花儿地组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225019" .
+
+ex:Huaihe_Gr ex:hasCname "淮河群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230037" .
+
+ex:Huaitoutala_Fm ex:hasCname "怀头他拉组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361040" .
+
+ex:Huaiyincun_Fm ex:hasCname "槐荫村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210069" .
+
+ex:Huaketou_Mem ex:hasCname "化客头段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372026" .
+
+ex:Hualong_Gr ex:hasCname "化隆(岩)群" ;
+    ex:hasGeotime "Ar-Pt1" ;
+    ex:hasSerialNumber "150020" .
+
+ex:Huangcaoling_Fm ex:hasCname "黄草岭组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220045" .
+
+ex:Huangchagou_Fm ex:hasCname "荒岔沟(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210070" .
+
+ex:Huangdianzi_Fm ex:hasCname "黄店子组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240019" .
+
+ex:Huanghudong_Fm ex:hasCname "黄浒洞组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220046" .
+
+ex:Huangjin_Fm ex:hasCname "黄金组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361041" .
+
+ex:Huanglian_Fm ex:hasCname "黄连组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241019" .
+
+ex:Huanglianduo_Fm ex:hasCname "黄连垛组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225021" .
+
+ex:Huanglianggou_Fm ex:hasCname "黄梁沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372027" .
+
+ex:Huangling_Fm ex:hasCname "黄岭(岩)组" ;
+    ex:hasGeotime "Pt2(Ch)" ;
+    ex:hasSerialNumber "220155" .
+
+ex:Huanglong_Fm ex:hasCname "黄龙组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362033" .
+
+ex:Huanglonggang_Fm ex:hasCname "黄龙岗(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249014" .
+
+ex:Huangmailing_Fm ex:hasCname "黄麦岭(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220047" .
+
+ex:Huangqikou_Fm ex:hasCname "黄旗口组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231024" .
+
+ex:Huangshidong_Fm ex:hasCname "黄狮洞组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230038" .
+
+ex:Huangshuihe_Gr ex:hasCname "黄水河群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220048" .
+
+ex:Huangsong_Gr ex:hasCname "黄松群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230039" .
+
+ex:Huangtan_Fm ex:hasCname "黄潭组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241020" .
+
+ex:Huangtian_Fm ex:hasCname "荒田组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220044" .
+
+ex:Huangtongjianzi_Fm ex:hasCname "黄铜尖子组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220049" .
+
+ex:Huangxu_Fm ex:hasCname "黄墟组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242012" .
+
+ex:Huangyangling_Fm ex:hasCname "黄羊岭组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210071" .
+
+ex:Huangyuan_Gr ex:hasCname "湟源群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210072" .
+
+ex:Huangzhong_Gr ex:hasCname "湟中群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221029" .
+
+ex:Huanxingshan_Fm ex:hasCname "环形山组" ;
+    ex:hasGeotime "2" ;
+    ex:hasSerialNumber "QH!!h249" .
+
+ex:Huashan_Fm ex:hasCname "花山组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230036" .
+
+ex:Huashishan_Gr ex:hasCname "花石山群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225020" .
+
+ex:Huashugou_Fm ex:hasCname "桦树沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221028" .
+
+ex:Huayu_Fm ex:hasCname "花峪组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210068" .
+
+ex:Huayuanqiang_Fm ex:hasCname "花园墙组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361039" .
+
+ex:Huili_Gr ex:hasCname "会理群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220051" .
+
+ex:Huimin_Fm ex:hasCname "惠民组" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200002" .
+
+ex:Huishitun_Gr ex:hasCname "会试屯群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231025" .
+
+ex:Huitoushan_Fm ex:hasCname "回头山组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240020" .
+
+ex:Huixiangdian_Fm ex:hasCname "回向殿组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239007" .
+
+ex:Huixiangping_Fm ex:hasCname "回香坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220050" .
+
+ex:Hujiertu_Fm ex:hasCname "呼吉尔图组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231023" .
+
+ex:Huling_Fm ex:hasCname "浒岭组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230035" .
+
+ex:Huluhe_Fm ex:hasCname "葫芦河组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221027" .
+
+ex:Hunjiang_Gr ex:hasCname "浑江群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240021" .
+
+ex:Huodao_Fm ex:hasCname "活道组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241021" .
+
+ex:Huodiya_Gr ex:hasCname "火地垭群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220052" .
+
+ex:Huoerbacuo_Gr ex:hasCname "霍尔巴错群" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365029" .
+
+ex:Huohe_Fm ex:hasCname "霍河组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242013" .
+
+ex:Huojialing_Fm ex:hasCname "火夹岭组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230040" .
+
+ex:Huoqiu_Complex ex:hasCname "霍丘杂岩" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120003" .
+
+ex:Huoshaojian_Fm ex:hasCname "火烧尖组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230041" .
+
+ex:Hutian_Gr ex:hasCname "壶天群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362031" .
+
+ex:Hutian_Mem ex:hasCname "湖田段" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362032" .
+
+ex:Hutouling_Fm ex:hasCname "虎头岭组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225018" .
+
+ex:Hutuo_Gr ex:hasCname "滹沱群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210067" .
+
+ex:Huwan_Fm ex:hasCname "浒湾(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220043" .
+
+ex:Huxingliang_Fm ex:hasCname "弧形梁组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362029" .
+
+ex:Huyoufang_Fm ex:hasCname "胡油坊组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362030" .
+
+ex:Huzigou_Mem ex:hasCname "狐子沟段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220042" .
+
+ex:Jiadanqiao_Fm ex:hasCname "枷担桥组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220054" .
+
+ex:Jiagedan_Fm ex:hasCname "佳疙疸组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231026" .
+
+ex:Jiajiantian_Fm ex:hasCname "架枧田组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230044" .
+
+ex:Jiaka_Fm ex:hasCname "加卡组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361042" .
+
+ex:Jialu_Fm ex:hasCname "甲路组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230042" .
+
+ex:Jiamainong_Gr ex:hasCname "加麦弄群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362035" .
+
+ex:Jiamuhe_Fm ex:hasCname "佳木河组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371045" .
+
+ex:Jian_Gr ex:hasCname "集安(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210073" .
+
+ex:Jianancun_Fm ex:hasCname "建安村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210075" .
+
+ex:Jiangbasitao_Fm ex:hasCname "姜巴斯套组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361044" .
+
+ex:Jiangdaogou_Fm ex:hasCname "绛道沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210076" .
+
+ex:Jiangdong_Fm ex:hasCname "江东组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239010" .
+
+ex:Jiangjiayao_Conglomerate ex:hasCname "蒋家窑砾岩" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372032" .
+
+ex:Jiangjunmiao_Fm ex:hasCname "将军庙组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372031" .
+
+ex:Jiangxian_Gr ex:hasCname "绛县群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130020" .
+
+ex:Jiangxigou_Fm ex:hasCname "江西沟组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242014" .
+
+ex:Jiangyema_Fm ex:hasCname "姜叶玛组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372030" .
+
+ex:Jiangzierkuduke_Fm ex:hasCname "江孜尔库都克组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357011" .
+
+ex:Jianping_Gr ex:hasCname "建平(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130019" .
+
+ex:Jianshan_Fm ex:hasCname "尖山组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221030" .
+
+ex:Jianshanying_Fm ex:hasCname "尖山营组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364011" .
+
+ex:Jianzhanong_Fm ex:hasCname "坚扎弄组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372029" .
+
+ex:Jiaodongyan_Gr ex:hasCname "胶东(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130021" .
+
+ex:Jiaoga_Fm ex:hasCname "交嘎组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371046" .
+
+ex:Jiaonan_Gr ex:hasCname "胶南(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210077" .
+
+ex:Jiapigou_Gr ex:hasCname "夹皮沟(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130018" .
+
+ex:Jiashangou_Fm ex:hasCname "夹山沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361043" .
+
+ex:Jiawendaban_Fm ex:hasCname "加温达坂组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371044" .
+
+ex:Jiayuan_Fm ex:hasCname "贾园组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230043" .
+
+ex:Jiayuqiao_Gr ex:hasCname "嘉玉桥群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239009" .
+
+ex:Jidanping_Fm ex:hasCname "鸡蛋坪组" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250002" .
+
+ex:Jidonglong_Fm ex:hasCname "吉东龙组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371043" .
+
+ex:Jiefangcun_Fm ex:hasCname "解放村组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373010" .
+
+ex:Jiehekou_Gr ex:hasCname "界河口群" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120004" .
+
+ex:Jiepai_Fm ex:hasCname "界牌(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220055" .
+
+ex:Jiepailiang_Fm ex:hasCname "界牌梁组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210078" .
+
+ex:Jifanggou_Gr ex:hasCname "机房沟(岩)群" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200003" .
+
+ex:Jijicao_Gr ex:hasCname "芨芨槽群" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370005" .
+
+ex:Jijitaizi_Fm ex:hasCname "芨芨台子组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364010" .
+
+ex:Jilin_Fm ex:hasCname "计林组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220053" .
+
+ex:Jilong_Fm ex:hasCname "基龙组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360003" .
+
+ex:Jimunai_Fm ex:hasCname "吉木乃组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362034" .
+
+ex:Jinfengling_Fm ex:hasCname "金凤岭(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130022" .
+
+ex:Jingangku_Fm ex:hasCname "金岗库组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130023" .
+
+ex:Jingeryu_Fm ex:hasCname "景儿峪组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231027" .
+
+ex:Jingjingzigou_Fm ex:hasCname "井井子沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372033" .
+
+ex:Jingshan_Gr ex:hasCname "荆山群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210079" .
+
+ex:Jingshe_Fm ex:hasCname "经畲组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365012" .
+
+ex:Jining_Gr ex:hasCname "济宁(岩)群",
+        "集宁(岩)群" ;
+    ex:hasGeotime "Ar3",
+        "Pt1" ;
+    ex:hasSerialNumber "130017",
+        "210074" .
+
+ex:Jinjiadong_Fm ex:hasCname "金家洞组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242015" .
+
+ex:Jinping_Fm ex:hasCname "锦屏(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220056" .
+
+ex:Jinshajiang_Ophiolite_Gr ex:hasCname "金沙江蛇绿岩群" ;
+    ex:hasGeotime "P-T1" ;
+    ex:hasSerialNumber "388011" .
+
+ex:Jinshanzhai_Fm ex:hasCname "金山寨组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240022" .
+
+ex:Jinshuikou_Gr ex:hasCname "金水口(岩)群" ;
+    ex:hasGeotime "Ar-Pt1" ;
+    ex:hasSerialNumber "150021" .
+
+ex:Jinta_Fm ex:hasCname "金塔组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371047" .
+
+ex:Jinxian_Gr ex:hasCname "金县群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240023" .
+
+ex:Jinyanshan_Fm ex:hasCname "金雁山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225022" .
+
+ex:Jinzhouying_Fm ex:hasCname "近周营组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130024" .
+
+ex:Jinzhuping_Fm ex:hasCname "金竹坪组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230045" .
+
+ex:Jipuria_Fm ex:hasCname "吉普日阿组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372028" .
+
+ex:Jitang_Gr ex:hasCname "吉塘群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239008" .
+
+ex:Jiubei_Fm ex:hasCname "九陂组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372034" .
+
+ex:Jiudingshan_Fm ex:hasCname "九顶山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231028" .
+
+ex:Jiujialu_Fm ex:hasCname "九架炉组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364012" .
+
+ex:Jiujuzi_Fm ex:hasCname "酒局子组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365013" .
+
+ex:Jiuliping_Fm ex:hasCname "九里坪组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357012" .
+
+ex:Jiuliqiao_Fm ex:hasCname "九里桥组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231029" .
+
+ex:Jiulong_Gr ex:hasCname "九龙群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220057" .
+
+ex:Jiupanying_Fm ex:hasCname "九盘营组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220058" .
+
+ex:Jiuqu_Fm ex:hasCname "九曲组" ;
+    ex:hasGeotime "AnR" ;
+    ex:hasSerialNumber "j170" .
+
+ex:Jiushidaoban_Fm ex:hasCname "九十道班组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371048" .
+
+ex:Jiusi_Fm ex:hasCname "旧司组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361045" .
+
+ex:Jiuxi_Fm ex:hasCname "九溪组" ;
+    ex:hasGeotime "2-3" ;
+    ex:hasSerialNumber "QH!!j172" .
+
+ex:Jiuxiao_Fm ex:hasCname "九小组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220059" .
+
+ex:Jixianggou_Fm ex:hasCname "吉祥沟组" ;
+    ex:hasGeotime "Pt3-∈1" ;
+    ex:hasSerialNumber "270004" .
+
+ex:Judian_Gr ex:hasCname "巨甸(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230046" .
+
+ex:Julideneng_Fm ex:hasCname "居里得能组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362036" .
+
+ex:Jutun_Fm ex:hasCname "巨屯组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210080" .
+
+ex:Kadabeng_Fm ex:hasCname "喀大崩组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371049" .
+
+ex:Kaer_Ophiolite_Fm ex:hasCname "卡尔蛇绿岩组" ;
+    ex:hasGeotime "P2-T1" ;
+    ex:hasSerialNumber "388005" .
+
+ex:Kaerwa_Fm ex:hasCname "喀尔瓦组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371050" .
+
+ex:Kagong_Gr ex:hasCname "卡贡群" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361046" .
+
+ex:Kaiertasi_Gr ex:hasCname "开尔塔斯群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231030" .
+
+ex:Kaijianqiao_Fm ex:hasCname "开建桥组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241022" .
+
+ex:Kailaketi_Gr ex:hasCname "凯拉克提群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240024" .
+
+ex:Kainangang_Fm ex:hasCname "开南岗(岩)组" ;
+    ex:hasGeotime "AnR" ;
+    ex:hasSerialNumber "k29 " .
+
+ex:Kaipaizileike_Fm ex:hasCname "开派兹雷克组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371053" .
+
+ex:Kaishantun_Fm ex:hasCname "开山屯组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372035" .
+
+ex:Kaixinling_Gr ex:hasCname "开心岭群" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365014" .
+
+ex:Kaiyuan_Gr ex:hasCname "开原(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220060" .
+
+ex:Kalaeerqisi_Gr ex:hasCname "喀喇额尔齐斯群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362038" .
+
+ex:Kalagang_Fm ex:hasCname "卡拉岗组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371051" .
+
+ex:Kalakeer_Fm ex:hasCname "卡拉克尔组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221031" .
+
+ex:Kalashayi_Fm ex:hasCname "卡拉沙依组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362039" .
+
+ex:Kalawuyi_Fm ex:hasCname "卡拉乌衣组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362040" .
+
+ex:Kalazhierjin_Fm ex:hasCname "喀拉治尔金组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362037" .
+
+ex:Kalundaer_Fm ex:hasCname "卡仑达尔组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371052" .
+
+ex:Kangding_Gr ex:hasCname "康定(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210081" .
+
+ex:Kangjia_Fm ex:hasCname "康家组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240025" .
+
+ex:Kangkelin_Fm ex:hasCname "康克林组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362041" .
+
+ex:Kangma_Fm ex:hasCname "康马组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371054" .
+
+ex:Kangzhuangzi_Fm ex:hasCname "康庄子组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221032" .
+
+ex:Kanji_Complex ex:hasCname "阚集杂岩" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130025" .
+
+ex:Kansu_Fm ex:hasCname "坎苏组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356011" .
+
+ex:Kawabulake_Gr ex:hasCname "卡瓦布拉克群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225023" .
+
+ex:Kawenggou_Fm ex:hasCname "卡翁沟组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373011" .
+
+ex:Kayingdi_Fm ex:hasCname "喀英迪组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242016" .
+
+ex:Kedao_Gr\(Fm\) ex:hasCname "柯岛群(组)" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371055" .
+
+ex:Keguoshan_Fm ex:hasCname "可果山组" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365030" .
+
+ex:Keguqinshan_Fm ex:hasCname "科古琴山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362042" .
+
+ex:Kekesu_Gr ex:hasCname "克克苏群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225024" .
+
+ex:Kelitake_Fm ex:hasCname "克里塔克组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361047" .
+
+ex:Kelixi_Fm ex:hasCname "克里西组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241023" .
+
+ex:Keluke_Fm ex:hasCname "克鲁克组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362043" .
+
+ex:Kesuer_Fm ex:hasCname "克素尔组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225025" .
+
+ex:Kezisuhumu_Fm ex:hasCname "克孜苏胡木组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242017" .
+
+ex:Kongkashankou_Fm ex:hasCname "空喀山口组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371056" .
+
+ex:Kongling_Gr ex:hasCname "崆岭(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220061" .
+
+ex:Kongqueping_Fm ex:hasCname "孔雀屏组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365015" .
+
+ex:Kongshuhe_Fm ex:hasCname "空树河组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362044" .
+
+ex:Kuandian_Gr ex:hasCname "宽甸群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210082" .
+
+ex:Kuangshishan_Fm ex:hasCname "矿石山组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220063" .
+
+ex:Kuanpingyan_Gr ex:hasCname "宽坪(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220062" .
+
+ex:Kuantan_Fm ex:hasCname "宽滩组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210083" .
+
+ex:Kubaimu_Fm ex:hasCname "枯柏木组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240026" .
+
+ex:Kuergan_Fm ex:hasCname "库尔干组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371057" .
+
+ex:Kuerkake_Fm ex:hasCname "库尔卡克组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242018" .
+
+ex:Kuerliang_Gr ex:hasCname "库尔良群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362045" .
+
+ex:Kuishan_Mem ex:hasCname "奎山段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372038" .
+
+ex:Kujiertai_Fm ex:hasCname "库吉尔台组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372036" .
+
+ex:Kulai_Fm ex:hasCname "库莱组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372037" .
+
+ex:Kuli_Fm ex:hasCname "库里组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230047" .
+
+ex:Kuluketage_Gr ex:hasCname "库鲁克塔格群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240027" .
+
+ex:Kulutielieketi_Fm ex:hasCname "库鲁铁列克提组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240028" .
+
+ex:Kumasu_Gr ex:hasCname "库马苏群" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357013" .
+
+ex:Kunkelaqi_Fm ex:hasCname "昆克拉契组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371059" .
+
+ex:Kunyang_Gr ex:hasCname "昆阳群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220064" .
+
+ex:Kupukuziman_Fm ex:hasCname "库普库兹满组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371058" .
+
+ex:Kushanhe_Fm ex:hasCname "库山河组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361048" .
+
+ex:Kushitai_Gr ex:hasCname "库什台群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231031" .
+
+ex:Kusongmuqieke_Gr ex:hasCname "库松木切克群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225026" .
+
+ex:Laba_Fm ex:hasCname "拉巴组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370006" .
+
+ex:Labuchari_Fm ex:hasCname "拉卜查日组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372039" .
+
+ex:Laga_Fm ex:hasCname "拉嘎组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362046" .
+
+ex:Laguigangri_Gr ex:hasCname "拉轨岗日群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239011" .
+
+ex:Laigu_Fm ex:hasCname "来姑组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365016" .
+
+ex:Lalagou_Fm ex:hasCname "拉拉沟(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230048" .
+
+ex:Lanbaoping_Fm ex:hasCname "烂包坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220065" .
+
+ex:Lancang_Gr ex:hasCname "澜沧群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230050" .
+
+ex:Langmuqiao_Fm ex:hasCname "浪木桥组" ;
+    ex:hasGeotime "Z1-C1" ;
+    ex:hasSerialNumber "249008" .
+
+ex:Langquan_Fm ex:hasCname "狼泉组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361049" .
+
+ex:Langshudi_Fm ex:hasCname "榔树底组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220066" .
+
+ex:Langyashan_Fm ex:hasCname "狼牙山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225027" .
+
+ex:Langzishan_Fm\(Fm\) ex:hasCname "浪子山(岩)组(组)" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210085" .
+
+ex:Lanhe_Gr ex:hasCname "岚河群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210084" .
+
+ex:Lankeng_Fm ex:hasCname "兰坑组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230049" .
+
+ex:Lanling_Fm ex:hasCname "兰陵组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231033" .
+
+ex:Lanniqing_Fm ex:hasCname "烂泥箐组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356013" .
+
+ex:Lantian_Fm ex:hasCname "蓝田组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242019" .
+
+ex:Laobao_Fm ex:hasCname "老堡组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242020" .
+
+ex:Laochanghe_Fm ex:hasCname "老厂河组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210086" .
+
+ex:Laohudong_Fm ex:hasCname "老虎洞组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364013" .
+
+ex:Laohutang_Fm ex:hasCname "老虎塘组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242021" .
+
+ex:Laohutou_Fm ex:hasCname "老虎头组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356014" .
+
+ex:Laoling_Gr ex:hasCname "老岭(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210087" .
+
+ex:Laoshan_Mem ex:hasCname "老山段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372040" .
+
+ex:Laotangou_Fm ex:hasCname "老潭沟组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130026" .
+
+ex:Laowangzhai_Gr ex:hasCname "老王寨群" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364014" .
+
+ex:Laowopu_Fm ex:hasCname "老窝铺组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372041" .
+
+ex:Laoyeshan_Fm ex:hasCname "老爷山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210088" .
+
+ex:Laoyinggou_Fm ex:hasCname "老营沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210089" .
+
+ex:Layileke_Fm ex:hasCname "拉依勒克组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231032" .
+
+ex:Lazhuhe_Fm ex:hasCname "拉竹河组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371060" .
+
+ex:Lazhulong_Fm ex:hasCname "拉竹龙组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356012" .
+
+ex:Lechangxia_Gr ex:hasCname "乐昌峡群" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242022" .
+
+ex:Leigutai_Fm ex:hasCname "擂鼓台组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357014" .
+
+ex:Leishenmiao_Fm ex:hasCname "雷神庙组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220067" .
+
+ex:Lemengou_Fm ex:hasCname "勒门沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371061" .
+
+ex:Lengjiaxi_Gr ex:hasCname "冷家溪群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220068" .
+
+ex:Lengzhuguan_Fm ex:hasCname "冷竹关(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210090" .
+
+ex:Leping_Fm ex:hasCname "乐平组" ;
+    ex:hasGeotime "P21-P12" ;
+    ex:hasSerialNumber "373019" .
+
+ex:Lianggou_Fm ex:hasCname "梁沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361051" .
+
+ex:Liangjiaocun_Fm ex:hasCname "两角村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210092" .
+
+ex:Liangjiehe_Fm ex:hasCname "两界河组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241027" .
+
+ex:Liangshan_Fm ex:hasCname "梁山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371062" .
+
+ex:Liangzichuan_Fm ex:hasCname "亮子川组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371063" .
+
+ex:Liantuo_Fm ex:hasCname "莲沱组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241026" .
+
+ex:Lianxian_Fm ex:hasCname "连县组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361050" .
+
+ex:Liaohe_Gr_\(Gr\) ex:hasCname "辽河群(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210093" .
+
+ex:Libagou_Metavolcanic_Mem ex:hasCname "篱笆沟变火山岩段" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150008" .
+
+ex:Licha_Fm ex:hasCname "里查组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362047" .
+
+ex:Lieguliu_Fm ex:hasCname "列古六组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241028" .
+
+ex:Lielonggou_Fm ex:hasCname "列龙沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372042" .
+
+ex:Lieryu_Fm ex:hasCname "里尔峪组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230051" .
+
+ex:Lieryu_Fm_\(Fm\) ex:hasCname "里尔峪(岩)组(组)" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210091" .
+
+ex:Liguo_Fm ex:hasCname "立果组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241025" .
+
+ex:Lijiapo_Fm ex:hasCname "黎家坡组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241024" .
+
+ex:Likou_Gr ex:hasCname "历口(岩)群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231034" .
+
+ex:Limahe_Fm ex:hasCname "力马河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220069" .
+
+ex:Lindi_Fm ex:hasCname "林地组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364015" .
+
+ex:Linghao_Fm ex:hasCname "领*7组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372044" .
+
+ex:Linjiaguanzhuang_Fm ex:hasCname "林家官庄(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120005" .
+
+ex:Linjiang_Fm ex:hasCname "临江组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242023" .
+
+ex:Linjiataizi_Fm ex:hasCname "林家台子组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210094" .
+
+ex:Linjiazhai_Fm ex:hasCname "林家寨(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130027" .
+
+ex:Linxi_Fm ex:hasCname "林西组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372043" .
+
+ex:Lishanqian_Fm ex:hasCname "里山千组" ;
+    ex:hasGeotime "1" ;
+    ex:hasSerialNumber "QH!!l112" .
+
+ex:Litang_Ophiolite_Gr ex:hasCname "理塘蛇绿岩群" ;
+    ex:hasGeotime "P-T" ;
+    ex:hasSerialNumber "388009" .
+
+ex:Liubatang_Fm ex:hasCname "柳坝塘组" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260004" .
+
+ex:Liuchapo_Fm ex:hasCname "留茶坡组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242024" .
+
+ex:Liudingsi_Sub-Gr ex:hasCname "刘定寺亚群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210095" .
+
+ex:Liuhang_Fm ex:hasCname "柳杭组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130028" .
+
+ex:Liuhongwan_Fm ex:hasCname "刘鸿湾组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231035" .
+
+ex:Liujiang_Fm ex:hasCname "榴江组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356016" .
+
+ex:Liujiatai_Fm ex:hasCname "刘家台组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210098" .
+
+ex:Liukeshu_Fm ex:hasCname "六棵树组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362049" .
+
+ex:Liulaobei_Fm ex:hasCname "刘老碑组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231036" .
+
+ex:Liuliahe_Fm ex:hasCname "刘家河组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210096" .
+
+ex:Liuling_Gr ex:hasCname "刘岭群" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356015" .
+
+ex:Liuping_Fm ex:hasCname "柳坪(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230052" .
+
+ex:Liushugou_Fm ex:hasCname "柳树沟组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362048" .
+
+ex:Liutang_Mem ex:hasCname "柳塘段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371064" .
+
+ex:Longba_Fm ex:hasCname "陇巴组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240029" .
+
+ex:Longbeixi_Fm ex:hasCname "龙北溪组" ;
+    ex:hasGeotime "Z1-2" ;
+    ex:hasSerialNumber "243002" .
+
+ex:Longchuan_Gr ex:hasCname "龙川(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220070" .
+
+ex:Longdongchuan_Fm ex:hasCname "龙洞川组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372045" .
+
+ex:Longdonghe_Fm ex:hasCname "龙洞河组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362050" .
+
+ex:Longgang_Gr ex:hasCname "龙岗(岩)群" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120006" .
+
+ex:Longge_Fm ex:hasCname "龙格组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371065" .
+
+ex:Longjiayuan_Fm ex:hasCname "龙家园组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225028" .
+
+ex:Longli_Fm ex:hasCname "隆里组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230053" .
+
+ex:Longquanguan_Gr ex:hasCname "龙泉关(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130029" .
+
+ex:Longshan_Fm ex:hasCname "龙山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231037" .
+
+ex:Longshan_Gr ex:hasCname "陇山(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220071" .
+
+ex:Longtan_Fm ex:hasCname "龙潭组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373012" .
+
+ex:Longtou_Fm ex:hasCname "龙头组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242025" .
+
+ex:Longyin_Fm ex:hasCname "龙吟组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362051" .
+
+ex:Longyu_Fm ex:hasCname "龙峪组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210099" .
+
+ex:Loujiaquan_Fm ex:hasCname "刘家泉(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210097" .
+
+ex:Louziba_Fm ex:hasCname "楼子坝组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241029" .
+
+ex:Luanchuan_Gr ex:hasCname "栾川群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230054" .
+
+ex:Luanshicun_Fm ex:hasCname "乱石村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210102" .
+
+ex:Luanshigou_Fm ex:hasCname "乱石沟组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220073" .
+
+ex:Luanshishan_Fm ex:hasCname "乱石山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231038" .
+
+ex:Luanxian_Gr ex:hasCname "滦县(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130033" .
+
+ex:Lucaogou_Fm ex:hasCname "芦草沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372046" .
+
+ex:Lucaotan_Fm ex:hasCname "芦草滩组" ;
+    ex:hasGeotime "D2-3" ;
+    ex:hasSerialNumber "356017" .
+
+ex:Lugezhuang_Fm ex:hasCname "禄格庄组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210101" .
+
+ex:Lujiaomiao_Fm ex:hasCname "鹿角庙组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130031" .
+
+ex:Lujiaping_Fm ex:hasCname "鲁家坪组" ;
+    ex:hasGeotime "Z2-∈1" ;
+    ex:hasSerialNumber "249010" .
+
+ex:Luliang_Fm ex:hasCname "陆良组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241030" .
+
+ex:Luobadui_Fm ex:hasCname "洛巴堆组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371066" .
+
+ex:Luobutong_Fm ex:hasCname "罗布通组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362052" .
+
+ex:Luocheng_Fm ex:hasCname "罗城组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361053" .
+
+ex:Luocun_Fm ex:hasCname "罗村组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231039" .
+
+ex:Luodong_Fm ex:hasCname "落凼(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210104" .
+
+ex:Luohandong_Fm ex:hasCname "罗汉洞组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210103" .
+
+ex:Luojiamen_Fm ex:hasCname "骆家门组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230056" .
+
+ex:Luokedong_Fm ex:hasCname "落可岽组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231040" .
+
+ex:Luokeng_Fm ex:hasCname "罗坑组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372047" .
+
+ex:Luomahu_Gr ex:hasCname "落马湖群" ;
+    ex:hasGeotime "Pt3-∈1" ;
+    ex:hasSerialNumber "270005" .
+
+ex:Luomazhou_Fm\(Lok_Ma_Chau_Fm\) ex:hasCname "落马洲组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360005" .
+
+ex:Luonan_Gr ex:hasCname "洛南群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220074" .
+
+ex:Luopingshan_Fm ex:hasCname "罗平山(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230055" .
+
+ex:Luoquan_Fm ex:hasCname "罗圈组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240030" .
+
+ex:Luotuobozi_Mem ex:hasCname "骆驼脖子段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372048" .
+
+ex:Luotuofeng_Fm ex:hasCname "骆驼峰组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130034" .
+
+ex:Luotuogou_Fm ex:hasCname "骆驼沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371067" .
+
+ex:Luotuopan_Fm ex:hasCname "骆驼畔组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221033" .
+
+ex:Luoxia_Fm ex:hasCname "罗罅组" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260005" .
+
+ex:Luoxue_Fm ex:hasCname "落雪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220075" .
+
+ex:Luoyukou_Fm ex:hasCname "洛峪口组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225029" .
+
+ex:Luquantun_Fm ex:hasCname "鹿圈屯组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360004" .
+
+ex:Lutiaoshan_Fm ex:hasCname "绿条山组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364016" .
+
+ex:Luzhai_Fm ex:hasCname "鹿寨组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361052" .
+
+ex:Luzhangzi_Fm ex:hasCname "鲁杖子组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210100" .
+
+ex:Luzhijiang_Fm ex:hasCname "绿汁江组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220072" .
+
+ex:Luzuitou_Fm ex:hasCname "芦嘴头组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130030" .
+
+<http://straKG.org/L¨eyang_Fm> ex:hasCname "略阳组" ;
+    ex:hasGeotime "D2,C1" ;
+    ex:hasSerialNumber "357002" .
+
+<http://straKG.org/L¨liang_Gr> ex:hasCname "吕梁群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130032" .
+
+ex:Macaoyuan_Gr ex:hasCname "马槽园群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230057" .
+
+ex:Machala_Gr ex:hasCname "马查拉群" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361054" .
+
+ex:Machanggou_Fm ex:hasCname "马厂沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221035" .
+
+ex:Madi_Fm ex:hasCname "麻地组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220076" .
+
+ex:Madiyi_Fm ex:hasCname "马底驿组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230058" .
+
+ex:Maerzheng_Fm ex:hasCname "马尔争组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371068" .
+
+ex:Mahuanggou_Fm ex:hasCname "麻黄沟组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240031" .
+
+ex:Majiahe_Fm ex:hasCname "马家河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220078" .
+
+ex:Majiajie_Gr ex:hasCname "马家街群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230059" .
+
+ex:Majianqiao_Fm ex:hasCname "马涧桥组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231041" .
+
+ex:Majiaoba_Fm ex:hasCname "马角坝组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361055" .
+
+ex:Majiatun_Fm ex:hasCname "马家屯组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240032" .
+
+ex:Malanbian_Fm ex:hasCname "马栏边组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361056" .
+
+ex:Manbing_Fm ex:hasCname "曼丙组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364017" .
+
+ex:Manganghe_Fm ex:hasCname "曼岗河组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210108" .
+
+ex:Mangcuo_Fm ex:hasCname "莽错组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371069" .
+
+ex:Manlai_Fm ex:hasCname "曼来组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230060" .
+
+ex:Manshan_Fm ex:hasCname "漫山组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120007" .
+
+ex:Maoba_Fm ex:hasCname "茅坝组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357015" .
+
+ex:Maokou_Fm ex:hasCname "茅口组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371070" .
+
+ex:Maozifeng_Fm ex:hasCname "帽子峰组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357016" .
+
+ex:Maping_Fm ex:hasCname "马平组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365017" .
+
+ex:Mashan_Fm ex:hasCname "马山组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240033" .
+
+ex:Mashan_Gr ex:hasCname "麻山(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210105" .
+
+ex:Mawozi_Fm ex:hasCname "麻窝子组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220077" .
+
+ex:Maxianshan_Gr ex:hasCname "马衔山(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210106" .
+
+ex:Mayi_Limestone_Bed ex:hasCname "蚂蚁石灰岩层" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362054" .
+
+ex:Mayihe_Fm ex:hasCname "蚂蚁河(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210107" .
+
+ex:Mayuan_Gr ex:hasCname "麻源群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239012" .
+
+ex:Mazhuangshan_Fm ex:hasCname "马庄山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362053" .
+
+ex:Mazishan_Fm ex:hasCname "麻子山组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130035" .
+
+ex:Meidang_Fm ex:hasCname "美党组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220079" .
+
+ex:Meijiashan_Gr ex:hasCname "梅家山(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230061" .
+
+ex:Meiyaogou_Fm ex:hasCname "煤窑沟组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230062" .
+
+ex:Menghong_Gr ex:hasCname "勐洪群" ;
+    ex:hasGeotime "D-C" ;
+    ex:hasSerialNumber "357032" .
+
+ex:Mengjiatun_Fm ex:hasCname "孟家屯(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130036" .
+
+ex:Mengjingshan_Fm ex:hasCname "勐井山组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230063" .
+
+ex:Mengla_Fm ex:hasCname "蒙拉组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372050" .
+
+ex:Mengliangyao_Meta-volcanic_Mem ex:hasCname "孟良窑变火山岩段" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150009" .
+
+ex:Mengtong_Gr ex:hasCname "勐统群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240034" .
+
+ex:Mengyueling_Fm ex:hasCname "孟月岭组" ;
+    ex:hasGeotime "∈1" ;
+    ex:hasSerialNumber "QH!!m129" .
+
+ex:Menligou_Fm ex:hasCname "门里沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372049" .
+
+ex:Miaojia_Fm ex:hasCname "苗家(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130037" .
+
+ex:Miaoling_Fm ex:hasCname "庙岭组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371071" .
+
+ex:Miaolintuokaitaoshan_Fm ex:hasCname "缪林托凯陶山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362055" .
+
+ex:Miaoposhan_Fm ex:hasCname "庙坡山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210109" .
+
+ex:Miaowan_Fm ex:hasCname "庙湾组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220080" .
+
+ex:Miaozigou_Fm ex:hasCname "庙子沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210110" .
+
+ex:Mingshan_Siliceous_Rock\(Fm\) ex:hasCname "鸣山硅质岩(组)" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371072" .
+
+ex:Mingshashan_Gr ex:hasCname "鸣沙山(岩)群" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150010" .
+
+ex:Mingyue_Fm ex:hasCname "明月组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241031" .
+
+ex:Minhe_Fm ex:hasCname "岷河组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364018" .
+
+ex:Miyun_Gr ex:hasCname "密云(岩)群" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140006" .
+
+ex:Moergenhe_Fm ex:hasCname "莫尔根河组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361057" .
+
+ex:Mohe_Fm ex:hasCname "磨河组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130038" .
+
+ex:Mohexisayi_Fm ex:hasCname "莫合西萨依组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221037" .
+
+ex:Mojiang_Gr ex:hasCname "墨江群" ;
+    ex:hasGeotime "D-S" ;
+    ex:hasSerialNumber "358001" .
+
+ex:Mopanshan_Fm ex:hasCname "磨磐山组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364019" .
+
+ex:Mosetong_Fm ex:hasCname "墨色同(岩)组" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250003" .
+
+ex:Moshigou_Fm ex:hasCname "磨石沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221036" .
+
+ex:Muchang_Fm ex:hasCname "木厂组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120008" .
+
+ex:Muhua_Fm ex:hasCname "睦化组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361058" .
+
+ex:Mukeng_Fm ex:hasCname "木坑(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220081" .
+
+ex:Mushanling_Fm ex:hasCname "木山岭组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130039" .
+
+ex:Mushirebuka_Gr ex:hasCname "木实热不卡群" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365031" .
+
+ex:Muyangtan_Fm ex:hasCname "牧羊滩组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231042" .
+
+ex:Muziduke_Fm ex:hasCname "木兹杜克组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362056" .
+
+ex:Muzisayi_Fm ex:hasCname "木孜萨依组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225030" .
+
+ex:Muzuo_Fm ex:hasCname "木座组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242026" .
+
+ex:Nalinkala_Fm ex:hasCname "那林卡拉组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361059" .
+
+ex:Nan_dan_Fm ex:hasCname "南丹组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365018" .
+
+ex:Nanbaishuihe_Fm ex:hasCname "南白水河组" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224003" .
+
+<http://straKG.org/Nancun_Fm〔1〕> ex:hasCname "南村组〔1〕" ;
+    ex:hasGeotime "T3" ;
+    ex:hasSerialNumber "QH!!n21 " .
+
+ex:Nandaxian_Fm ex:hasCname "南大贤组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130040" .
+
+ex:Nanduan_Fm ex:hasCname "南段组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364020" .
+
+ex:Nanfen_Fm ex:hasCname "南芬组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231043" .
+
+ex:Nangang_Fm ex:hasCname "南港组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371073" .
+
+ex:Nanguanling_Fm ex:hasCname "南关岭组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240035" .
+
+ex:Nanhao_Fm ex:hasCname "南好组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361061" .
+
+ex:Nanhuashan_Fm ex:hasCname "南华山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225031" .
+
+ex:Nanjing_Mem ex:hasCname "南井段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220082" .
+
+ex:Nankenghe_Fm ex:hasCname "南坑河组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230064" .
+
+ex:Nanlong_Fm ex:hasCname "南龙组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373013" .
+
+ex:Nanmuling_Fm ex:hasCname "南木岭组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230065" .
+
+ex:Nannihu_Fm ex:hasCname "南泥湖组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231044" .
+
+ex:Nanpihe_Fm ex:hasCname "南皮河组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372052" .
+
+ex:Nanqiao_Fm ex:hasCname "南桥组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220083" .
+
+ex:Nansainaertage_Fm ex:hasCname "南赛纳尔塔格组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220084" .
+
+ex:Nanshan_Fm ex:hasCname "南山组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239013" .
+
+ex:Nansi_Fm ex:hasCname "南寺组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210112" .
+
+ex:Nansizhang_Fm ex:hasCname "南寺掌组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210111" .
+
+ex:Nantai_Sub-Gr ex:hasCname "南台亚群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130041" .
+
+ex:Nantuo_Fm ex:hasCname "南沱组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241032" .
+
+ex:Nanyan_Fm ex:hasCname "南岩组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242027" .
+
+ex:Nanyangtian_Fm ex:hasCname "南秧田(岩)组" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200004" .
+
+ex:Nanzhuang_Fm ex:hasCname "南庄组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240036" .
+
+ex:Naobaogou_Fm ex:hasCname "脑包沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372053" .
+
+ex:Naqing_Fm ex:hasCname "那箐组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372051" .
+
+ex:Naxing_Fm ex:hasCname "纳兴组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361060" .
+
+ex:Nianqingtanggula_Gr ex:hasCname "念青唐古拉群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239014" .
+
+ex:Nielamu_Gr ex:hasCname "聂拉木群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239015" .
+
+ex:Ningduo_Gr ex:hasCname "宁多群" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260006" .
+
+ex:Niuguping_Fm ex:hasCname "牛牯坪组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230067" .
+
+ex:Niuhuan_Fm ex:hasCname "牛还(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130042" .
+
+ex:Niushan_Fm ex:hasCname "牛山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210113" .
+
+ex:Niutoushan_Fm ex:hasCname "牛头山组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241033" .
+
+ex:Niuwu_Fm ex:hasCname "牛屋(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220085" .
+
+ex:Niyuan_Fm ex:hasCname "倪园组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230066" .
+
+ex:Noucuo_Fm ex:hasCname "诺错组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361063" .
+
+ex:Nugusitubulake_Fm ex:hasCname "努古斯土布拉克组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361062" .
+
+ex:Nujiang_Fm ex:hasCname "怒江组" ;
+    ex:hasGeotime "AnD" ;
+    ex:hasSerialNumber "359002" .
+
+ex:Nuo_yinhe_Gr ex:hasCname "诺音河群" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372054" .
+
+ex:Nuoribagaribao_Fm ex:hasCname "诺日巴尕日保组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371074" .
+
+ex:Outangdi_Fm ex:hasCname "藕塘底组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362057" .
+
+ex:Paergangtage_Gr ex:hasCname "帕尔岗塔格群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231045" .
+
+ex:Pake_Fm ex:hasCname "帕可组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230068" .
+
+ex:Pandaoling_Fm ex:hasCname "盘道岭组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130043" .
+
+ex:Pandi_Fm ex:hasCname "泮地组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240037" .
+
+ex:Panjialing_Fm ex:hasCname "潘家岭(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249015" .
+
+ex:Panjin_Fm ex:hasCname "潘金(岩)组" ;
+    ex:hasGeotime "Z-Pz1" ;
+    ex:hasSerialNumber "249022" .
+
+ex:Paoquanchang_Fm ex:hasCname "跑泉厂组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130044" .
+
+ex:Pasi_Gr ex:hasCname "帕斯群" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361064" .
+
+ex:Peidi_Fm ex:hasCname "培地组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240038" .
+
+ex:Peijiazhuang_Fm ex:hasCname "裴家庄组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140007" .
+
+ex:Pengheshi_Fm ex:hasCname "朋河石组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240039" .
+
+ex:Pengjiu_Fm ex:hasCname "彭久组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372055" .
+
+ex:Penglai_Gr ex:hasCname "蓬莱群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240040" .
+
+ex:Picheng_Gr ex:hasCname "埤城(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220086" .
+
+ex:Pingbian_Gr ex:hasCname "屏边群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240041" .
+
+ex:Pingdingshan_Mem ex:hasCname "平顶山段" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373014" .
+
+ex:Pingdiquan_Fm ex:hasCname "平地泉组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372056" .
+
+ex:Pinglue_Fm ex:hasCname "平略组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230069" .
+
+ex:Pingpao_Fm ex:hasCname "平袍组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241034" .
+
+ex:Pingshui_Fm ex:hasCname "平水组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220087" .
+
+ex:Pingtouling_Fm ex:hasCname "平头岭组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130045" .
+
+ex:Pingtoushan_Fm ex:hasCname "平头山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225032" .
+
+ex:Pingwagou_Fm ex:hasCname "平洼沟组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231046" .
+
+ex:Pingyangzhen_Fm ex:hasCname "平阳镇组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371075" .
+
+ex:Pingyuan_Fm ex:hasCname "坪原组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220088" .
+
+ex:Pingzhang_Fm ex:hasCname "平掌组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361065" .
+
+ex:Piyaman_Fm ex:hasCname "皮牙曼组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362058" .
+
+ex:Piyuancun_Fm ex:hasCname "皮园村组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242028" .
+
+ex:Potou_Fm ex:hasCname "坡头组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210114" .
+
+ex:Poziquan_Fm ex:hasCname "坡子泉组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361066" .
+
+ex:Puhe_Complex ex:hasCname "浦河杂岩" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210115" .
+
+ex:Puling_Fm ex:hasCname "铺岭(岩)组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231047" .
+
+ex:Pumenqian_Fm ex:hasCname "铺门前组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361067" .
+
+ex:Pusige_Fm ex:hasCname "普司格组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371076" .
+
+ex:Putaoyu_Fm ex:hasCname "葡萄峪组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221038" .
+
+ex:Qiakemakelike_Fm ex:hasCname "恰克马克力克组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241035" .
+
+ex:Qianheishan_Fm ex:hasCname "前黑山组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361069" .
+
+ex:Qianluzigou_Gr ex:hasCname "铅炉子沟群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221039" .
+
+ex:Qianmazong_Fm ex:hasCname "前马宗组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210117" .
+
+ex:Qiantai_Fm ex:hasCname "前台(岩)组" ;
+    ex:hasGeotime "Ar1" ;
+    ex:hasSerialNumber "110002" .
+
+ex:Qiantou_Fm ex:hasCname "堑头(岩)组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239016" .
+
+ex:Qianxi_Gr ex:hasCname "迁西(岩)群" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120009" .
+
+ex:Qianxia_Fm ex:hasCname "前峡组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362062" .
+
+ex:Qiaoenbulake_Fm\(Gr\) ex:hasCname "巧恩布拉克组(群)" ;
+    ex:hasGeotime "Qn-Z" ;
+    ex:hasSerialNumber "234002" .
+
+ex:Qiaotou_Fm ex:hasCname "桥头组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240042" .
+
+ex:Qiaqihai_Fm ex:hasCname "恰其海组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362060" .
+
+ex:Qiatier_Gr ex:hasCname "恰提尔群" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362061" .
+
+ex:Qibaoshan_Fm ex:hasCname "七宝山组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372057" .
+
+ex:Qidongshan_Sub-Gr ex:hasCname "七东山亚群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210116" .
+
+ex:Qiergusitao_Gr ex:hasCname "奇尔古斯套群" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357017" .
+
+ex:Qigebulake_Fm ex:hasCname "奇格布拉克组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242029" .
+
+ex:Qijiagou_Fm ex:hasCname "祁家沟组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362059" .
+
+ex:Qijiaoshan_Fm ex:hasCname "七角山(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220089" .
+
+ex:Qing_longcun_Gr ex:hasCname "青龙村(岩)群" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239017" .
+
+ex:Qinggouzi_Fm ex:hasCname "青沟子组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242030" .
+
+ex:Qinglonghe_Gr ex:hasCname "青龙河群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210119" .
+
+ex:Qinglongshan_Fm ex:hasCname "青龙山组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220090" .
+
+ex:Qinglongtun_Fm ex:hasCname "青龙屯组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371079" .
+
+ex:Qingshicun_Fm ex:hasCname "青石村组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210120" .
+
+ex:Qingshipo_Fm ex:hasCname "青石坡组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221040" .
+
+ex:Qingshishan_Fm ex:hasCname "青石山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210121" .
+
+ex:Qingshuihe_Fm ex:hasCname "清水河(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210124" .
+
+ex:Qingshuijiang_Fm ex:hasCname "清水江组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230070" .
+
+ex:Qingtianxia_Fm ex:hasCname "青天峡组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362063" .
+
+ex:Qingyanggou_Fm ex:hasCname "青杨沟(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210122" .
+
+ex:Qingyangshuwan_Fm ex:hasCname "青杨树湾组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210123" .
+
+ex:Qingyuan_Gr ex:hasCname "清原(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130047" .
+
+ex:Qinling_Gr ex:hasCname "秦岭(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210118" .
+
+ex:Qinyingshan_Fm ex:hasCname "亲营山组" ;
+    ex:hasGeotime "AnD" ;
+    ex:hasSerialNumber "359003" .
+
+ex:Qiongyi_Fm ex:hasCname "邛依组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360006" .
+
+ex:Qipan_Fm ex:hasCname "棋盘组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371078" .
+
+ex:Qishan_Fm ex:hasCname "脐山组",
+        "齐山(岩)组" ;
+    ex:hasGeotime "Ar3",
+        "C1" ;
+    ex:hasSerialNumber "130046",
+        "361068" .
+
+ex:Qitadaban_Fm ex:hasCname "其它大坂组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231048" .
+
+ex:Qiuguanzhuang_Fm\(Fm\) ex:hasCname "邱官庄(岩)组(组)" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210125" .
+
+ex:Qiujiahe_Fm ex:hasCname "邱家河组" ;
+    ex:hasGeotime "Z-∈1" ;
+    ex:hasSerialNumber "249005" .
+
+ex:Qiujidonggou_Gr ex:hasCname "丘吉东沟群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231049" .
+
+ex:Qixia_Fm ex:hasCname "栖霞组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371077" .
+
+ex:Quandongshan_Fm ex:hasCname "泉东山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225033" .
+
+ex:Quanji_Gr ex:hasCname "全吉群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240043" .
+
+ex:Quanshang_Fm ex:hasCname "泉上组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371082" .
+
+ex:Quanwangtou_Mem ex:hasCname "泉旺头段" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362064" .
+
+ex:Quanzijie_Fm ex:hasCname "泉子街组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372058" .
+
+ex:Qubu_Fm ex:hasCname "曲布组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371080" .
+
+ex:Quburiga_Fm ex:hasCname "曲布日嘎组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370007" .
+
+ex:Qudi_Fm ex:hasCname "曲地组" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365032" .
+
+ex:Quga_Fm ex:hasCname "曲嘎组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371081" .
+
+ex:Qujiang_Fm ex:hasCname "曲江组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364021" .
+
+ex:Quxiang_Fm ex:hasCname "曲乡组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239018" .
+
+ex:Rejuechaka_Fm ex:hasCname "热觉茶卡组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372059" .
+
+ex:Rongzhong_Fm ex:hasCname "荣中组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370008" .
+
+ex:Rouqiecun_Gr ex:hasCname "肉切村群" ;
+    ex:hasGeotime "Z-∈" ;
+    ex:hasSerialNumber "249002" .
+
+ex:Ruyang_Gr ex:hasCname "汝阳群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221041" .
+
+ex:Sailajiazitage_Gr ex:hasCname "塞拉加兹塔格群" ;
+    ex:hasGeotime "Ch-Z" ;
+    ex:hasSerialNumber "224004" .
+
+ex:Sainaertage_Fm ex:hasCname "赛纳尔塔格组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231050" .
+
+ex:Saitula_Gr ex:hasCname "赛图拉群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221042" .
+
+ex:Saiyikuo_Fm ex:hasCname "赛伊阔组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241036" .
+
+ex:Sanchakou_Fm ex:hasCname "三岔口组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240044" .
+
+ex:Sanchuan_Fm ex:hasCname "三川组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231051" .
+
+ex:Sandaoqiao_Fm ex:hasCname "三道桥组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371083" .
+
+ex:Sangdalaihuduge_Fm ex:hasCname "桑达来呼都格组" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224006" .
+
+ex:Sangequan_Fm ex:hasCname "三个泉组" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224005" .
+
+ex:Sanggan_Complex ex:hasCname "桑干杂岩" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120010" .
+
+ex:Sanguanya_Fm ex:hasCname "三关垭组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362065" .
+
+ex:Sangzhutage_Gr ex:hasCname "桑株塔格群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225034" .
+
+ex:Sanhuashi_Gr ex:hasCname "三花石群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220091" .
+
+ex:Sanjiaotang_Fm ex:hasCname "三教堂组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221043" .
+
+ex:Sanleng_Limestone_Bed ex:hasCname "三棱石灰岩层" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362066" .
+
+ex:Sanmenjie_Fm ex:hasCname "三门街组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220092" .
+
+ex:Sanmentan_Fm ex:hasCname "三门滩组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357018" .
+
+ex:Sanmianjing_Fm ex:hasCname "三面井组" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370009" .
+
+ex:Sanxizhai_Fm ex:hasCname "三溪寨组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242031" .
+
+ex:Saozishan_Fm ex:hasCname "扫子山组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364022" .
+
+ex:Saxi_Fm ex:hasCname "洒西(岩)组" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200005" .
+
+ex:Selong_Gr ex:hasCname "色龙群" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370010" .
+
+ex:Seribayanaobao_Fm ex:hasCname "色日巴彦敖包组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357019" .
+
+ex:Shabahuang_Fm ex:hasCname "沙坝黄组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241037" .
+
+ex:Shachang_Fm ex:hasCname "沙厂组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130048" .
+
+ex:Shadawang_Fm ex:hasCname "沙大王组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361070" .
+
+ex:Shahu_Fm ex:hasCname "沙湖组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372060" .
+
+ex:Shajingzi_Fm ex:hasCname "沙井子组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372061" .
+
+ex:Shajinhe_Fm ex:hasCname "沙金河组" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200006" .
+
+ex:Shaleisaierke_Fm ex:hasCname "沙雷塞尔克组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362067" .
+
+ex:Shalong_Fm ex:hasCname "沙龙组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372062" .
+
+ex:Shamaershayi_Fm ex:hasCname "沙玛尔沙依组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362068" .
+
+ex:Shamu_Fm ex:hasCname "沙木组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372063" .
+
+ex:Shancaoyu_Fm ex:hasCname "山草峪组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130049" .
+
+ex:Shangbaochong_Fm ex:hasCname "尚保冲组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361076" .
+
+ex:Shangchao_Fm ex:hasCname "上朝组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364023" .
+
+ex:Shangdianfang_Fm ex:hasCname "上店坊(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210126" .
+
+ex:Shangjiadian_Fm ex:hasCname "尚家店组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242032" .
+
+ex:Shangliang_Fm ex:hasCname "上两组" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260007" .
+
+ex:Shangshi_Fm ex:hasCname "上施组" ;
+    ex:hasGeotime "(Qn)Pt3" ;
+    ex:hasSerialNumber "234001" .
+
+ex:Shangshu_Fm ex:hasCname "上墅组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230072" .
+
+ex:Shangsi_Fm ex:hasCname "上司组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361073" .
+
+ex:Shanguqi_Fm ex:hasCname "山谷旗组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371084" .
+
+ex:Shangxi_Gr ex:hasCname "上溪(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220093" .
+
+ex:Shangxikeng_Fm ex:hasCname "上西坑组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361074" .
+
+ex:Shangyueshan_Mem ex:hasCname "上月山段" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361075" .
+
+ex:Shanhuhe_Fm ex:hasCname "珊瑚河组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361072" .
+
+ex:Shanliang-Conglomerate_Fm ex:hasCname "山梁砾石组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361071" .
+
+ex:Shanxi_Fm ex:hasCname "山西组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365019" .
+
+ex:Shanxiuling_Fm ex:hasCname "山秀岭组" ;
+    ex:hasGeotime "C3" ;
+    ex:hasSerialNumber "363002" .
+
+ex:Shaohuotonggou_Fm ex:hasCname "烧火筒沟组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241038" .
+
+ex:Shashina_Fm ex:hasCname "沙士那组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362069" .
+
+ex:Shawanping_Fm ex:hasCname "沙湾坪组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230071" .
+
+ex:Shazijing_Fm ex:hasCname "沙子井组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225035" .
+
+ex:Shazipo_Fm ex:hasCname "沙子坡组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373015" .
+
+ex:Shelu\(Ophiolite\)_Fm ex:hasCname "蛇绿岩组" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250004" .
+
+ex:Shengligou_Fm ex:hasCname "胜利沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371085" .
+
+ex:Shengliquan_Fm ex:hasCname "胜利泉组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362070" .
+
+ex:Shengou_Fm ex:hasCname "深沟组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220094" .
+
+ex:Shengtang_Fm ex:hasCname "圣堂组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372064" .
+
+ex:Shenjiabaozi_Fm ex:hasCname "沈家堡子(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210127" .
+
+ex:Shenluogong_Fm ex:hasCname "申洛拱组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361077" .
+
+ex:Shennongjia_Gr ex:hasCname "神农架群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220095" .
+
+ex:Shenshan_Fm ex:hasCname "神山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231052" .
+
+ex:Shenxiannao_Fm ex:hasCname "神仙垴组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130050" .
+
+ex:Shenyan_Mem ex:hasCname "神岩段" ;
+    ex:hasGeotime "P2-3" ;
+    ex:hasSerialNumber "386001" .
+
+ex:Shibanhe_Fm ex:hasCname "石板河组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230073" .
+
+ex:Shibanshan_Fm ex:hasCname "石板山组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364024" .
+
+ex:Shicaogou_Fm ex:hasCname "石槽沟(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210128" .
+
+ex:Shicaohe_Fm ex:hasCname "石槽河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220096" .
+
+ex:Shideng_Gr ex:hasCname "石登群" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364025" .
+
+ex:Shidengzi_Fm ex:hasCname "石磴子组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361078" .
+
+ex:Shifodong_Fm ex:hasCname "石佛洞组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372067" .
+
+ex:Shigu_Gr ex:hasCname "石鼓群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240047" .
+
+ex:Shiguaizi_Fm ex:hasCname "石拐子组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361079" .
+
+ex:Shiguan_Fm ex:hasCname "石关组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372068" .
+
+ex:Shihezi_Fm ex:hasCname "石盒子组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373016" .
+
+ex:Shihuiding_Fm ex:hasCname "石灰顶组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240048" .
+
+ex:Shijia_Fm ex:hasCname "史家组",
+        "石夹组" ;
+    ex:hasGeotime "D3-C1",
+        "Qn" ;
+    ex:hasSerialNumber "231054",
+        "357020" .
+
+ex:Shijiaozui_Mem ex:hasCname "石角嘴段" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357021" .
+
+ex:Shilama_Fm ex:hasCname "石喇嘛组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362071" .
+
+ex:Shilidun_Fm ex:hasCname "十里墩组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372066" .
+
+ex:Shilu_Gr ex:hasCname "石碌群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231053" .
+
+ex:Shimen_Fm ex:hasCname "石门组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225036" .
+
+ex:Shimenkan_Fm ex:hasCname "石门坎组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242033" .
+
+ex:Shinagan_Gr ex:hasCname "什那干群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240046" .
+
+ex:Shipaihe_Fm ex:hasCname "石牌河组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130051" .
+
+ex:Shiqianfeng_Gr ex:hasCname "石千峰群" ;
+    ex:hasGeotime "P2-T1" ;
+    ex:hasSerialNumber "388006" .
+
+ex:Shiqiantan_Fm ex:hasCname "石钱滩组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362072" .
+
+ex:Shiqiaopu_Fm ex:hasCname "石桥铺组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230074" .
+
+ex:Shirenzigou_Fm ex:hasCname "石人子沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371086" .
+
+ex:Shisanlitai_Fm ex:hasCname "十三里台组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240045" .
+
+ex:Shishanguanzhuang_Fm ex:hasCname "石山官庄(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120012" .
+
+<http://straKG.org/Shitigou_Fm〔1〕> ex:hasCname "石梯沟组〔1〕" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130052" .
+
+ex:Shiwangzhuang_Fm ex:hasCname "石旺庄组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240049" .
+
+ex:Shiyaoao_Fm ex:hasCname "石窑凹组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210129" .
+
+ex:Shiyewan_Fm ex:hasCname "石叶湾组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373017" .
+
+ex:Shiyingliang_Fm ex:hasCname "石英梁组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240050" .
+
+ex:Shizishan_Mem ex:hasCname "狮子山段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372065" .
+
+ex:Shizui_Sub-Gr ex:hasCname "石咀亚群" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120011" .
+
+ex:Shizuizi_Fm ex:hasCname "石嘴子组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362073" .
+
+ex:Shoushangou_Fm ex:hasCname "寿山沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371087" .
+
+ex:Shouyangshan_Fm ex:hasCname "寿阳山组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130053" .
+
+ex:Shuangfang_Fm ex:hasCname "双房组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210130" .
+
+ex:Shuangputang_Fm ex:hasCname "双堡塘组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371089" .
+
+ex:Shuangqiaoshan_Gr ex:hasCname "双桥山群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220097" .
+
+ex:Shuangqiaozi_Fm ex:hasCname "双桥子组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371090" .
+
+ex:Shuangquan_Fm ex:hasCname "双泉组" ;
+    ex:hasGeotime "P-T" ;
+    ex:hasSerialNumber "388010" .
+
+ex:Shuangshanzi_Gr ex:hasCname "双山子群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210131" .
+
+ex:Shuangshitou_Fm ex:hasCname "双石头组" ;
+    ex:hasGeotime "C3" ;
+    ex:hasSerialNumber "363003" .
+
+ex:Shuangtaling_Fm ex:hasCname "双塔岭组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210132" .
+
+ex:Shuangxiwu_Gr ex:hasCname "双溪坞群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220098" .
+
+ex:Shuanmazhuang_Fm ex:hasCname "拴马桩组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362074" .
+
+ex:Shuhe_Fm ex:hasCname "树河组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371088" .
+
+ex:Shuichangjing_Fm ex:hasCname "水长阱组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362075" .
+
+ex:Shuijing_Fm ex:hasCname "水晶组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240051" .
+
+ex:Shuiquan_Fm ex:hasCname "水泉组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242034" .
+
+ex:Shuitaolin_Mem ex:hasCname "水桃林段" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210133" .
+
+ex:Shuixiakou_Fm ex:hasCname "水峡口组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371091" .
+
+ex:Shuiyingou_Metavolcanic_Mem ex:hasCname "水银沟变火山岩段" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150011" .
+
+ex:Shuiyuesi_Gr ex:hasCname "水月寺(岩)群" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150012" .
+
+ex:Shuizhutang_Fm ex:hasCname "水竹塘组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372069" .
+
+ex:Shujigou_Fm ex:hasCname "书记沟组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221044" .
+
+ex:Shujinggou_Fm ex:hasCname "竖井沟组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130054" .
+
+ex:Shundianhe_Fm ex:hasCname "顺甸河组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364027" .
+
+ex:Shuweimenke_Fm ex:hasCname "树维门科组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365020" .
+
+ex:Shuyatun_Gr ex:hasCname "树芽屯群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225037" .
+
+ex:Sibao_Gr ex:hasCname "四堡群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220099" .
+
+ex:Sichakou_Fm ex:hasCname "四岔口(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220100" .
+
+ex:Sidao_Conglomerate ex:hasCname "四道砾岩" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360007" .
+
+ex:Sidaohe_Fm ex:hasCname "四道河组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120013" .
+
+ex:Sidaolazihe_Fm ex:hasCname "四道砬子河组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120014" .
+
+ex:Sidazhai_Fm ex:hasCname "四大寨组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371092" .
+
+ex:Sidingshan_Fm ex:hasCname "四顶山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231056" .
+
+ex:Sijizhuang_Fm ex:hasCname "四集庄组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130055" .
+
+ex:Silu_Gr ex:hasCname "丝路群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231055" .
+
+ex:Simen_Fm ex:hasCname "寺门组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361080" .
+
+ex:Sinao_Mem ex:hasCname "寺垴段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220101" .
+
+ex:Sishilichangshan_Fm ex:hasCname "四十里长山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231057" .
+
+ex:Sitai_Fm ex:hasCname "四台组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225038" .
+
+ex:Sixiakou_Fm ex:hasCname "四峡口组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364028" .
+
+ex:Siyuan_Fm ex:hasCname "泗源(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210134" .
+
+ex:Sizhoushan_Fm ex:hasCname "泗洲山组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241039" .
+
+ex:Songji_Fm ex:hasCname "宋集(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210136" .
+
+ex:Songjiagou_Fm ex:hasCname "宋家沟组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225039" .
+
+ex:Songjiashan_Gr ex:hasCname "宋家山群" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150013" .
+
+ex:Songlinping_Fm ex:hasCname "松林坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220102" .
+
+ex:Songshan_Gr ex:hasCname "嵩山群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210135" .
+
+ex:Songshutou_Fm ex:hasCname "松树头组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231058" .
+
+ex:Songziyuan_Fm ex:hasCname "送子园组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220103" .
+
+ex:Sugaiteobulake_Fm ex:hasCname "苏盖特布拉克组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242035" .
+
+ex:Sujiaheyan_Gr ex:hasCname "苏家河(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220104" .
+
+ex:Sujiawan_Fm ex:hasCname "苏家湾(岩)组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241040" .
+
+ex:Sukuluoke_Fm ex:hasCname "苏库洛克组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231059" .
+
+ex:Sumalan_Fm ex:hasCname "苏玛兰组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231060" .
+
+ex:Sunjiagou_Fm ex:hasCname "孙家沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372070" .
+
+ex:Suoerkuli_Gr ex:hasCname "索尔库里群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231062" .
+
+ex:Sushui_Complex ex:hasCname "涑水杂岩" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150014" .
+
+ex:Susong_Gr ex:hasCname "宿松(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230075" .
+
+ex:Suxian_Gr ex:hasCname "宿县群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231061" .
+
+ex:Suxiong_Fm ex:hasCname "苏雄组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241041" .
+
+ex:Tacheng_Fm ex:hasCname "塔城组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240052" .
+
+ex:Tadong_Gr ex:hasCname "塔东(岩)群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230076" .
+
+ex:Taergang_Fm ex:hasCname "塔耳岗(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220105" .
+
+ex:Taerkate_Fm ex:hasCname "塔尔卡特组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240053" .
+
+ex:Taerlang_Fm ex:hasCname "塔尔朗组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372071" .
+
+ex:Tahaqi_Fm ex:hasCname "塔哈奇组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362076" .
+
+ex:Taihua_Complex ex:hasCname "太华杂岩" ;
+    ex:hasGeotime "Ar" ;
+    ex:hasSerialNumber "100005" .
+
+ex:Taihuai_Sub-Gr ex:hasCname "台怀亚群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130056" .
+
+ex:Tailegula_Fm ex:hasCname "太勒古拉组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362077" .
+
+ex:Tailuge_Bed ex:hasCname "太鲁阁层" ;
+    ex:hasGeotime "AnR" ;
+    ex:hasSerialNumber "t42 " .
+
+ex:Taishan_Gr ex:hasCname "泰山(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130057" .
+
+ex:Taiyuan_Fm ex:hasCname "太原组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365021" .
+
+ex:Taizi_Fm ex:hasCname "台子组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220106" .
+
+ex:Talisayi_Fm ex:hasCname "塔里萨依组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242036" .
+
+ex:Talong_Gr ex:hasCname "他龙群" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361081" .
+
+ex:Tamugang_Fm ex:hasCname "塔木岗组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361082" .
+
+ex:Tamuqi_Fm ex:hasCname "塔木契组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221045" .
+
+ex:Tamuqisayi_Fm ex:hasCname "塔姆其萨依组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372072" .
+
+ex:Tan_qian_Fm ex:hasCname "滩前组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371094" .
+
+ex:Tangbagou_Fm ex:hasCname "汤粑沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361083" .
+
+ex:Tangjiatun_Fm ex:hasCname "唐家屯组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362078" .
+
+ex:Tangjiazhuang_Fm ex:hasCname "唐家庄(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130058" .
+
+ex:Tangtang_Fm ex:hasCname "淌塘组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220107" .
+
+ex:Tantou_Gr ex:hasCname "潭头群" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231063" .
+
+ex:Taodonggou_Gr ex:hasCname "桃东沟群" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372073" .
+
+ex:Taojinhe_Fm ex:hasCname "淘金河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220109" .
+
+ex:Taowan_Fm ex:hasCname "陶湾组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230077" .
+
+ex:Taoxi_Fm ex:hasCname "桃溪(岩)组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239019" .
+
+ex:Taozhang_Mem ex:hasCname "套掌段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220110" .
+
+ex:Taoziba_Fm ex:hasCname "桃子坝组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220108" .
+
+ex:Tapi_Fm ex:hasCname "他披组" ;
+    ex:hasGeotime "C-P" ;
+    ex:hasSerialNumber "365033" .
+
+ex:Tashikula_Fm ex:hasCname "塔什库拉组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371093" .
+
+ex:Taxidaban_Gr ex:hasCname "塔昔达坂群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225040" .
+
+ex:Tegeinaiqikedaban_Fm ex:hasCname "特给乃奇克达坂组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362079" .
+
+ex:Tekesi_Gr ex:hasCname "特克斯群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221046" .
+
+ex:Teruiaiken_Fm ex:hasCname "特瑞爱肯组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241042" .
+
+ex:Tian_longsi_Mem ex:hasCname "天龙寺段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372074" .
+
+ex:Tianbaoshan_Fm ex:hasCname "天宝山组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362080" .
+
+ex:Tiandong_Fm ex:hasCname "田东组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230078" .
+
+ex:Tianeping_Fm ex:hasCname "天鹅坪组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360008" .
+
+ex:Tianjingping_Fm ex:hasCname "天井坪组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239020" .
+
+ex:Tianli_Fm ex:hasCname "田里(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220113" .
+
+ex:Tianpengnao_Fm ex:hasCname "天蓬垴组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210137" .
+
+ex:Tianshuihai_Gr ex:hasCname "甜水海群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221047" .
+
+ex:Tiantaishan_Fm ex:hasCname "天台山(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220112" .
+
+ex:Tianxiang_Fm ex:hasCname "天祥组" ;
+    ex:hasGeotime "AnR" ;
+    ex:hasSerialNumber "t120" .
+
+ex:Tianzidi_Fm ex:hasCname "天子地组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241043" .
+
+ex:Tie_maoshan_Fm ex:hasCname "铁帽山组" ;
+    ex:hasGeotime "Pt3-∈1" ;
+    ex:hasSerialNumber "270006" .
+
+ex:Tiechuanshan_Fm ex:hasCname "铁船山组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241044" .
+
+ex:Tieling_Fm ex:hasCname "铁岭组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225041" .
+
+ex:Tiemulike_Fm ex:hasCname "铁木里克组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372075" .
+
+ex:Tieshajie_Fm ex:hasCname "铁沙街(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220114" .
+
+ex:Tiesiao_Fm ex:hasCname "铁丝坳组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241045" .
+
+ex:Tietonggou_Fm ex:hasCname "铁铜沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210138" .
+
+ex:Tingmen_Fm ex:hasCname "听门组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241046" .
+
+ex:Tongao_Fm ex:hasCname "铜凹组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130059" .
+
+ex:Tongchang_Fm ex:hasCname "铜厂组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220115" .
+
+ex:Tongchangjie_Gr ex:hasCname "铜厂街(岩)群" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250005" .
+
+ex:Tongjiajie_Fm ex:hasCname "佟家街组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225042" .
+
+ex:Tongjiazhuang_Fm ex:hasCname "佟家庄组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240054" .
+
+ex:Tongkuangyu_Gr ex:hasCname "铜矿峪群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130060" .
+
+ex:Tonglinggou_Fm ex:hasCname "铜陵沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371096" .
+
+ex:Tongqigou_Fm ex:hasCname "通气沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361084" .
+
+ex:Tongtawan_Fm ex:hasCname "通塔湾组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230079" .
+
+ex:Tongtianhe_Ophiolite_Melange ex:hasCname "通天河蛇绿混杂岩" ;
+    ex:hasGeotime "C-T" ;
+    ex:hasSerialNumber "366001" .
+
+ex:Tongwei_Fm ex:hasCname "通渭组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371095" .
+
+ex:Tongziya_Mem ex:hasCname "童子崖段" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220116" .
+
+ex:Tongziyan_Fm ex:hasCname "童子岩组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371097" .
+
+ex:Toudaoqiao_Fm ex:hasCname "头道桥组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221048" .
+
+ex:Tuanshanzi_Fm ex:hasCname "团山子组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221049" .
+
+ex:Tuergendaban_Fm ex:hasCname "土尔根大坂组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360009" .
+
+ex:Tulasu_Fm ex:hasCname "吐拉苏组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240055" .
+
+ex:Tulugang_Fm ex:hasCname "吐露港组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371099" .
+
+ex:Tumen_Gr ex:hasCname "土门群" ;
+    ex:hasGeotime "Qn-Z" ;
+    ex:hasSerialNumber "234003" .
+
+ex:Tumenling_Fm ex:hasCname "土门岭组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371098" .
+
+ex:Tunlonggongba_Fm ex:hasCname "吞龙共巴组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365022" .
+
+ex:Tuntou_Mem ex:hasCname "屯头段" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362082" .
+
+ex:Tuoba_Fm ex:hasCname "妥坝组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372076" .
+
+ex:Tuokuzidaban_Gr ex:hasCname "托库孜达坂群" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361085" .
+
+ex:Tuolai_Gr ex:hasCname "托赖(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210139" .
+
+ex:Tuolainanshan_Gr ex:hasCname "托来南山群" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224007" .
+
+ex:Tupo_Fm ex:hasCname "土坡组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362081" .
+
+ex:Wagangxi_Fm ex:hasCname "瓦钢溪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220118" .
+
+ex:Waiguankeng_Fm ex:hasCname "外管坑组" ;
+    ex:hasGeotime "Z2-∈1" ;
+    ex:hasSerialNumber "249011" .
+
+ex:Waimaidi_Fm ex:hasCname "外麦地(岩)组" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200007" .
+
+ex:Wanbaogou_Gr ex:hasCname "万宝沟群" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260008" .
+
+ex:Wandonggou_Gr ex:hasCname "万洞沟群" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224008" .
+
+ex:Wanghu_Fm ex:hasCname "望狐组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230080" .
+
+ex:Wanghucun_Fm ex:hasCname "王胡村组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361086" .
+
+ex:Wangjiadian_Fm ex:hasCname "王家店组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361087" .
+
+ex:Wangjialeng_Fm ex:hasCname "王家楞组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357022" .
+
+ex:Wangjiatan_Shale_Mem ex:hasCname "王家坦页岩段" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240057" .
+
+ex:Wangpanli_Mem ex:hasCname "王潘里段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372078" .
+
+ex:Wangpo_Mem ex:hasCname "王坡段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372079" .
+
+ex:Wangquankou_Fm ex:hasCname "王全口组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231064" .
+
+ex:Wangshan_Fm ex:hasCname "望山组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230081" .
+
+ex:Wanlong_Fm ex:hasCname "万隆组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240056" .
+
+ex:Wanshan_Mem ex:hasCname "万山段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372077" .
+
+ex:Wanshoushan_Fm ex:hasCname "万寿山组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360010" .
+
+ex:Wawuwan_Fm ex:hasCname "瓦屋湾组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371100" .
+
+ex:Waxi_Fm ex:hasCname "洼溪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220117" .
+
+ex:Waziyu_Fm ex:hasCname "瓦子峪(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130061" .
+
+ex:Weiji_Fm ex:hasCname "魏集组" ;
+    ex:hasGeotime "Pt3(Qn)" ;
+    ex:hasSerialNumber "270001" .
+
+ex:Weijiagou_Gr ex:hasCname "魏家沟(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220119" .
+
+ex:Weining_Fm ex:hasCname "威宁组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364029" .
+
+ex:Weishanhu_Fm ex:hasCname "围山湖组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371101" .
+
+ex:Weiziyu_Fm ex:hasCname "苇子峪组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140008" .
+
+ex:Wen_changshan_Gr ex:hasCname "文常山群" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242037" .
+
+ex:Wenbishan_Fm ex:hasCname "文笔山组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371102" .
+
+ex:Wenduermiao_Gr ex:hasCname "温都尔庙群" ;
+    ex:hasGeotime "Ch-Jx" ;
+    ex:hasSerialNumber "224009" .
+
+ex:Wengjialing_Fm ex:hasCname "翁家岭组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231065" .
+
+ex:Wenshan_Fm ex:hasCname "纹山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210141" .
+
+ex:Wenshuihe_Fm ex:hasCname "温水河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220120" .
+
+ex:Wentong_Fm ex:hasCname "文通组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220121" .
+
+ex:Wenxi_Fm ex:hasCname "文溪组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130062" .
+
+ex:Wenyu_Fm ex:hasCname "温峪组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210140" .
+
+ex:Woguadi_Fm ex:hasCname "窝瓜地组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362083" .
+
+ex:Wolegen_Gr ex:hasCname "倭勒根群" ;
+    ex:hasGeotime "Pt3-∈1" ;
+    ex:hasSerialNumber "270007" .
+
+ex:Woniusi_Fm ex:hasCname "卧牛寺组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362084" .
+
+ex:Wudang_Gr ex:hasCname "武当(岩)群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220122" .
+
+ex:Wudaoling_Fm ex:hasCname "五道岭组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372084" .
+
+ex:Wudukeng_Fm ex:hasCname "乌都坑组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210142" .
+
+ex:Wudun_Fm ex:hasCname "吴墩组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241047" .
+
+ex:Wuerhe_Gr ex:hasCname "乌尔禾群" ;
+    ex:hasGeotime "P" ;
+    ex:hasSerialNumber "370011" .
+
+ex:Wufoshan_Gr ex:hasCname "五佛山群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221050" .
+
+ex:Wugeshan_Fm ex:hasCname "五个山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231066" .
+
+ex:Wugongkou_Fm ex:hasCname "蜈蚣口组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240059" .
+
+ex:Wuhe_Complex ex:hasCname "五河杂岩" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120015" .
+
+ex:Wujiagou_Fm\(Fm\) ex:hasCname "吴家沟(岩)组(组)" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210143" .
+
+ex:Wujiaping_Fm ex:hasCname "吴家坪组",
+        "武家坪组" ;
+    ex:hasGeotime "P2",
+        "Pt1" ;
+    ex:hasSerialNumber "210146",
+        "372082" .
+
+ex:Wulabo_Fm ex:hasCname "乌拉泊组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372080" .
+
+ex:Wulang_Fm ex:hasCname "乌郎组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371103" .
+
+ex:Wulashan_Gr ex:hasCname "乌拉山(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130063" .
+
+ex:Wuli_Gr ex:hasCname "乌丽群" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372081" .
+
+ex:Wumaqing_Fm ex:hasCname "五马箐(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210144" .
+
+ex:Wumishan_Fm ex:hasCname "雾迷山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225043" .
+
+ex:Wuqiangxi_Fm ex:hasCname "五强溪组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230083" .
+
+ex:Wuqingna_Fm ex:hasCname "乌青纳组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361088" .
+
+ex:Wushan_Fm ex:hasCname "伍山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231067" .
+
+ex:Wushinanshan_Gr ex:hasCname "乌什南山群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240058" .
+
+ex:Wutai_Gr ex:hasCname "五台群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130064" .
+
+ex:Wutong_Fm\(Gr\) ex:hasCname "五通组(群)" ;
+    ex:hasGeotime "D-C" ;
+    ex:hasSerialNumber "357030" .
+
+ex:Wutonggou_Fm ex:hasCname "梧桐沟组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372083" .
+
+ex:Wutongwozi_Fm ex:hasCname "梧桐窝子组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362085" .
+
+ex:Wuxingshan_Gr ex:hasCname "五行山群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240060" .
+
+ex:Wuxue_Fm ex:hasCname "武穴组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371104" .
+
+ex:Wuye_Fm ex:hasCname "乌叶组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230082" .
+
+ex:Wuzhiling_Fm ex:hasCname "五指岭组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210145" .
+
+ex:Xiabaicheng_Fm ex:hasCname "下白城组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210150" .
+
+ex:Xiabaiyao_Fm ex:hasCname "下白窑(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120016" .
+
+ex:Xiacun_Gr ex:hasCname "下村(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210151" .
+
+ex:Xiafang_Fm ex:hasCname "下坊组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241049" .
+
+ex:Xiahe_Gr ex:hasCname "峡河(岩)群" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260009" .
+
+ex:Xiahetu_Fm ex:hasCname "下河图组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220123" .
+
+ex:Xiaji_Fm ex:hasCname "下集组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361090" .
+
+ex:Xiajialing_Fm ex:hasCname "下加岭组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364031" .
+
+ex:Xiajiang_Gr ex:hasCname "下江群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230085" .
+
+ex:Xiakasha_Fm ex:hasCname "下喀沙组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231070" .
+
+ex:Xiala_Fm ex:hasCname "下拉组" ;
+    ex:hasGeotime "P1-2" ;
+    ex:hasSerialNumber "373018" .
+
+ex:Xialong_Fm ex:hasCname "下龙组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242039" .
+
+ex:Xiamaling_Fm ex:hasCname "下马岭组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231071" .
+
+ex:Xiamidi_Fm ex:hasCname "下密地组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362086" .
+
+ex:Xiang_longka_Fm ex:hasCname "相龙卡组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240062" .
+
+ex:Xiangbai_Fm ex:hasCname "祥摆组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361092" .
+
+ex:Xianggu_Fm ex:hasCname "响姑组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360012" .
+
+ex:Xiangkuang_Fm ex:hasCname "香夼组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240063" .
+
+ex:Xiangshan_Fm ex:hasCname "香山组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361091" .
+
+ex:Xiangshan_Mem ex:hasCname "祥山段" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210152" .
+
+ex:Xiangyunzhai_Fm ex:hasCname "祥云寨(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249017" .
+
+ex:Xianrenchong_Fm ex:hasCname "仙人冲(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249016" .
+
+ex:Xianrendong_Fm ex:hasCname "仙人洞组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371106" .
+
+ex:Xiao_shansayi_Fm ex:hasCname "晓山萨依组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372087" .
+
+ex:Xiaoanli_Fm ex:hasCname "小安里组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231072" .
+
+ex:Xiaofengkou_Mem ex:hasCname "小风口段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371107" .
+
+ex:Xiaofuhe_Mem ex:hasCname "孝妇河段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372088" .
+
+ex:Xiaohaizi_Fm ex:hasCname "小海子组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362087" .
+
+ex:Xiaohekou_Fm ex:hasCname "小河口组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220125" .
+
+ex:Xiaohu_Mem ex:hasCname "小湖段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371108" .
+
+ex:Xiaohuangtian_Fm ex:hasCname "小荒田(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210153" .
+
+ex:Xiaojiahe_Fm ex:hasCname "肖家河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220129" .
+
+ex:Xiaojiangbian_Fm ex:hasCname "小江边组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371109" .
+
+ex:Xiaolaihe_Fm ex:hasCname "小莱河(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120017" .
+
+ex:Xiaolangfengguan_Fm ex:hasCname "小浪风关组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364032" .
+
+ex:Xiaomiao_Fm ex:hasCname "小庙组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221051" .
+
+ex:Xiaomuping_Fm ex:hasCname "小木坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220126" .
+
+ex:Xiaonanping_Fm ex:hasCname "小南坪(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120018" .
+
+ex:Xiaoping_Fm ex:hasCname "小坪组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220127" .
+
+ex:Xiaoquandaban_Fm ex:hasCname "小泉达坂组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231073" .
+
+ex:Xiaorequanzi_Fm ex:hasCname "小热泉子组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361093" .
+
+ex:Xiaosong_Fm ex:hasCname "小宋组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210154" .
+
+ex:Xiaotazigou_Fm ex:hasCname "小塔子沟(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130066" .
+
+ex:Xiaotikanlike_Fm ex:hasCname "小提坎立克组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371110" .
+
+ex:Xiaoyangjie_Fm ex:hasCname "小羊街(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210155" .
+
+ex:Xiaoyicun_Fm ex:hasCname "小以村(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220128" .
+
+ex:Xiaoyu_Limestone_Bed ex:hasCname "小峪石灰岩层" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362088" .
+
+ex:Xiaqiao_Mem ex:hasCname "夏桥段" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371105" .
+
+ex:Xiarongqu_Fm ex:hasCname "瞎绒曲组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239021" .
+
+ex:Xiashan_Gr ex:hasCname "峡山群" ;
+    ex:hasGeotime "D2,C1" ;
+    ex:hasSerialNumber "357003" .
+
+ex:Xiawuzhai_Fm ex:hasCname "下吴宅组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220124" .
+
+ex:Xiayacun_Fm ex:hasCname "夏牙村组" ;
+    ex:hasGeotime "P2-T1" ;
+    ex:hasSerialNumber "388007" .
+
+ex:Xiayao_Fm ex:hasCname "下窑组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372086" .
+
+ex:Xibeikulasi_Fm ex:hasCname "希贝库拉斯组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361089" .
+
+ex:Xichangjing_Gr ex:hasCname "洗肠井群" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240061" .
+
+ex:Xichong_Fm ex:hasCname "西冲组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241048" .
+
+ex:Xicun_Fm ex:hasCname "西村(岩)组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231068" .
+
+ex:Xidagou_Fm ex:hasCname "西大沟组" ;
+    ex:hasGeotime "P1-T2" ;
+    ex:hasSerialNumber "388001" .
+
+ex:Xiejingsi_Fm ex:hasCname "写经寺组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357023" .
+
+ex:Xiewan_Fm ex:hasCname "谢湾(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220130" .
+
+ex:Xifangshan_Fm ex:hasCname "西方山组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231069" .
+
+ex:Xifengshan_Fm ex:hasCname "西峰山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210147" .
+
+ex:Xifengsi_Fm ex:hasCname "西峰寺组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242038" .
+
+ex:Xigou_Fm ex:hasCname "西沟组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364030" .
+
+ex:Xihe_Gr ex:hasCname "细河群" ;
+    ex:hasGeotime "Qn-Z" ;
+    ex:hasSerialNumber "234004" .
+
+ex:Xiheli_Fm ex:hasCname "西河里组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210148" .
+
+ex:Xihuashan_Fm ex:hasCname "西华山组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225044" .
+
+ex:Xijinggou_Fm ex:hasCname "西井沟组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130065" .
+
+ex:Xikou_Fm ex:hasCname "西口组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372085" .
+
+ex:Xileng_Fm ex:hasCname "西冷(岩)组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230084" .
+
+ex:Ximeng_Gr ex:hasCname "西盟(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210149" .
+
+ex:Ximenyazi_Fm ex:hasCname "西门崖子组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360011" .
+
+ex:Xinan_Fm ex:hasCname "新安组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220131" .
+
+ex:Xindonggou_Mem ex:hasCname "新洞沟段" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362089" .
+
+ex:Xingeer_Fm ex:hasCname "辛格尔组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210156" .
+
+ex:Xingeertage_Fm ex:hasCname "辛格尔塔格组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231074" .
+
+ex:Xingfuyuan_Fm ex:hasCname "幸福园组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210159" .
+
+ex:Xinghongpu_Fm ex:hasCname "星红铺组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357024" .
+
+ex:Xinglongshan_Gr ex:hasCname "兴隆山群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221052" .
+
+ex:Xingmincun_Fm ex:hasCname "兴民村组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240064" .
+
+ex:Xingzi_Gr ex:hasCname "星子(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210158" .
+
+ex:Xinkailing_Gr ex:hasCname "新开岭群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230086" .
+
+ex:Xinnongcun_Fm ex:hasCname "新农村(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210157" .
+
+ex:Xinxing_Fm ex:hasCname "新兴组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230087" .
+
+ex:Xinyigenhe_Fm ex:hasCname "新伊根河组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362090" .
+
+ex:Xinzhuang_Fm ex:hasCname "辛庄组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130067" .
+
+ex:Xionger_Gr ex:hasCname "熊耳群" ;
+    ex:hasGeotime "Ch(Pt1-2)" ;
+    ex:hasSerialNumber "224011" .
+
+ex:Xiuning_Fm ex:hasCname "休宁组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241050" .
+
+ex:Xiushui_Fm ex:hasCname "修水组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220132" .
+
+ex:Xixiang_Gr ex:hasCname "西乡群" ;
+    ex:hasGeotime "Qn-Z1" ;
+    ex:hasSerialNumber "234006" .
+
+ex:Xiyanghe_Gr ex:hasCname "西阳河群" ;
+    ex:hasGeotime "Pt2(Pt1)" ;
+    ex:hasSerialNumber "250008" .
+
+ex:Xuan_Fm ex:hasCname "徐岸组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220133" .
+
+ex:Xuanwei_Fm ex:hasCname "宣威组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372089" .
+
+ex:Xucun_Mem ex:hasCname "徐村段" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210160" .
+
+ex:Xuebaoding_Fm ex:hasCname "雪宝顶组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357025" .
+
+ex:Xuelongshan_Fm ex:hasCname "雪龙山(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210161" .
+
+ex:Xunjiansi_Fm ex:hasCname "巡检司组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225045" .
+
+ex:Xushan_Fm ex:hasCname "许山组" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250006" .
+
+ex:Ya_zhou_Fm\(Central_Island_Fm\) ex:hasCname "丫洲组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372090" .
+
+ex:Yajiu_Fm ex:hasCname "雅久组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240065" .
+
+ex:Yalaguzi_Fm ex:hasCname "牙拉古孜组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241051" .
+
+ex:Yali_Fm ex:hasCname "亚里组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357026" .
+
+ex:Yamansu_Fm ex:hasCname "雅满苏组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361094" .
+
+ex:Yanbian_Gr ex:hasCname "盐边群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220135" .
+
+ex:Yanfang_Fm ex:hasCname "炎方组" ;
+    ex:hasGeotime "D-C" ;
+    ex:hasSerialNumber "357031" .
+
+ex:Yangba_Fm ex:hasCname "阳坝(岩)组" ;
+    ex:hasGeotime "Ch(Pt2-3)" ;
+    ex:hasSerialNumber "224012" .
+
+ex:Yangbazhai_Fm ex:hasCname "羊八寨组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372091" .
+
+ex:Yangbulake_Fm ex:hasCname "杨布拉克组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362091" .
+
+ex:Yanggang_Fm ex:hasCname "杨岗组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372092" .
+
+ex:Yanghu_Fm ex:hasCname "洋湖组" ;
+    ex:hasGeotime "D3,C1" ;
+    ex:hasSerialNumber "357005" .
+
+ex:Yanghugou_Fm ex:hasCname "羊虎沟组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364033" .
+
+ex:Yangjiadan_Fm ex:hasCname "杨家店组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120019" .
+
+ex:Yangjiaqiao_Gr ex:hasCname "杨家桥群" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241052" .
+
+ex:Yangjiayuan_Fm ex:hasCname "杨家源组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361095" .
+
+ex:Yangjibulake_Gr ex:hasCname "杨吉布拉克群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221054" .
+
+ex:Yangmu_Fm ex:hasCname "杨木组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230090" .
+
+ex:Yangmugang_Fm ex:hasCname "杨木岗组" ;
+    ex:hasGeotime "C3,P1" ;
+    ex:hasSerialNumber "365025" .
+
+ex:Yangping_Fm ex:hasCname "杨坪(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220136" .
+
+ex:Yangpingshang_Fm ex:hasCname "阳坪上组" ;
+    ex:hasGeotime "Ar2-3" ;
+    ex:hasSerialNumber "140009" .
+
+ex:Yangpo_Fm ex:hasCname "羊坡组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240066" .
+
+ex:Yangshan_Fm ex:hasCname "杨山组",
+        "羊山组" ;
+    ex:hasGeotime "C-P1",
+        "C1" ;
+    ex:hasSerialNumber "361096",
+        "365034" .
+
+ex:Yangshitun_Fm ex:hasCname "杨士屯组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225046" .
+
+ex:Yangtianba_Fm ex:hasCname "秧田坝(岩)组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221053" .
+
+ex:Yangxiaozhuang_Fm ex:hasCname "杨小庄组" ;
+    ex:hasGeotime "C3" ;
+    ex:hasSerialNumber "363004" .
+
+ex:Yangxin_Gr\(Fm\) ex:hasCname "阳新群(组)" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371112" .
+
+ex:Yangzhuang_Fm ex:hasCname "杨庄组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225047" .
+
+ex:Yanjing_Gr ex:hasCname "盐井群" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242041" .
+
+ex:Yanlinggou_Fm ex:hasCname "雁岭沟(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210162" .
+
+ex:Yanlingguan_Fm ex:hasCname "雁翎关组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130068" .
+
+ex:Yanmenzhai_Fm ex:hasCname "岩门寨组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230088" .
+
+ex:Yanshan_Fm ex:hasCname "岩山组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220134" .
+
+ex:Yantou_Fm ex:hasCname "岩头组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371111" .
+
+ex:Yanwangdian_Fm ex:hasCname "阎王殿组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230089" .
+
+ex:Yanya_Fm ex:hasCname "岩雅组" ;
+    ex:hasGeotime "AnD" ;
+    ex:hasSerialNumber "359004" .
+
+ex:Yao_yunling_Fm ex:hasCname "尧云岭组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361097" .
+
+ex:Yaodeng_Fm ex:hasCname "尧等组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220137" .
+
+ex:Yaodonggou_Fm ex:hasCname "窑洞沟组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231077" .
+
+ex:Yaogou_Gr ex:hasCname "窑沟群" ;
+    ex:hasGeotime "P2-T2" ;
+    ex:hasSerialNumber "388008" .
+
+ex:Yaolinghe_Fm ex:hasCname "耀岭河组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231078" .
+
+ex:Yaomoliang_Fm ex:hasCname "妖魔梁组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362092" .
+
+ex:Yaoweitaichong_Fm ex:hasCname "腰未台冲组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231076" .
+
+ex:Yaoyingzhai_Fm ex:hasCname "姚营寨组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220138" .
+
+ex:Yaside_Fm ex:hasCname "雅斯德组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242040" .
+
+ex:Ye_yungou_Fm ex:hasCname "野云沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361098" .
+
+ex:Yejiatang_Fm ex:hasCname "叶家塘组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361099" .
+
+ex:Yejishan_Gr ex:hasCname "野鸡山群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210163" .
+
+ex:Yemahe_Fm ex:hasCname "野马河组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220139" .
+
+ex:Yemajie_Fm ex:hasCname "野马街组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231079" .
+
+ex:Yesanggang_Fm ex:hasCname "叶桑岗组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371113" .
+
+ex:Yetou_Fm ex:hasCname "野头组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210164" .
+
+ex:Yifeng_Fm ex:hasCname "宜丰(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220140" .
+
+ex:Yimianpo_Gr ex:hasCname "一面坡群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230091" .
+
+ex:Yingchengzi_Fm ex:hasCname "营城子组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240068" .
+
+ex:Yingebulake_Fm ex:hasCname "因格布拉克组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362094" .
+
+ex:Yingou_Gr\(Fm\) ex:hasCname "阴沟群(组)" ;
+    ex:hasGeotime "1" ;
+    ex:hasSerialNumber "QH!!y157" .
+
+ex:Yingtang_Fm ex:hasCname "英塘组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361100" .
+
+ex:Yingtaoyuan_Fm ex:hasCname "樱桃园(岩)组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130069" .
+
+ex:Yingwodong_Fm ex:hasCname "鹰窝洞组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220142" .
+
+ex:Yingyangguan_Fm ex:hasCname "鹰扬关组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241053" .
+
+ex:Yinmin_Fm ex:hasCname "因民组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220141" .
+
+ex:Yinping_Fm ex:hasCname "阴平组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239022" .
+
+ex:Yintun_Fm ex:hasCname "殷屯组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240067" .
+
+ex:Yinyugou_Gr ex:hasCname "银鱼沟群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210165" .
+
+ex:Yishijilike_Fm ex:hasCname "伊什基里克组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362093" .
+
+ex:Yishui_Gr ex:hasCname "沂水(岩)群" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120020" .
+
+ex:Yiwagou_Fm ex:hasCname "益哇沟组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357027" .
+
+ex:Yongning_Fm ex:hasCname "永宁组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231080" .
+
+ex:Yongzhu_Fm ex:hasCname "永珠组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361101" .
+
+ex:Youermeinake_Fm ex:hasCname "尤尔美那克组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241054" .
+
+ex:Yousuobao_Fm ex:hasCname "右所堡(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120021" .
+
+ex:Youxi_Fm ex:hasCname "酉西组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239023" .
+
+ex:Yu_jiagou_Fm ex:hasCname "余家沟组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220143" .
+
+ex:Yuan_ziping_Fm ex:hasCname "园子坪组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120023" .
+
+ex:Yuanhe_Fm ex:hasCname "园河组" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225048" .
+
+ex:Yuanjiacun_Fm ex:hasCname "袁家村组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130072" .
+
+ex:Yuanjiagou_Fm ex:hasCname "袁家沟组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364034" .
+
+ex:Yuanlang_Fm\(Yuen_Long_Fm\) ex:hasCname "元朗组" ;
+    ex:hasGeotime "C" ;
+    ex:hasSerialNumber "360013" .
+
+ex:Yuantoushan_Fm ex:hasCname "圆头山组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130071" .
+
+ex:Yuanzaoshan_Gr ex:hasCname "圆藻山群" ;
+    ex:hasGeotime "Jx" ;
+    ex:hasSerialNumber "225049" .
+
+ex:Yubeigou_Fm ex:hasCname "于北沟组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231081" .
+
+ex:Yudongzi_Complex ex:hasCname "鱼洞子杂岩" ;
+    ex:hasGeotime "Pt1，Ar" ;
+    ex:hasSerialNumber "280001" .
+
+ex:Yuefeijing_Fm ex:hasCname "约飞井组" ;
+    ex:hasGeotime "Ch(Pt2)" ;
+    ex:hasSerialNumber "224013" .
+
+ex:Yuemengou_Gr ex:hasCname "月门沟群" ;
+    ex:hasGeotime "C2,P1" ;
+    ex:hasSerialNumber "365002" .
+
+ex:Yueyahu_Fm ex:hasCname "月牙湖组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364035" .
+
+ex:Yufutun_Fm ex:hasCname "余富屯组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361102" .
+
+ex:Yujiabeigou_Fm ex:hasCname "于家北沟组" ;
+    ex:hasGeotime "P1,2" ;
+    ex:hasSerialNumber "373001" .
+
+ex:Yujialing_Fm ex:hasCname "于家岭(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210166" .
+
+ex:Yujiashan_Fm ex:hasCname "余家山组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210167" .
+
+ex:Yukengou_Fm ex:hasCname "育肯沟组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242042" .
+
+ex:Yuku_Fm ex:hasCname "鱼库组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230092" .
+
+ex:Yulinping_Fm ex:hasCname "榆林坪(岩)组" ;
+    ex:hasGeotime "Ar2" ;
+    ex:hasSerialNumber "120022" .
+
+ex:Yumen_Fm ex:hasCname "渔门组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220145" .
+
+ex:Yun_meng_shan_Fm ex:hasCname "云梦山组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221055" .
+
+ex:Yuncailing_Fm ex:hasCname "云彩岭组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230093" .
+
+ex:Yunchangli_Fm ex:hasCname "云场里组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230094" .
+
+ex:Yundoutan_Fm ex:hasCname "熨斗滩组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372094" .
+
+ex:Yungaishan_Mem ex:hasCname "云盖山段" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372093" .
+
+ex:Yunkai_Gr ex:hasCname "云开群" ;
+    ex:hasGeotime "Pt2-3" ;
+    ex:hasSerialNumber "260010" .
+
+ex:Yunshan_Fm ex:hasCname "云山组" ;
+    ex:hasGeotime "D2,C1" ;
+    ex:hasSerialNumber "357004" .
+
+ex:Yuntai_Fm ex:hasCname "云台(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220146" .
+
+ex:Yuquan_Fm ex:hasCname "玉泉组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371114" .
+
+ex:Yushasi_Fm ex:hasCname "玉沙斯组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231082" .
+
+ex:Yushulazi_Gr ex:hasCname "榆树砬子(岩)群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210169" .
+
+ex:Yushuwan_Fm ex:hasCname "榆树湾组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130070" .
+
+ex:Yutang_Fm ex:hasCname "雨塘组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241055" .
+
+ex:Yutangzhai_Fm ex:hasCname "鱼塘寨组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361103" .
+
+ex:Yuxi_Fm ex:hasCname "鱼西组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220144" .
+
+ex:Yuyuanxia_Fm ex:hasCname "余元下组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210168" .
+
+ex:Zaduo_Gr ex:hasCname "杂多群" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361104" .
+
+ex:Zahuaigou_Fm ex:hasCname "杂怀沟组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371115" .
+
+ex:Zanli_Fm ex:hasCname "咱里(岩)组" ;
+    ex:hasGeotime "Ar3-Pt1" ;
+    ex:hasSerialNumber "150015" .
+
+ex:Zegu_Fm ex:hasCname "则姑组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220147" .
+
+ex:Zenglongchang_Fm ex:hasCname "增隆昌组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221056" .
+
+ex:Zhadari_Mem ex:hasCname "扎达日段" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362095" .
+
+ex:Zhaertaishan_Gr ex:hasCname "渣尔泰山群" ;
+    ex:hasGeotime "Ch-Qn" ;
+    ex:hasSerialNumber "224014" .
+
+ex:Zhagu_Fm ex:hasCname "乍古组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220148" .
+
+ex:Zhaheba_Fm ex:hasCname "扎河坝组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372095" .
+
+ex:Zhaigen_Fm ex:hasCname "寨根(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220149" .
+
+ex:Zhamoketi_Fm ex:hasCname "扎摩克提组" ;
+    ex:hasGeotime "Z2" ;
+    ex:hasSerialNumber "242043" .
+
+ex:Zhangbaling_Gr ex:hasCname "张八岭(岩)群" ;
+    ex:hasGeotime "Pt1-3" ;
+    ex:hasSerialNumber "280003" .
+
+ex:Zhangcun_Fm ex:hasCname "章村组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220151" .
+
+ex:Zhangcun_Gr ex:hasCname "张村群" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220150" .
+
+ex:Zhangdong_Fm ex:hasCname "嶂岽组" ;
+    ex:hasGeotime "D3-C" ;
+    ex:hasSerialNumber "357006" .
+
+ex:Zhanggezhuang_Fm ex:hasCname "张格庄组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210170" .
+
+ex:Zhanggongshan_Fm ex:hasCname "鄣公山组" ;
+    ex:hasGeotime "Pt1-2" ;
+    ex:hasSerialNumber "250007" .
+
+ex:Zhangguangcailing_Gr ex:hasCname "张广才岭群" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230095" .
+
+ex:Zhangjiaba_Fm ex:hasCname "张家坝组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230096" .
+
+ex:Zhangjiagou_Fm ex:hasCname "张家沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210171" .
+
+ex:Zhangjiawan_Fm ex:hasCname "张家湾组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230097" .
+
+ex:Zhangqian_Fm ex:hasCname "樟前(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220152" .
+
+ex:Zhangqu_Fm ex:hasCname "张渠组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231083" .
+
+ex:Zhangshuwan_Fm ex:hasCname "樟树湾组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361106" .
+
+ex:Zhangxianbao_Fm ex:hasCname "张仙堡组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130073" .
+
+ex:Zhangyan_Fm ex:hasCname "张岩(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210172" .
+
+ex:Zhanjin_Fm ex:hasCname "展金组" ;
+    ex:hasGeotime "C2" ;
+    ex:hasSerialNumber "362096" .
+
+ex:Zhanpo_Fm ex:hasCname "展坡组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361105" .
+
+ex:Zhaobeishan_Fm ex:hasCname "照北山(岩)组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220153" .
+
+ex:Zhaobishan_Fm ex:hasCname "照壁山组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241056" .
+
+ex:Zhaochigou_Gr ex:hasCname "赵池沟群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210173" .
+
+ex:Zhaojiazhuang_Fm ex:hasCname "赵家庄组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221058" .
+
+ex:Zhaowei_Fm ex:hasCname "赵圩组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230098" .
+
+ex:Zharigen_Fm ex:hasCname "扎日根组" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365023" .
+
+ex:Zhasikansaihe_Fm ex:hasCname "扎斯勘赛河组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221057" .
+
+ex:Zhenggou_Fm ex:hasCname "正沟组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230099" .
+
+ex:Zhengmuguan_Fm ex:hasCname "正目观组" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240069" .
+
+ex:Zhengtangzi_Fm ex:hasCname "郑堂子(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249018" .
+
+ex:Zhengyuanling_Fm ex:hasCname "正园岭组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241057" .
+
+ex:Zhentou_Fm ex:hasCname "镇头(岩)组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231084" .
+
+ex:Zhenzhumen_Fm ex:hasCname "珍珠门(岩)组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210174" .
+
+ex:Zhenzishan_Fm ex:hasCname "珍子山组" ;
+    ex:hasGeotime "C3-P1" ;
+    ex:hasSerialNumber "365026" .
+
+ex:Zhesi_Fm ex:hasCname "哲斯组" ;
+    ex:hasGeotime "P1" ;
+    ex:hasSerialNumber "371116" .
+
+ex:Zhifu_Gr ex:hasCname "芝罘群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210175" .
+
+ex:Zhongpeng_Fm ex:hasCname "中棚组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357028" .
+
+ex:Zhongshigong_Fm ex:hasCname "忠什公组" ;
+    ex:hasGeotime "P2" ;
+    ex:hasSerialNumber "372096" .
+
+ex:Zhongtiao_Gr ex:hasCname "中条群" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210176" .
+
+ex:Zhongwunongshan_Gr ex:hasCname "中吾农山群" ;
+    ex:hasGeotime "C2-P1" ;
+    ex:hasSerialNumber "365024" .
+
+ex:Zhongxin_Fm ex:hasCname "忠信组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361107" .
+
+ex:Zhongyicun_Mem ex:hasCname "中谊村段" ;
+    ex:hasGeotime "Z-∈" ;
+    ex:hasSerialNumber "249003" .
+
+ex:Zhougang_Fm ex:hasCname "周岗组" ;
+    ex:hasGeotime "Z1" ;
+    ex:hasSerialNumber "241058" .
+
+ex:Zhoujiagou_Fm ex:hasCname "周家沟组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210177" .
+
+ex:Zhoujiaweizi_Sandstone_Mem ex:hasCname "周家崴子砂岩段" ;
+    ex:hasGeotime "Z" ;
+    ex:hasSerialNumber "240070" .
+
+ex:Zhouzha_Fm ex:hasCname "周渣组" ;
+    ex:hasGeotime "Pt2" ;
+    ex:hasSerialNumber "220154" .
+
+ex:Zhuangwang_Fm ex:hasCname "庄旺组" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130075" .
+
+ex:Zhuanmiao_Fm ex:hasCname "砖庙组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210179" .
+
+ex:Zhuanqiangwan_Fm ex:hasCname "砖墙湾组" ;
+    ex:hasGeotime "Pt3" ;
+    ex:hasSerialNumber "230100" .
+
+ex:Zhucangwu_Fm ex:hasCname "珠藏坞组" ;
+    ex:hasGeotime "D3-C1" ;
+    ex:hasSerialNumber "357029" .
+
+ex:Zhudundian_Fm ex:hasCname "朱敦店(岩)组" ;
+    ex:hasGeotime "Pt" ;
+    ex:hasSerialNumber "200008" .
+
+ex:Zhufoan_Fm ex:hasCname "诸佛庵(岩)组" ;
+    ex:hasGeotime "Z-D" ;
+    ex:hasSerialNumber "249019" .
+
+ex:Zhujia_Fm ex:hasCname "祝家组" ;
+    ex:hasGeotime "Qn" ;
+    ex:hasSerialNumber "231085" .
+
+ex:Zhujiakuang_Fm ex:hasCname "祝家夼组" ;
+    ex:hasGeotime "Pt1" ;
+    ex:hasSerialNumber "210178" .
+
+ex:Zhulongguan_Gr ex:hasCname "朱龙关群" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221059" .
+
+ex:Zhumahansayi_Fm ex:hasCname "珠玛汗萨依组" ;
+    ex:hasGeotime "Ch" ;
+    ex:hasSerialNumber "221060" .
+
+ex:Zhuodi_Fm ex:hasCname "卓地组" ;
+    ex:hasGeotime "AnZ" ;
+    ex:hasSerialNumber "239024" .
+
+ex:Zhushan_Gr\(Fm\) ex:hasCname "竹山(岩)群(组)" ;
+    ex:hasGeotime "Z2-S" ;
+    ex:hasSerialNumber "249012" .
+
+ex:Zhuzhangzi_Gr ex:hasCname "朱杖子群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130074" .
+
+ex:Zimenqiao_Fm ex:hasCname "梓门桥组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361108" .
+
+ex:Zishan_Fm ex:hasCname "梓山组" ;
+    ex:hasGeotime "C1-2" ;
+    ex:hasSerialNumber "364036" .
+
+ex:Zongchanggou_Fm ex:hasCname "总长沟组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361109" .
+
+ex:Zunhua_Gr ex:hasCname "遵化(岩)群" ;
+    ex:hasGeotime "Ar3" ;
+    ex:hasSerialNumber "130076" .
+
+ex:Zuoba_Fm ex:hasCname "左巴组" ;
+    ex:hasGeotime "C1" ;
+    ex:hasSerialNumber "361110" .
+
