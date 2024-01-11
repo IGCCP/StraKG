@@ -11,7 +11,7 @@ StraKG has a two-layer structure, representing ontologies and instances, respect
 ## Requirements
 Requirements: Python (3.6+), PyTorch (1.2.0+), Spacy (2.1.8+), py2neo (4.3.0)
 
-Pre-trained BERT models: HuggingFace.co (https://huggingface.co); https://github.com/plkmo/BERT-Relation-Extraction
+BERT models: HuggingFace.co (https://huggingface.co); https://github.com/plkmo/BERT-Relation-Extraction
 
 Visualization Platform: Neo4j (https://neo4j.com)
 
